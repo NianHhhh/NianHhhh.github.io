@@ -1,8 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Categories - 分类 - </title>
-    <link>/categories/</link>
+    <link>//localhost:1313/categories/</link>
     <description>Categories - 分类 | </description>
     <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>849694905@qq.com (李佳磊)</managingEditor>
-      <webMaster>849694905@qq.com (李佳磊)</webMaster><atom:link href="/categories/" rel="self" type="application/rss+xml" /></channel>
+      <webMaster>849694905@qq.com (李佳磊)</webMaster><lastBuildDate>Tue, 02 Jul 2024 10:59:33 &#43;0800</lastBuildDate><atom:link href="//localhost:1313/categories/" rel="self" type="application/rss+xml" /><item>
+  <title>Draft</title>
+  <link>//localhost:1313/categories/draft/</link>
+  <pubDate>Tue, 02 Jul 2024 10:59:33 &#43;0800</pubDate>
+  <author>李佳磊</author>
+  <guid>//localhost:1313/categories/draft/</guid>
+  <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
