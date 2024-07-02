@@ -4,7 +4,15 @@
     <link>/categories/</link>
     <description>Categories - 分类 | </description>
     <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>849694905@qq.com (李佳磊)</managingEditor>
-      <webMaster>849694905@qq.com (李佳磊)</webMaster><lastBuildDate>Tue, 02 Jul 2024 10:59:33 &#43;0800</lastBuildDate><atom:link href="/categories/" rel="self" type="application/rss+xml" /><item>
+      <webMaster>849694905@qq.com (李佳磊)</webMaster><lastBuildDate>Tue, 02 Jul 2024 20:45:39 &#43;0800</lastBuildDate><atom:link href="/categories/" rel="self" type="application/rss+xml" /><item>
+  <title>生信</title>
+  <link>/categories/%E7%94%9F%E4%BF%A1/</link>
+  <pubDate>Tue, 02 Jul 2024 20:45:39 &#43;0800</pubDate>
+  <author>李佳磊</author>
+  <guid>/categories/%E7%94%9F%E4%BF%A1/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>Git</title>
   <link>/categories/git/</link>
   <pubDate>Tue, 02 Jul 2024 10:59:33 &#43;0800</pubDate>

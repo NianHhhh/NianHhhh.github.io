@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>所有文章 - </title>
-    <link>/posts/</link>
-    <description>所有文章 | </description>
+    <title>生信 - 分类 - </title>
+    <link>/categories/%E7%94%9F%E4%BF%A1/</link>
+    <description>生信 - 分类 | </description>
     <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>849694905@qq.com (李佳磊)</managingEditor>
-      <webMaster>849694905@qq.com (李佳磊)</webMaster><lastBuildDate>Tue, 02 Jul 2024 20:45:39 &#43;0800</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
+      <webMaster>849694905@qq.com (李佳磊)</webMaster><lastBuildDate>Tue, 02 Jul 2024 20:45:39 &#43;0800</lastBuildDate><atom:link href="/categories/%E7%94%9F%E4%BF%A1/" rel="self" type="application/rss+xml" /><item>
   <title>富集分析</title>
   <link>/posts/a91e8d5/</link>
   <pubDate>Tue, 02 Jul 2024 20:45:39 &#43;0800</pubDate>
@@ -12,19 +12,6 @@
   <guid>/posts/a91e8d5/</guid>
   <description><![CDATA[富集分析是一种基因功能类别的分析方法，它是基于一个先验的知识图谱将输入内容进行聚类分析，得到聚类后结果。通过富集分析，可以把很多看着杂乱的差异基因总结出一个比较整体反应事件发生的概述性的句子。例如：TP53信号通路和胃癌的发生有关。富集分析的原理是对分布的检验，如果分布集中在某一个区域，则认为富集。
 https://www.wiz.cn/share-plus/note/4ae87450-199e-11ef-bf6a-e595d72f2f96/4ac99b00-d62e-42aa-9476-d4243873a2db]]></description>
-</item>
-<item>
-  <title>Git文件上传</title>
-  <link>/posts/b3906ec/</link>
-  <pubDate>Tue, 02 Jul 2024 10:59:33 &#43;0800</pubDate>
-  <author>李佳磊</author>
-  <guid>/posts/b3906ec/</guid>
-  <description><![CDATA[1.输入 git init ，初始化，在本地创建一个Git仓库1 输入 git init ，初始化，在本地创建一个Git仓
-2.输入 git add . 将项目添加到暂存区
-3.输入 git commit -m &ldquo;注释内容&rdquo; 将项目提交到Git仓库
-4.输入 git branch -M main ，上传到 main 分支
-5.输入 git remote add origin https://github.com/xxxxx/test.git，和远程仓库连接
-6.输入 git push -u origin main 将本地项目推送到远程仓库]]></description>
 </item>
 </channel>
 </rss>

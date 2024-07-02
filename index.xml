@@ -4,9 +4,18 @@
     <link>/</link>
     <description></description>
     <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>849694905@qq.com (李佳磊)</managingEditor>
-      <webMaster>849694905@qq.com (李佳磊)</webMaster><lastBuildDate>Tue, 02 Jul 2024 10:59:33 &#43;0800</lastBuildDate>
+      <webMaster>849694905@qq.com (李佳磊)</webMaster><lastBuildDate>Tue, 02 Jul 2024 20:45:39 &#43;0800</lastBuildDate>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+  <title>富集分析</title>
+  <link>/posts/a91e8d5/</link>
+  <pubDate>Tue, 02 Jul 2024 20:45:39 &#43;0800</pubDate>
+  <author>李佳磊</author>
+  <guid>/posts/a91e8d5/</guid>
+  <description><![CDATA[富集分析是一种基因功能类别的分析方法，它是基于一个先验的知识图谱将输入内容进行聚类分析，得到聚类后结果。通过富集分析，可以把很多看着杂乱的差异基因总结出一个比较整体反应事件发生的概述性的句子。例如：TP53信号通路和胃癌的发生有关。富集分析的原理是对分布的检验，如果分布集中在某一个区域，则认为富集。
+https://www.wiz.cn/share-plus/note/4ae87450-199e-11ef-bf6a-e595d72f2f96/4ac99b00-d62e-42aa-9476-d4243873a2db]]></description>
+</item>
+<item>
   <title>Git文件上传</title>
   <link>/posts/b3906ec/</link>
   <pubDate>Tue, 02 Jul 2024 10:59:33 &#43;0800</pubDate>
