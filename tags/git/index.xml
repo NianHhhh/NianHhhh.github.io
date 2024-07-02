@@ -10,7 +10,12 @@
   <pubDate>Tue, 02 Jul 2024 10:59:33 &#43;0800</pubDate>
   <author>李佳磊</author>
   <guid>//localhost:1313/posts/b3906ec/</guid>
-  <description><![CDATA[1.输入 git init ，初始化，在本地创建一个Git仓库1 输入 git init ，初始化，在本地创建一个Git仓 2.输入 git add . 将项目添加到暂存区 3.输入 git commit -m &ldquo;注释内容&rdquo; 将项目提交到Git仓库 4.输入 git branch -M main ，上传到 main 分支 5.输入 git remote add origin https://github.com/xxxxx/test.git，和远程仓库连接 6.输入 git push -u origin main 将本地项目推送到远程仓库]]></description>
+  <description><![CDATA[1.输入 git init ，初始化，在本地创建一个Git仓库1 输入 git init ，初始化，在本地创建一个Git仓
+2.输入 git add . 将项目添加到暂存区
+3.输入 git commit -m &ldquo;注释内容&rdquo; 将项目提交到Git仓库
+4.输入 git branch -M main ，上传到 main 分支
+5.输入 git remote add origin https://github.com/xxxxx/test.git，和远程仓库连接
+6.输入 git push -u origin main 将本地项目推送到远程仓库]]></description>
 </item>
 </channel>
 </rss>
