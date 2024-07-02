@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Tags - 标签 - </title>
+    <link>/tags/</link>
+    <description>Tags - 标签 | </description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>849694905@qq.com (李佳磊)</managingEditor>
+      <webMaster>849694905@qq.com (李佳磊)</webMaster><lastBuildDate>Mon, 01 Jul 2024 17:10:04 &#43;0800</lastBuildDate><atom:link href="/tags/" rel="self" type="application/rss+xml" /><item>
+  <title>Test</title>
+  <link>/tags/test/</link>
+  <pubDate>Mon, 01 Jul 2024 17:10:04 &#43;0800</pubDate>
+  <author>李佳磊</author>
+  <guid>/tags/test/</guid>
+  <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

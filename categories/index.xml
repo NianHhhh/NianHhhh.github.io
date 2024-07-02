@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Categories - 分类 - </title>
+    <link>/categories/</link>
+    <description>Categories - 分类 | </description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>849694905@qq.com (李佳磊)</managingEditor>
+      <webMaster>849694905@qq.com (李佳磊)</webMaster><atom:link href="/categories/" rel="self" type="application/rss+xml" /></channel>
+</rss>
