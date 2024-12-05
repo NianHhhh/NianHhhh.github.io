@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sheath blight on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/sheath-blight/</link>
+    <description>Recent content in sheath blight on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/sheath-blight/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZmFBL41;fbl41</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmfbl41fbl41/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmfbl41fbl41/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb193970 Gene Symbol: ZmFBL41 fbl41 Gene Name: F-box protein41 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

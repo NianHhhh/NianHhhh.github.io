@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>abc transporter on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/abc-transporter/</link>
+    <description>Recent content in abc transporter on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/abc-transporter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gl13</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/gl13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/gl13/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb122470 Gene Symbol: Gl13 Gene Name: glossy13 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPGP1;br2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmpgp1br2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpgp1br2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb038710 Gene Symbol: ZmPGP1 br2 Gene Name: brachytic2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

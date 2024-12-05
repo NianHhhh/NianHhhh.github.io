@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pollen germination on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/pollen-germination/</link>
+    <description>Recent content in pollen germination on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/pollen-germination/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spp1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/spp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/spp1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb351280 Gene Symbol: Spp1 Gene Name: sucrose-phosphatase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZM908</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb091250/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb091250/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb091250 Gene Symbol: ZM908|Zm908p11 Gene Name: Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCOI2a</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb011780/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb011780/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb011780 Gene Symbol: ZmCOI2a|coi4 Gene Name: coronatine insensitive4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCOI2b</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb397990/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb397990/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb397990 Gene Symbol: ZmCOI2b|coi6 Gene Name: coronatine insensitive6 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmLTP2.5;plt16</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmltp2.5plt16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmltp2.5plt16/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb272750 Gene Symbol: ZmLTP2.5 plt16 Gene Name: phospholipid transfer protein16 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

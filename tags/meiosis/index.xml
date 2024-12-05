@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>meiosis on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/meiosis/</link>
+    <description>Recent content in meiosis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/meiosis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACOZ1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/acoz1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/acoz1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb119810 Gene Symbol: ACOZ1 Gene Name: abnormal chromosome organization in zygotene1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>INVAN6;Mei025</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/invan6mei025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/invan6mei025/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb230860 Gene Symbol: INVAN6 Mei025 Gene Name: INVERTASE ALKALINE NEUTRAL 6 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCom1;com1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmcom1com1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcom1com1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb388310 Gene Symbol: ZmCom1 com1 Gene Name: completion of meiotic recombination1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Zmcyc1;CYCIb</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmcyc1cycibcyc1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcyc1cycibcyc1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb352410 Gene Symbol: Zmcyc1 CYCIb cyc1 Gene Name: cyclin1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMTOPVIB</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb227420/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb227420/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb227420 Gene Symbol: ZmMTOPVIB|mtopvib1 Gene Name: meiotic TopoVI B subunit1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPRD1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb389920/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb389920/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb389920 Gene Symbol: ZmPRD1 Gene Name: putative recombination initiation defect1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPRD3A;prd3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmprd3aprd3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmprd3aprd3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb404350 Gene Symbol: ZmPRD3A prd3 Gene Name: putative recombination initiation defect3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPRD3B;prd4</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmprd3bprd4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmprd3bprd4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb000540 Gene Symbol: ZmPRD3B prd4 Gene Name: putative recombination initiation defect4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSMC3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmsmc3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmsmc3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: ZmSMC3 Gene Name: Structural Maintenance of Chromosome3 Genome: Species: Zea mays Functional Descriptions: The Cohesin Complex Subunit ZmSMC3 Participates in Meiotic Centromere Pairing in Maize.</description>
+    </item>
+  </channel>
+</rss>

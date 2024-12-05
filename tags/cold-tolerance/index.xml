@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cold tolerance on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/cold-tolerance/</link>
+    <description>Recent content in cold tolerance on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/cold-tolerance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bZIP68;ABI5</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/bzip68abi5zmabf3zmbzip33/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/bzip68abi5zmabf3zmbzip33/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb176680 Gene Symbol: bZIP68 ABI5 ZmABF3 ZmbZIP33 Gene Name: bZIP-transcription factor 68 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmABCC;mrpa6</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmabccmrpa6zmabcb21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmabccmrpa6zmabcb21/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb341220 Gene Symbol: ZmABCC mrpa6 ZmABCB21 Gene Name: multidrug resistance associated protein6 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCPK1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb002180/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb002180/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb002180 Gene Symbol: ZmCPK1|ZmCPK7|ZmCDPK3|cdpk36 Gene Name: calcium dependent protein kinase36 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmG6PDH1;gpdh1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmg6pdh1gpdh1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmg6pdh1gpdh1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb079220 Gene Symbol: ZmG6PDH1 gpdh1 Gene Name: glucose-6-phosphate dehydrogenase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmHSP2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmhsp2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmhsp2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb002790 Gene Symbol: ZmHSP2 Gene Name: Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmHSP2;ZmGST2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmhsp2zmgst2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmhsp2zmgst2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb002790 Gene Symbol: ZmHSP2 ZmGST2 Gene Name: glutathione S-transferase12 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmICE1;ICE1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmice1ice1zmiceazmscrambhlh175/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmice1ice1zmiceazmscrambhlh175/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb142500 Gene Symbol: ZmICE1 ICE1 ZmICEa ZmSCRAM bhlh175 Gene Name: INDUCER OF CBF EXPRESSION 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMKK4</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb257340/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb257340/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb257340 Gene Symbol: ZmMKK4 Gene Name: MAP kinase kinase4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMPK17</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb209160/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb209160/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb209160 Gene Symbol: ZmMPK17 Gene Name: MAP kinase17 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPDIL2-2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmpdil2-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpdil2-2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb367110 Gene Symbol: ZmPDIL2-2 Gene Name: protein disulfide isomerase7 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmRAFS;ZmRS</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmrafszmrsrafs1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmrafszmrsrafs1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb122980 Gene Symbol: ZmRAFS ZmRS rafs1 Gene Name: raffinose synthase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

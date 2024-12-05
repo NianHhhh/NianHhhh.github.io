@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>detoxification on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/detoxification/</link>
+    <description>Recent content in detoxification on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/detoxification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GSTZ5;gst61</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/gstz5gst61/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/gstz5gst61/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb397280 Gene Symbol: GSTZ5 gst61 Gene Name: glutathione S-transferase61 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGSTU3;gst7</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmgstu3gst7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmgstu3gst7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb141080 Gene Symbol: ZmGSTU3 gst7 Gene Name: glutathione transferase7 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmHSP11;ZmGSTU1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmhsp11zmgstu1gstu25gst5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmhsp11zmgstu1gstu25gst5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb059930 Gene Symbol: ZmHSP11 ZmGSTU1 GSTU25 gst5 Gene Name: glutathione transferase5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMATE21;mate21</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmmate21mate21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmate21mate21/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb106010 Gene Symbol: ZmMATE21 mate21 Gene Name: multidrug and toxic compound extrusion21 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

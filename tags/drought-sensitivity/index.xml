@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>drought sensitivity on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/drought-sensitivity/</link>
+    <description>Recent content in drought sensitivity on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/drought-sensitivity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ARGOS8</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/argos8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/argos8/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb287000 Gene Symbol: ARGOS8 Gene Name: Zea mays ARGOS8 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmAL14</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb353930/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb353930/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb353930 Gene Symbol: ZmAL14|ZmAL9 Gene Name: Alfin-like-transcription factor 9 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCCT9;ZmCOL04</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmcct9zmcol04zmbbx5col11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcct9zmcol04zmbbx5col11/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb078490 Gene Symbol: ZmCCT9 ZmCOL04 ZmBBX5 col11 Gene Name: C2C2-CO-like-transcription factor 11 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmHsf08;ZmHSFA2-4</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmhsf08zmhsfa2-4hsftf1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmhsf08zmhsfa2-4hsftf1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb100770 Gene Symbol: ZmHsf08 ZmHSFA2-4 hsftf1 Gene Name: HSF-transcription factor 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmNAC19;ZmNAC55</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmnac19zmnac55zma006493nactf60/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnac19zmnac55zma006493nactf60/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb212120 Gene Symbol: ZmNAC19 ZmNAC55 Zma006493 nactf60 Gene Name: NAC-transcription factor 60 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSRL5</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmsrl5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmsrl5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb008140 Gene Symbol: ZmSRL5 Gene Name: semi-rolled leaf5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

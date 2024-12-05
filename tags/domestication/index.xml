@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>domestication on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/domestication/</link>
+    <description>Recent content in domestication on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/domestication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cg1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/cg1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/cg1/</guid>
+      <description>Gene Details: Gene ID:&#x9;GRMZM5G838324 Gene Symbol: Cg1 Gene Name: Corngrass1 Genome: B73_RefGen_v3 Species: Zea mays Functional Descriptions: Furthermore, a target of Cg1 is teosinte glume architecture1 (tga1)1, a gene known to have had a role in the domestication of maize from teosinte.</description>
+    </item>
+    <item>
+      <title>FHT1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/fht1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/fht1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb067380 Gene Symbol: FHT1 Gene Name: flavanone 3-hydroxylase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>FHT1;fl3h</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/fht1fl3htidp2907/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/fht1fl3htidp2907/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb067380 Gene Symbol: FHT1 fl3h TIDP2907 Gene Name: flavanone 3-hydroxylase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Gt1;ZmHB68</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/gt1zmhb68zmhdz-15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/gt1zmhb68zmhdz-15/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb007950 Gene Symbol: Gt1 ZmHB68 Zmhdz-15 Gene Name: grassy tillers1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Pr1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/pr1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/pr1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb245960 Gene Symbol: Pr1 Gene Name: red aleurone1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>TB1;be1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/tb1be1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/tb1be1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb054440 Gene Symbol: TB1 be1 Gene Name: teosinte branched1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>TGA1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/tga1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/tga1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb175150 Gene Symbol: TGA1 Gene Name: teosinte glume architecture1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmBBX3;ZmCCT8</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmbbx3zmcct8zmcol01col2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmbbx3zmcct8zmcol01col2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb054810 Gene Symbol: ZmBBX3 ZmCCT8 ZmCOL01 col2 Gene Name: C2C2-CO-like-transcription factor 2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCCD7</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb074640/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb074640/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb074640 Gene Symbol: ZmCCD7 Gene Name: carotenoid cleavage dioxygenase7 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCCT9;cct2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmcct9cct2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcct9cct2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb391230 Gene Symbol: ZmCCT9 cct2 Gene Name: CO CO-LIKE TIMING OF CAB1 protein domain2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCOL12;ZmCOL15</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmcol12zmcol15zmcct31zmbbx16col18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcol12zmcol15zmcct31zmbbx16col18/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb233790 Gene Symbol: ZmCOL12 ZmCOL15 ZmCCT31 ZmBBX16 col18 Gene Name: C2C2-CO-like-transcription factor 18 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmHKT2;nc2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmhkt2nc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmhkt2nc2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb227000 Gene Symbol: ZmHKT2 nc2 Gene Name: Na+ content2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmLFY1;zfl2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmlfy1zfl2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmlfy1zfl2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb071990 Gene Symbol: ZmLFY1 zfl2 Gene Name: Zea floricaula leafy2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmLFY2;zfl1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmlfy2zfl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmlfy2zfl1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb430240 Gene Symbol: ZmLFY2 zfl1 Gene Name: zea floricaula/leafy1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMYBR38;mybr28</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmmybr38mybr28/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmybr38mybr28/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb243450 Gene Symbol: ZmMYBR38 mybr28 Gene Name: MYB-related-transcription factor 28 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPGP1;br2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmpgp1br2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpgp1br2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb038710 Gene Symbol: ZmPGP1 br2 Gene Name: brachytic2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPHO2;PHO2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmpho2pho2uce10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpho2pho2uce10/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb295490 Gene Symbol: ZmPHO2 PHO2 uce10 Gene Name: Phosphate 2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSRO1d;sro6</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmsro1dsro6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmsro1dsro6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb399340 Gene Symbol: ZmSRO1d sro6 Gene Name: similar to RCD one6 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmVPS29;vps29</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmvps29vps29/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmvps29vps29/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb203950 Gene Symbol: ZmVPS29 vps29 Gene Name: vacuolar protein sorting29 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

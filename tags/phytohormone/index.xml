@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>phytohormone on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/phytohormone/</link>
+    <description>Recent content in phytohormone on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/phytohormone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZmAbh4</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb314900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb314900/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb314900 Gene Symbol: ZmAbh4 Gene Name: abscisic acid 8&amp;rsquo;-hydroxylase4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCGT1_1;ugt9250</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmcgt1_1ugt9250/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcgt1_1ugt9250/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb304010 Gene Symbol: ZmCGT1_1 ugt9250 Gene Name: uridinediphosphate-dependent glycosyltransferase9250 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCGT2_3;czog2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmcgt2_3czog2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcgt2_3czog2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb367250 Gene Symbol: ZmCGT2_3 czog2 Gene Name: cis-zeatin O-glucosyltransferase2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCYP707A1;ABA1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmcyp707a1aba1abh1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcyp707a1aba1abh1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb251960 Gene Symbol: ZmCYP707A1 ABA1 abh1 Gene Name: abscisic acid 8&amp;rsquo;-hydroxylase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmERF1;RAP2-2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmerf1rap2-2ereb202/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmerf1rap2-2ereb202/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb099980 Gene Symbol: ZmERF1 RAP2-2 ereb202 Gene Name: AP2-EREBP-transcription factor 202 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGns</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb141500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb141500/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb141500 Gene Symbol: ZmGns Gene Name: glucan endo-1,3-beta-glucosidase homolog2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmHB133;RLD1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmhb133rld1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmhb133rld1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb404260 Gene Symbol: ZmHB133 RLD1 Gene Name: rolled leaf1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmHB58;RLD2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmhb58rld2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmhb58rld2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb000690 Gene Symbol: ZmHB58 RLD2 Gene Name: rolled leaf2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmRPABC5b;Dek701</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmrpabc5bdek701/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmrpabc5bdek701/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb366170 Gene Symbol: ZmRPABC5b Dek701 Gene Name: defective kernel701 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSERK2;ZmSERK1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmserk2zmserk1serk1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmserk2zmserk1serk1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb423960 Gene Symbol: ZmSERK2 ZmSERK1 serk1 Gene Name: somatic embryogenesis receptor-like kinase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmWRKY79;wrky79</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmwrky79wrky79wrky53/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmwrky79wrky79wrky53/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb310270 Gene Symbol: ZmWRKY79 wrky79 WRKY53 Gene Name: WRKY-transcription factor 79 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

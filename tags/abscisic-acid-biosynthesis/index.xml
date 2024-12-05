@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>abscisic acid biosynthesis on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/abscisic-acid-biosynthesis/</link>
+    <description>Recent content in abscisic acid biosynthesis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/abscisic-acid-biosynthesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZmABA2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb212270/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb212270/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb212270 Gene Symbol: ZmABA2|sca1 Gene Name: short chain alcohol dehydrogenase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmFDL1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb328280/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb328280/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb328280 Gene Symbol: ZmFDL1|ZmMYB94 Gene Name: fused leaves1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmLBD5</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmlbd5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmlbd5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb019930 Gene Symbol: ZmLBD5 Gene Name: LBD-transcription factor 5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

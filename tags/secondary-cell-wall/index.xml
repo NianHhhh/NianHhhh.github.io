@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>secondary cell wall on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/secondary-cell-wall/</link>
+    <description>Recent content in secondary cell wall on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/secondary-cell-wall/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bk2-ref</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb393080/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb393080/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb393080 Gene Symbol: bk2-BK2 Gene Name: Brittle stalk 2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>NUT1;NAC46</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/nut1nac46nac91nactf91/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/nut1nac46nac91nactf91/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001d045601 Gene Symbol: NUT1 NAC46 nac91 nactf91 Gene Name: Necrotic upper tips1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>WI5;Zmxyl</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/wi5zmxyl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/wi5zmxyl/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb217500 Gene Symbol: WI5 Zmxyl Gene Name: wilted5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmDRR206</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb118270/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb118270/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb118270 Gene Symbol: ZmDRR206 Gene Name: DISEASE RESISTANCE RESPONSE206 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmIQD27;ZmOrphan275</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmiqd27zmorphan275iqd28/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmiqd27zmorphan275iqd28/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb365750 Gene Symbol: ZmIQD27 ZmOrphan275 iqd28 Gene Name: IQ-domain 28 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmIRX15A</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmirx15a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmirx15a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb225830 Gene Symbol: ZmIRX15A Gene Name: Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmLAC9;ZmAOA</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmlac9zmaoazmlac11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmlac9zmaoazmlac11/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb149240 Gene Symbol: ZmLAC9 ZmAOA ZmLAC11 Gene Name: ZmLACCASE9 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPAO</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmpao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpao/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: ZmPAO Gene Name: polyamine oxidase Genome: Species: Zea mays Functional Descriptions: Maize (Zea mays) PAO (ZmPAO) is a developmentally regulated flavoprotein abundant in primary and secondary cell walls of several tissues.</description>
+    </item>
+  </channel>
+</rss>

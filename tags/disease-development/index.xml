@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>disease development on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/disease-development/</link>
+    <description>Recent content in disease development on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/disease-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZmDRR206</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb118270/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb118270/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb118270 Gene Symbol: ZmDRR206 Gene Name: DISEASE RESISTANCE RESPONSE206 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmREM6.3;remo1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmrem6.3remo1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmrem6.3remo1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb008420 Gene Symbol: ZmREM6.3 remo1 Gene Name: remorin1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

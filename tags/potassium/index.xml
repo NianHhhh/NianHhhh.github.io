@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>potassium on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/potassium/</link>
+    <description>Recent content in potassium on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/potassium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HAK16</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/hak16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/hak16/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb048950 Gene Symbol: HAK16 Gene Name: potassium high-affinity transporter16 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>HAK17</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/hak17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/hak17/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb314520 Gene Symbol: HAK17 Gene Name: potassium high-affinity transporter17 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>HAK21</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/hak21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/hak21/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb048960 Gene Symbol: HAK21 Gene Name: potassium high-affinity transporter21 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCBL1;cbl1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmcbl1cbl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcbl1cbl1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb023890 Gene Symbol: ZmCBL1 cbl1 Gene Name: calcineurin B-like1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCBL9;cbl9</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmcbl9cbl9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcbl9cbl9/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb390900 Gene Symbol: ZmCBL9 cbl9 Gene Name: calcineurin B-like9 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmHAK1;umc2250</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmhak1umc2250/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmhak1umc2250/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb084630 Gene Symbol: ZmHAK1 umc2250 Gene Name: potassium high-affinity transporter1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

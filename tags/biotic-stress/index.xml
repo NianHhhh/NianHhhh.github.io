@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>biotic stress on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/biotic-stress/</link>
+    <description>Recent content in biotic stress on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/biotic-stress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZmBBX3;ZmCCT8</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmbbx3zmcct8zmcol01col2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmbbx3zmcct8zmcol01col2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb054810 Gene Symbol: ZmBBX3 ZmCCT8 ZmCOL01 col2 Gene Name: C2C2-CO-like-transcription factor 2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCER1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb247450/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb247450/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb247450 Gene Symbol: ZmCER1 Gene Name: ECERIFERUM 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmDRIK1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb013610/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb013610/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb013610 Gene Symbol: ZmDRIK1 Gene Name: Restorer-of-fertility 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGF14-6</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb080570/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb080570/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb080570 Gene Symbol: ZmGF14-6|ZmGRF24 Gene Name: general regulatory factor1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmLTPg10;plt39</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmltpg10plt39/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmltpg10plt39/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb080620 Gene Symbol: ZmLTPg10 plt39 Gene Name: phospholipid transfer protein39 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmXLG1;xlg1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmxlg1xlg1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmxlg1xlg1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb030570 Gene Symbol: ZmXLG1 xlg1 Gene Name: extra-large guanine nucleotide-binding protein1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stomatal density on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/stomatal-density/</link>
+    <description>Recent content in stomatal density on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/stomatal-density/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZmAsft2;asft2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmasft2asft2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmasft2asft2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb146710 Gene Symbol: ZmAsft2 asft2 Gene Name: aliphatic suberin feruloyl transferase2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmIRX15A</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmirx15a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmirx15a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb225830 Gene Symbol: ZmIRX15A Gene Name: Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmNAC49;ZmNAC1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmnac49zmnac1zmnac010312nactf49/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnac49zmnac1zmnac010312nactf49/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb062170 Gene Symbol: ZmNAC49 ZmNAC1 ZmNAC010312 nactf49 Gene Name: NAC-transcription factor 49 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

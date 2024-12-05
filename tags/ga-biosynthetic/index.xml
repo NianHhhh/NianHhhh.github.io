@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ga biosynthetic on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/ga-biosynthetic/</link>
+    <description>Recent content in ga biosynthetic on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/ga-biosynthetic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AN1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/an1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/an1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb048020 Gene Symbol: AN1 Gene Name: anther ear1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>D5;ZmTPS7</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/d5zmtps7zmtps44/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/d5zmtps7zmtps44/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb071070 Gene Symbol: D5 ZmTPS7 ZmTPS44 Gene Name: dwarf plant 5|terpene synthase 7 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGA20ox3;ZmGA20ox2.1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmga20ox3zmga20ox2.1ga20ox3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmga20ox3zmga20ox2.1ga20ox3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb145600 Gene Symbol: ZmGA20ox3 ZmGA20ox2.1 ga20ox3 Gene Name: gibberellin 20-oxidase3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGA3ox5;ZmGA3ox5</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmga3ox5zmga3ox5zmga20ox2.2ga20ox5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmga3ox5zmga3ox5zmga20ox2.2ga20ox5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb366090 Gene Symbol: ZmGA3ox5 ZmGA3ox5 ZmGA20ox2.2 ga20ox5 Gene Name: gibberellin 20-oxidase5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

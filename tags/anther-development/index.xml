@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>anther development on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/anther-development/</link>
+    <description>Recent content in anther development on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/anther-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AN1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/an1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/an1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb048020 Gene Symbol: AN1 Gene Name: anther ear1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>D8;ZmGRAS8</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/d8zmgras8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/d8zmgras8/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb054480 Gene Symbol: D8 ZmGRAS8 Gene Name: dwarf plant8 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>D9;ZmGRAS44</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/d9zmgras44zmgai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/d9zmgras44zmgai/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb216610 Gene Symbol: D9 ZmGRAS44 ZmGAI Gene Name: dwarf plant9 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>MS2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/ms2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/ms2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb386540 Gene Symbol: MS2 Gene Name: male sterile2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Ms23;ms35</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/ms23ms35bhlh16zmrf4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/ms23ms35bhlh16zmrf4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb332170 Gene Symbol: Ms23 ms35 bhlh16 ZmRf4 Gene Name: male sterile23 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Ms32;bhlh66</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/ms32bhlh66/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/ms32bhlh66/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb106620 Gene Symbol: Ms32 bhlh66 Gene Name: male sterile32 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>MS8</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/ms8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/ms8/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb366340 Gene Symbol: MS8 Gene Name: male sterile8 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmbHLH122;bHLH122</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/bhlh122zmbhlh122/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/bhlh122zmbhlh122/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb251650 Gene Symbol: ZmbHLH122 bHLH122 Gene Name: bHLH-transcription factor 122 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCOI2a</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb011780/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb011780/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb011780 Gene Symbol: ZmCOI2a|coi4 Gene Name: coronatine insensitive4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCOI2b</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb397990/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb397990/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb397990 Gene Symbol: ZmCOI2b|coi6 Gene Name: coronatine insensitive6 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmLBD27</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb219100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb219100/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb219100 Gene Symbol: ZmLBD27 Gene Name: LBD-transcription factor 27 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmLTP2.5;plt16</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmltp2.5plt16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmltp2.5plt16/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb272750 Gene Symbol: ZmLTP2.5 plt16 Gene Name: phospholipid transfer protein16 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMs25;ZmFAR1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmms25zmfar1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmms25zmfar1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001d048337 Gene Symbol: ZmMs25 ZmFAR1 Gene Name: male sterile25 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMs30</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb195900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb195900/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb195900 Gene Symbol: ZmMs30 Gene Name: male sterile30 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMs33</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmms33/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmms33/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001d044612 Gene Symbol: ZmMs33 Gene Name: Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMs33;ZmGPAT6</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmms33zmgpat6zmgpat4group-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmms33zmgpat6zmgpat4group-7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb115970 Gene Symbol: ZmMs33 ZmGPAT6 ZmGPAT4 Group 7 Gene Name: male sterile33 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPME7;ZmC5</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmpme7zmc5pme1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpme7zmc5pme1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb424030 Gene Symbol: ZmPME7 ZmC5 pme1 Gene Name: pectin methylesterase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmRBOH5;rboh5</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmrboh5rboh5zmrbohh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmrboh5rboh5zmrbohh/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb341910 Gene Symbol: ZmRBOH5 rboh5 ZmRbohH Gene Name: respiratory burst oxidase5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmTGA10</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb316720/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb316720/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb316720 Gene Symbol: ZmTGA10|Zmbzip7 Gene Name: bZIP-transcription factor 7 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

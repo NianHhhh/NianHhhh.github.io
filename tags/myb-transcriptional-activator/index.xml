@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>myb transcriptional activator on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/myb-transcriptional-activator/</link>
+    <description>Recent content in myb transcriptional activator on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/myb-transcriptional-activator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZmMYBC1;c1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmmybc1c1myb1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmybc1c1myb1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb373660 Gene Symbol: ZmMYBC1 c1 myb1 Gene Name: colored aleurone1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

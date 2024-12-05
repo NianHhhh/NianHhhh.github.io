@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>floral meristem determinacy on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/floral-meristem-determinacy/</link>
+    <description>Recent content in floral meristem determinacy on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/floral-meristem-determinacy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drl1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/drl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/drl1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb008680 Gene Symbol: Drl1 Gene Name: drooping leaf1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Drl2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/drl2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/drl2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb400130 Gene Symbol: Drl2 Gene Name: drooping leaf2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>GT1;Zmhdz-15</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/gt1zmhdz-15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/gt1zmhdz-15/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb007950 Gene Symbol: GT1 Zmhdz-15 Gene Name: GRASSY TILLERS1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Ifa1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/ifa1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/ifa1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb008680 Gene Symbol: Ifa1 Gene Name: indeterminate floral apex1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>RA3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/ra3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/ra3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb327910 Gene Symbol: RA3 Gene Name: RAMOSA3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

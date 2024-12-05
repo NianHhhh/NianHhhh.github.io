@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dehydrogenase on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/dehydrogenase/</link>
+    <description>Recent content in dehydrogenase on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/dehydrogenase/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dek43</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/dek43/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/dek43/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb317730 Gene Symbol: Dek43 Gene Name: DEFECTIVE KERNEL 43 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>PGD3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb169570/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb169570/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb169570 Gene Symbol: PGD3 Gene Name: 6-phosphogluconate dehydrogenase Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Rf2e;aldh17</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/rf2ealdh17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/rf2ealdh17/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb248870 Gene Symbol: Rf2e aldh17 Gene Name: aldehyde dehydrogenase17 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmC2H2-149</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb429620/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb429620/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb429620 Gene Symbol: ZmC2H2-149 Gene Name: C2H2-type zinc finger family protein 149 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCKX10</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmckx10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmckx10/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb040280 Gene Symbol: ZmCKX10 Gene Name: cytokinin oxidase10 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmG6PDH1;gpdh1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmg6pdh1gpdh1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmg6pdh1gpdh1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb079220 Gene Symbol: ZmG6PDH1 gpdh1 Gene Name: glucose-6-phosphate dehydrogenase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmHSD1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb112950/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb112950/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb112950 Gene Symbol: ZmHSD1 Gene Name: hydroxysteroid dehydrogenase 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmLEA3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmlea3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmlea3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb022900 Gene Symbol: ZmLEA3 Gene Name: Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZMPP2;ZmPP2C01</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmpp2zmpp2c01zmorphan14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpp2zmpp2c01zmorphan14/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb003000 Gene Symbol: ZMPP2 ZmPP2C01 ZmOrphan14 Gene Name: protein phosphatase homolog101 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

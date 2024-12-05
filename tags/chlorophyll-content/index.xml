@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chlorophyll content on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/chlorophyll-content/</link>
+    <description>Recent content in chlorophyll content on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/chlorophyll-content/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZmERF21;C48</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmerf21c48ereb240/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmerf21c48ereb240/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb423100 Gene Symbol: ZmERF21 C48 ereb240 Gene Name: AP2-EREBP-transcription factor 240 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmNF-YB2;ZmNF-YB5</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmnf-yb2zmnf-yb5cadtfr11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnf-yb2zmnf-yb5cadtfr11/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb042490 Gene Symbol: ZmNF-YB2 ZmNF-YB5 cadtfr11 Gene Name: CCAAT-DR1-transcription factor 11 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPORB2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb220940/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb220940/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb220940 Gene Symbol: ZmPORB2 Gene Name: protochlorophyllide reductase3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPP2C26;ZmPP8</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmpp2c26zmpp8zmorphan42zmpp2c02zmpp2c06prh25/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpp2c26zmpp8zmorphan42zmpp2c02zmpp2c06prh25/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb013450 Gene Symbol: ZmPP2C26 ZmPP8 ZmOrphan42 ZmPP2C02 ZmPP2C06 prh25 Gene Name: protein phosphatase homolog25 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmTPI4</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb124410/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb124410/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb124410 Gene Symbol: ZmTPI4 Gene Name: Triosephosphate isomerase 4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

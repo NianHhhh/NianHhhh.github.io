@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>protoplasts on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/protoplasts/</link>
+    <description>Recent content in protoplasts on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/protoplasts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BRD1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/brd1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/brd1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb050010 Gene Symbol: BRD1 Gene Name: brassinosteroid-deficient dwarf1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmBT2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmbt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmbt2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb425100 Gene Symbol: ZmBT2 Gene Name: Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGH3.2;ZmGH3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmgh3.2zmgh3gh3aas2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmgh3.2zmgh3gh3aas2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb108330 Gene Symbol: ZmGH3.2 ZmGH3 GH3 aas2 Gene Name: auxin amido synthetase2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGOLS2;gols2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmgols2gols2gols3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmgols2gols2gols3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb395600 Gene Symbol: ZmGOLS2 gols2 gols3 Gene Name: GALACTINOL SYNTHASE2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmHSBP2;hsbp2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmhsbp2hsbp2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmhsbp2hsbp2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb380410 Gene Symbol: ZmHSBP2 hsbp2 Gene Name: HEAT SHOCK BINDING PROTEIN 2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmHSFA2;ZmHsf04</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmhsfa2zmhsf04hsf24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmhsfa2zmhsf04hsf24/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb047760 Gene Symbol: ZmHSFA2 ZmHsf04 hsf24 Gene Name: HEAT SHOCK FACTOR A2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmNAC48</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmnac48/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnac48/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb036920 Gene Symbol: ZmNAC48 Gene Name: NAC-transcription factor 48 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPDRP1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb107520/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb107520/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb107520 Gene Symbol: ZmPDRP1 Gene Name: PDK regulatory protein1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPIMT2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmpimt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpimt2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb079410 Gene Symbol: ZmPIMT2 Gene Name: protein-L-isoaspartate methyltransferase2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmWRKY76;wrky53</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmwrky76wrky53/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmwrky76wrky53/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb312870 Gene Symbol: ZmWRKY76 wrky53 Gene Name: WRKY-transcription factor 53 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmWUS1-B</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmwus1-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmwus1-b/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: ZmWUS1-B Gene Name: WUS1 protein Genome: Species: Zea mays Functional Descriptions: ZmWUS1-B is controlled by a spontaneously generated novel promoter region that dramatically increases its expression and alters patterning and development of young ears.</description>
+    </item>
+  </channel>
+</rss>

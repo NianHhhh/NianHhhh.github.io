@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>internode elongation on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/internode-elongation/</link>
+    <description>Recent content in internode elongation on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/internode-elongation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bv1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/bv1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/bv1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb241060 Gene Symbol: Bv1 Gene Name: brevis plant1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Dwil1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/dwil1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/dwil1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb287100 Gene Symbol: Dwil1 Gene Name: dwarf &amp;amp; irregular leaf1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmABCB1|Br2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/br2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/br2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb038710 Gene Symbol: Br2 Gene Name: brachytic2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmABI7;abi7</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmabi7abi7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmabi7abi7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb006360 Gene Symbol: ZmABI7 abi7 Gene Name: ABI3-VP1-transcription factor 7 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmBELL10;hb38</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmbell10hb38/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmbell10hb38/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb268690 Gene Symbol: ZmBELL10 hb38 Gene Name: Homeobox-transcription factor 38 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCKX10</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmckx10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmckx10/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb040280 Gene Symbol: ZmCKX10 Gene Name: cytokinin oxidase10 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMYB117;ZmMYB78</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmmyb117zmmyb78zmbr1br1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmyb117zmmyb78zmbr1br1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb041450 Gene Symbol: ZmMYB117 ZmMYB78 ZmBr1 br1 Gene Name: brachytic1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmTE1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmte1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmte1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb144140 Gene Symbol: ZmTE1 Gene Name: TERMINAL EAR 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

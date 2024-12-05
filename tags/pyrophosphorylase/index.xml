@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pyrophosphorylase on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/pyrophosphorylase/</link>
+    <description>Recent content in pyrophosphorylase on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/pyrophosphorylase/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bt2;agpsen</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/bt2agpsenglt1adp3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/bt2agpsenglt1adp3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb176800 Gene Symbol: Bt2 agpsen glt1 adp3 Gene Name: brittle endosperm2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmAGPL1;sh2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmagpl1sh2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmagpl1sh2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb159060 Gene Symbol: ZmAGPL1 sh2 Gene Name: shrunken2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSUS1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb392880/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb392880/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb392880 Gene Symbol: ZmSUS1 Gene Name: sucrose synthase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cytosol on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/cytosol/</link>
+    <description>Recent content in cytosol on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/cytosol/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SMK2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/smk2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/smk2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb208970 Gene Symbol: SMK2 Gene Name: small kernel2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCDPK7;ZmCPK29</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmcdpk7zmcpk29cdpk20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcdpk7zmcpk29cdpk20/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb351760 Gene Symbol: ZmCDPK7 ZmCPK29 cdpk20 Gene Name: calcium dependent protein kinase20 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGS1-5;ZmGLN1.5</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmgs1-5zmgln1.5gln3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmgs1-5zmgln1.5gln3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb399860 Gene Symbol: ZmGS1-5 ZmGLN1.5 gln3 Gene Name: glutamine synthetase3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmRR4;gpm84</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmrr4gpm84crr4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmrr4gpm84crr4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb362820 Gene Symbol: ZmRR4 gpm84 crr4 Gene Name: cytokinin response regulator4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmTFCB;tfcb1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmtfcbtfcb1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmtfcbtfcb1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb076570 Gene Symbol: ZmTFCB tfcb1 Gene Name: tubulin-folding cofactor B1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

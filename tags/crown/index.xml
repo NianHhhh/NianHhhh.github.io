@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>crown on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/crown/</link>
+    <description>Recent content in crown on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/crown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hsftf20</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/hsftf20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/hsftf20/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb428800 Gene Symbol: Hsftf20 Gene Name: HSF-transcription factor 20 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>LBL1;rgd1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/lbl1rgd1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/lbl1rgd1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb264310 Gene Symbol: LBL1 rgd1 Gene Name: ragged seedling1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>LRP1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/lrp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/lrp1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb362740 Gene Symbol: LRP1 Gene Name: LATERAL ROOT PRIMORDIA 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Rtcs</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/rtcs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/rtcs/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb003920 Gene Symbol: Rtcs Gene Name: rootless concerning crown and seminal roots1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCCD1;Wc1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmccd1wc1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmccd1wc1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb402840 Gene Symbol: ZmCCD1 Wc1 Gene Name: white cap1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmIMB4;impb9</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmimb4impb9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmimb4impb9/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb011450 Gene Symbol: ZmIMB4 impb9 Gene Name: importin beta9 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

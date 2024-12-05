@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>root elongation on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/root-elongation/</link>
+    <description>Recent content in root elongation on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/root-elongation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pin2;ZmPIN1b</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/pin2zmpin1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/pin2zmpin1b/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb254390 Gene Symbol: Pin2 ZmPIN1b Gene Name: PIN-formed protein2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>RTH1;ZmRTH1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/rth1zmrth1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/rth1zmrth1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb051220 Gene Symbol: RTH1 ZmRTH1 Gene Name: roothairless 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>RTH5;ZmRBOHE</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/rth5zmrbohe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/rth5zmrbohe/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb148780 Gene Symbol: RTH5 ZmRBOHE Gene Name: roothairless 5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCEP1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmcep1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcep1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb038200 Gene Symbol: ZmCEP1 Gene Name: C-terminally encoded peptide1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmLRL5;lrl5</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmlrl5lrl5bhlh10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmlrl5lrl5bhlh10/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb374700 Gene Symbol: ZmLRL5 lrl5 bhlh10 Gene Name: bHLH-transcription factor 10 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMADS60</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmmads60/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmads60/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb372610 Gene Symbol: ZmMADS60 Gene Name: MADS-transcription factor 60 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmNRT1.1A;ZmNPF6.4</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmnrt1.1azmnpf6.4npf1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnrt1.1azmnpf6.4npf1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb416090 Gene Symbol: ZmNRT1.1A ZmNPF6.4 npf1 Gene Name: nitrate transporter/peptide transporter family1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmTIP1;tipd1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmtip1tipd1zmpat34/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmtip1tipd1zmpat34/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb386990 Gene Symbol: ZmTIP1 tipd1 ZmPAT34 Gene Name: tip growth defective1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmXTH1;XTHB10</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmxth1xthb10xth1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmxth1xthb10xth1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb414390 Gene Symbol: ZmXTH1 XTHB10 xth1 Gene Name: xyloglucan endo-transglycosylase/hydrolase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>low-temperature on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/low-temperature/</link>
+    <description>Recent content in low-temperature on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/low-temperature/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZmbZIP113;bzip113</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmbzip113bzip113/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmbzip113bzip113/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb431760 Gene Symbol: ZmbZIP113 bzip113 Gene Name: bZIP-transcription factor 113 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmC2H2-81;cchh133</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmc2h2-81cchh133/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmc2h2-81cchh133/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb243510 Gene Symbol: ZmC2H2-81 cchh133 Gene Name: Cys2His2 Zinc Finger133 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmLEA3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmlea3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmlea3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb022900 Gene Symbol: ZmLEA3 Gene Name: Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmTSAH1;ZmIGL</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmtsah1zmigl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmtsah1zmigl/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb060890 Gene Symbol: ZmTSAH1 ZmIGL Gene Name: tryptophan synthase A homolog1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

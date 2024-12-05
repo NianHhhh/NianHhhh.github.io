@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pollen formation on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/pollen-formation/</link>
+    <description>Recent content in pollen formation on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/pollen-formation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bk2-ref</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb393080/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb393080/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb393080 Gene Symbol: bk2-BK2 Gene Name: Brittle stalk 2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>IPE2;ms5</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/ipe2ms5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/ipe2ms5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb237060 Gene Symbol: IPE2 ms5 Gene Name: IRREGULAR POLLEN EXINE2;male sterile5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMs13;ZmABCG2a</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmms13zmabcg2ams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmms13zmabcg2ams/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb221130 Gene Symbol: ZmMs13 ZmABCG2a ms Gene Name: male sterile13 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMs30</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb195900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb195900/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb195900 Gene Symbol: ZmMs30 Gene Name: male sterile30 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMYB84</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmmyb84/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmyb84/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb424660 Gene Symbol: ZmMYB84 Gene Name: MYB-transcription factor 84 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPHD11</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb216130/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb216130/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb216130 Gene Symbol: ZmPHD11 Gene Name: PHD-transcription factor 11 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPKSB;chls1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmpksbchls1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpksbchls1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb305800 Gene Symbol: ZmPKSB chls1 Gene Name: chalcone synthase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmTKPR1-1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb035410/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb035410/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb035410 Gene Symbol: ZmTKPR1-1 Gene Name: dihydroflavonoid reductase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmTKPR1-2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb317040/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb317040/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb317040 Gene Symbol: ZmTKPR1-2 Gene Name: dihydroflavonoid reductase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ga biosynthesis on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/ga-biosynthesis/</link>
+    <description>Recent content in ga biosynthesis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/ga-biosynthesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZmGA20ox3;ZmGA20ox2.1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmga20ox3zmga20ox2.1ga20ox3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmga20ox3zmga20ox2.1ga20ox3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb145600 Gene Symbol: ZmGA20ox3 ZmGA20ox2.1 ga20ox3 Gene Name: gibberellin 20-oxidase3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGA3ox5;ZmGA3ox5</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmga3ox5zmga3ox5zmga20ox2.2ga20ox5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmga3ox5zmga3ox5zmga20ox2.2ga20ox5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb366090 Gene Symbol: ZmGA3ox5 ZmGA3ox5 ZmGA20ox2.2 ga20ox5 Gene Name: gibberellin 20-oxidase5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGAD5;d3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmgad5d3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmgad5d3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb379120 Gene Symbol: ZmGAD5 d3 Gene Name: dwarf plant3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGAOX3|D1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/d1zmgaox3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/d1zmgaox3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb122500 Gene Symbol: ZmGA3ox2 D1 ZmGAOX3 Gene Name: dwarf plant 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmKR2;kr2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmkr2kr2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmkr2kr2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb300570 Gene Symbol: ZmKR2 kr2 Gene Name: kauralexin reductase2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmLBD5</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmlbd5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmlbd5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb019930 Gene Symbol: ZmLBD5 Gene Name: LBD-transcription factor 5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSPL12;sbp12</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmspl12sbp12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmspl12sbp12/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb233320 Gene Symbol: ZmSPL12 sbp12 Gene Name: SBP-transcription factor 12 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

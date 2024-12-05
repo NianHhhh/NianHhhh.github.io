@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>down-regulated genes on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/down-regulated-genes/</link>
+    <description>Recent content in down-regulated genes on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/down-regulated-genes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BZR1-9</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/bzr1-9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/bzr1-9/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb003120 Gene Symbol: BZR1-9 Gene Name: BZR-transcription factor 9 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Lax1;aic1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/lax1aic1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/lax1aic1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb026490 Gene Symbol: Lax1 aic1 Gene Name: like-auxin1;auxin import carrier1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Lax2;aic3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/lax2aic3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/lax2aic3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb010460 Gene Symbol: Lax2 aic3 Gene Name: like-auxin2;auxin import carrier3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>NAC7;nactf108</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/nac7nactf108/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/nac7nactf108/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb135910 Gene Symbol: NAC7 nactf108 Gene Name: NAC-transcription factor 108 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>RTH6</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/rth6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/rth6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb025100 Gene Symbol: RTH6 Gene Name: roothairless 6 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Zcn8;pebp8</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zcn8pebp8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zcn8pebp8/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb353250 Gene Symbol: Zcn8 pebp8 Gene Name: phosphatidylethanolamine-binding protein8 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmEXPB4;EXPB4</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmexpb4expb4expb17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmexpb4expb4expb17/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb391450 Gene Symbol: ZmEXPB4 EXPB4 expb17 Gene Name: beta expansin17 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGF14-6</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb080570/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb080570/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb080570 Gene Symbol: ZmGF14-6|ZmGRF24 Gene Name: general regulatory factor1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGRXCC5;grx12</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmgrxcc5grx12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmgrxcc5grx12/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb121020 Gene Symbol: ZmGRXCC5 grx12 Gene Name: glutaredoxin12 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPHR18;glk52</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmphr18glk52php20568azmmyb-cc12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmphr18glk52php20568azmmyb-cc12/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb433040 Gene Symbol: ZmPHR18 glk52 php20568a ZmMYB-CC12 Gene Name: G2-like-transcription factor 52 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

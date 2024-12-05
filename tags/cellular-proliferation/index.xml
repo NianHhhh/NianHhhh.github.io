@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cellular proliferation on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/cellular-proliferation/</link>
+    <description>Recent content in cellular proliferation on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/cellular-proliferation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RBM48;dek42</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/rbm48dek42/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/rbm48dek42/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb209860 Gene Symbol: RBM48 dek42 Gene Name: RNA binding motif protein 48 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>RS1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/rs1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/rs1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb299420 Gene Symbol: RS1 Gene Name: Rough sheath1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Smk501</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/smk501/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/smk501/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb332890 Gene Symbol: Smk501 Gene Name: small kernel 501 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmARF25;ZmARF32</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmarf25zmarf32arftf25/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmarf25zmarf32arftf25/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb363810 Gene Symbol: ZmARF25 ZmARF32 arftf25 Gene Name: ARF-transcription factor 25 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGLP2-1;ZmGLP2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmglp2-1zmglp2glp2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmglp2-1zmglp2glp2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb088410 Gene Symbol: ZmGLP2-1 ZmGLP2 glp2 Gene Name: germin-like protein2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

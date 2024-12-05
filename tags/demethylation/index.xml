@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>demethylation on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/demethylation/</link>
+    <description>Recent content in demethylation on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/demethylation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZmROS1b;mdr1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmros1bmdr1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmros1bmdr1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb202980 Gene Symbol: ZmROS1b mdr1 Gene Name: maternal derepression of R1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmWAK02;ZmWAKL03</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmwak02zmwakl03wakl3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmwak02zmwakl03wakl3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb034290 Gene Symbol: ZmWAK02 ZmWAKL03 wakl3 Gene Name: wall-associated receptor kinase-like3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>transcriptional activator on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/transcriptional-activator/</link>
+    <description>Recent content in transcriptional activator on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/transcriptional-activator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LRP1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/lrp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/lrp1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb362740 Gene Symbol: LRP1 Gene Name: LATERAL ROOT PRIMORDIA 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmbHLH121</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmbhlh121/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmbhlh121/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb237260 Gene Symbol: ZmbHLH121 Gene Name: bHLH transcription factor121 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmbZIP72;bzip72</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmbzip72bzip72/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmbzip72bzip72/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb332590 Gene Symbol: ZmbZIP72 bzip72 Gene Name: bZIP-transcription factor 72 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmICE1;ICE1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmice1ice1zmiceazmscrambhlh175/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmice1ice1zmiceazmscrambhlh175/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb142500 Gene Symbol: ZmICE1 ICE1 ZmICEa ZmSCRAM bhlh175 Gene Name: INDUCER OF CBF EXPRESSION 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMRP-1;ZmMYBR1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmmrp-1zmmybr1mrp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmrp-1zmmybr1mrp1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb354390 Gene Symbol: ZmMRP-1 ZmMYBR1 mrp1 Gene Name: Myb related protein1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMYBC1;c1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmmybc1c1myb1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmybc1c1myb1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb373660 Gene Symbol: ZmMYBC1 c1 myb1 Gene Name: colored aleurone1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmNECAP1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmnecap1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnecap1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb221890 Gene Symbol: ZmNECAP1 Gene Name: Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmNTL2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb175840/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb175840/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb175840 Gene Symbol: ZmNTL2 Gene Name: NAC TF with transmembrane motif 1-Like 2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmTCRR-1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmtcrr-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmtcrr-1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: ZmTCRR-1 Gene Name: transfer cell response regulator-1 Genome: Species: Zea mays Functional Descriptions: The maize transfer cell-specific type-A response regulator ZmTCRR-1 appears to be involved in intercellular signalling.</description>
+    </item>
+  </channel>
+</rss>

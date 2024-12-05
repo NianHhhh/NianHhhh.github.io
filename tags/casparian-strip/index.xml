@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>casparian strip on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/casparian-strip/</link>
+    <description>Recent content in casparian strip on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/casparian-strip/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZmLAC3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmlac3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmlac3/</guid>
+      <description>Gene Details: Gene ID:&#x9;GRMZM2G164467 Gene Symbol: ZmLAC3 Gene Name: laccase6 Genome: B73_RefGen_v3 Species: Zea mays Functional Descriptions: Consistent with results obtained with ZmmiR528 TM transgenic maize and mir528a/b loss-of-function mutants, transgenic maize overexpressing ZmLAC3 displayed early CS formation under different N conditions.</description>
+    </item>
+    <item>
+      <title>ZmmiR528</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/grmzm5g809042/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/grmzm5g809042/</guid>
+      <description>Gene Details: Gene ID: GRMZM5G809042 Gene Symbol: ZmmiR528|miR528a Gene Name: microRNA528 Genome: B73_RefGen_v3 Species: Zea mays Functional Descriptions: MicroRNA528 Affects Lodging Resistance of Maize by Regulating Lignin Biosynthesis under Nitrogen-Luxury Conditions.</description>
+    </item>
+    <item>
+      <title>ZmSTL1;stl1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmstl1stl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmstl1stl1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb056600 Gene Symbol: ZmSTL1 stl1 Gene Name: Salt-Tolerant Locus 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fe accumulation on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/fe-accumulation/</link>
+    <description>Recent content in fe accumulation on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/fe-accumulation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZmIRT1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb052440/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb052440/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb052440 Gene Symbol: ZmIRT1 Gene Name: iron-regulated transporter1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmIRT2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb065410/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb065410/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb065410 Gene Symbol: ZmIRT2|ZmZIP3 Gene Name: Zm00001eb065410 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmYSL2;sh4</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmysl2sh4crk4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmysl2sh4crk4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb248990 Gene Symbol: ZmYSL2 sh4 crk4 Gene Name: shrunken4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmZIP5</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb277370/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb277370/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb277370 Gene Symbol: ZmZIP5 Gene Name: zinc-regulated, iron-regulated transporter-like protein5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

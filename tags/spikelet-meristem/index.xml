@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spikelet meristem on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/spikelet-meristem/</link>
+    <description>Recent content in spikelet meristem on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/spikelet-meristem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ifa1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/ifa1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/ifa1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb008680 Gene Symbol: Ifa1 Gene Name: indeterminate floral apex1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Ra1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/ra1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/ra1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb312340 Gene Symbol: Ra1 Gene Name: ramosa1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Td1;ZmRLK</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/td1zmrlkzmkin5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/td1zmrlkzmkin5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb228140 Gene Symbol: Td1 ZmRLK ZmKIN5 Gene Name: thick tassel dwarf1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZCN1;pebp1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zcn1pebp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zcn1pebp1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb164120 Gene Symbol: ZCN1 pebp1 Gene Name: phosphatidylethanolamine-binding protein1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCT2;ct2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmct2ct2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmct2ct2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb005840 Gene Symbol: ZmCT2 ct2 Gene Name: compact plant2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

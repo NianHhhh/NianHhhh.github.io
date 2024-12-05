@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>starch accumulation on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/starch-accumulation/</link>
+    <description>Recent content in starch accumulation on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/starch-accumulation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bt2;agpsen</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/bt2agpsenglt1adp3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/bt2agpsenglt1adp3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb176800 Gene Symbol: Bt2 agpsen glt1 adp3 Gene Name: brittle endosperm2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>IPE2;ms5</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/ipe2ms5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/ipe2ms5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb237060 Gene Symbol: IPE2 ms5 Gene Name: IRREGULAR POLLEN EXINE2;male sterile5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>NKD1;ZmIDD7</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/nkd1zmidd7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/nkd1zmidd7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb073830 Gene Symbol: NKD1 ZmIDD7 Gene Name: NAKED ENDOSPERM1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>PBF1;ZmDOF3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/pbf1zmdof3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/pbf1zmdof3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb094330 Gene Symbol: PBF1 ZmDOF3 Gene Name: prolamin-box binding factor1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>PBF1;ZmDOF3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/pbf1zmdof3zmdof13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/pbf1zmdof3zmdof13/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb094330 Gene Symbol: PBF1 ZmDOF3 ZmDof13 Gene Name: prolamin-box binding factor1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>PGD3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb169570/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb169570/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb169570 Gene Symbol: PGD3 Gene Name: 6-phosphogluconate dehydrogenase Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmABI19;abi19</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmabi19abi19zmafl2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmabi19abi19zmafl2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb361390 Gene Symbol: ZmABI19 abi19 ZmAFL2 Gene Name: ABI3-VP1-transcription factor 19 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmABI19;ZmAFL2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmabi19zmafl2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmabi19zmafl2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb361390 Gene Symbol: ZmABI19 ZmAFL2 Gene Name: ABI3-VP1-transcription factor 19 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGRAS11;scl1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmgras11scl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmgras11scl1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb344400 Gene Symbol: ZmGRAS11 scl1 Gene Name: scarecrow-like1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMdh4;mdh4</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmmdh4mdh4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmdh4mdh4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb045790 Gene Symbol: ZmMdh4 mdh4 Gene Name: malate dehydrogenase4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmRPABC5b;Dek701</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmrpabc5bdek701/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmrpabc5bdek701/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb366170 Gene Symbol: ZmRPABC5b Dek701 Gene Name: defective kernel701 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmYSL2;sh4</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmysl2sh4crk4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmysl2sh4crk4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb248990 Gene Symbol: ZmYSL2 sh4 crk4 Gene Name: shrunken4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

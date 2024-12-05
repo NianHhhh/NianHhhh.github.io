@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>callus on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/callus/</link>
+    <description>Recent content in callus on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/callus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZmLBD1;lbd1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmlbd1lbd1lob21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmlbd1lbd1lob21/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb003910 Gene Symbol: ZmLBD1 lbd1 LOB21 Gene Name: LBD-transcription factor 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSAUR15</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmsaur15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmsaur15/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001d001964 Gene Symbol: ZmSAUR15 Gene Name: small auxin up RNA15 Genome: Zm-B73-REFERENCE-GRAMENE-4.</description>
+    </item>
+    <item>
+      <title>ZmWOX2A;Wox2a</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmwox2awox2a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmwox2awox2a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb148390 Gene Symbol: ZmWOX2A Wox2a Gene Name: Wuschel-like homeobox protein 2a Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZjBRC1</title>
+      <link>https://nianhhhh.github.io/genes/ziziphus_jujuba/zjbrc1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/ziziphus_jujuba/zjbrc1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: ZjBRC1 Gene Name: Genome: Species: Ziziphus jujuba Functional Description: Transcription factor ZjBRC1 directly binds auxin transporters ZjPIN1c and ZjPIN3 promoters and down-regulates their expression activities, thereby promoting auxin accumulation in jujube callus.</description>
+    </item>
+  </channel>
+</rss>

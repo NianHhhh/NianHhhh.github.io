@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jasmonate on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/jasmonate/</link>
+    <description>Recent content in jasmonate on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/jasmonate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zmcyc1;CYCIb</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmcyc1cycibcyc1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcyc1cycibcyc1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb352410 Gene Symbol: Zmcyc1 CYCIb cyc1 Gene Name: cyclin1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Zmcyc5;cyc5</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmcyc5cyc5cyczme1cycb1.3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcyc5cyc5cyczme1cycb1.3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb332550 Gene Symbol: Zmcyc5 cyc5 cycZme1 CYCB1.</description>
+    </item>
+    <item>
+      <title>ZmJAZ10;TIFY14</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmjaz10tify14zim8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmjaz10tify14zim8/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb087540 Gene Symbol: ZmJAZ10 TIFY14 zim8 Gene Name: ZIM-transcription factor 8 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmJAZ12;ZmJAZ27</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmjaz12zmjaz27zim27/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmjaz12zmjaz27zim27/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb005990 Gene Symbol: ZmJAZ12 ZmJAZ27 zim27 Gene Name: ZIM-transcription factor 27 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmJAZ2;ZmJAZ5</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmjaz2zmjaz5zim16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmjaz2zmjaz5zim16/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb006000 Gene Symbol: ZmJAZ2 ZmJAZ5 zim16 Gene Name: ZIM-transcription factor 16 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmJAZ3;zim24</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmjaz3zim24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmjaz3zim24/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb019470 Gene Symbol: ZmJAZ3 zim24 Gene Name: ZIM-transcription factor 24 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmJAZ6;zim3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmjaz6zim3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmjaz6zim3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb048770 Gene Symbol: ZmJAZ6 zim3 Gene Name: ZIM-transcription factor 3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmLOX10</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb206040/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb206040/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb206040 Gene Symbol: ZmLOX10 Gene Name: lipoxygenase10 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmLOX12;lox12</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmlox12lox12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmlox12lox12/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb134020 Gene Symbol: ZmLOX12 lox12 Gene Name: lipoxygenase12 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMYC2a;bhlh149</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmmyc2abhlh149myc7gpm818/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmyc2abhlh149myc7gpm818/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb024330 Gene Symbol: ZmMYC2a bhlh149 myc7 gpm818 Gene Name: myc transcription factor7 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMYC2b;bhlh91</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmmyc2bbhlh91/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmyc2bbhlh91/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb390330 Gene Symbol: ZmMYC2b bhlh91 Gene Name: bHLH-transcription factor 91 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPep3;propep3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmpep3propep3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpep3propep3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001d002138 Gene Symbol: ZmPep3 propep3 Gene Name: precursor elicitor peptide3 Genome: Zm-B73-REFERENCE-GRAMENE-4.</description>
+    </item>
+    <item>
+      <title>ZmRACK1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb342960/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb342960/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb342960 Gene Symbol: ZmRACK1|ZmRACK2 Gene Name: receptor for activated C kinase 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chilling on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/chilling/</link>
+    <description>Recent content in chilling on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/chilling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GA2ox3;ZmGA2ox3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/ga2ox3zmga2ox3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/ga2ox3zmga2ox3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb152710 Gene Symbol: GA2ox3 ZmGA2ox3 Gene Name: gibberellin 2-oxidase3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>GA2ox4;ZmGA2ox4</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/ga2ox4zmga2ox4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/ga2ox4zmga2ox4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb247830 Gene Symbol: GA2ox4 ZmGA2ox4 Gene Name: gibberellin 2-oxidase4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Hsftf20</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/hsftf20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/hsftf20/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb428800 Gene Symbol: Hsftf20 Gene Name: HSF-transcription factor 20 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCOLD1;cold1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmcold1cold1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcold1cold1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb430290 Gene Symbol: ZmCOLD1 cold1 Gene Name: cold rsponsive1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmRR1;ZmOrphan186</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmrr1zmorphan186zmcip1crr1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmrr1zmorphan186zmcip1crr1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb066570 Gene Symbol: ZmRR1 ZmOrphan186 ZmCip1 crr1 Gene Name: cytokinin response regulator1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

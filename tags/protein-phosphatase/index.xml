@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>protein phosphatase on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/protein-phosphatase/</link>
+    <description>Recent content in protein phosphatase on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/protein-phosphatase/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZmAPRG;arpg1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmaprgarpg1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmaprgarpg1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb388200 Gene Symbol: ZmAPRG arpg1 Gene Name: acid phosphatase-regulating gene1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPP134;dbptf3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmpp134dbptf3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpp134dbptf3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb374920 Gene Symbol: ZmPP134 dbptf3 Gene Name: DBP-transcription factor 3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZMPP2;ZmPP2C01</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmpp2zmpp2c01zmorphan14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpp2zmpp2c01zmorphan14/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb003000 Gene Symbol: ZMPP2 ZmPP2C01 ZmOrphan14 Gene Name: protein phosphatase homolog101 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPP2AA1;prh17</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmpp2aa1prh17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpp2aa1prh17/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb269610 Gene Symbol: ZmPP2AA1 prh17 Gene Name: protein phosphatase homolog17 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPP2C16;ZmPP2C5</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmpp2c16zmpp2c5zmpp2c80prh18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpp2c16zmpp2c5zmpp2c80prh18/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb356420 Gene Symbol: ZmPP2C16 ZmPP2C5 ZmPP2C80 prh18 Gene Name: protein phosphatase homolog18 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPP57;prh13</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmpp57prh13zmnhl29zmpp2c31zmpp2c2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpp57prh13zmnhl29zmpp2c31zmpp2c2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb160470 Gene Symbol: ZmPP57 prh13 ZmNHL29 ZmPP2C31 ZmPP2C2 Gene Name: protein phosphatase homolog13 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

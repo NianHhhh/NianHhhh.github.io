@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wounding response on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/wounding-response/</link>
+    <description>Recent content in wounding response on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/wounding-response/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zmlox4</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb054050/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb054050/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb054050 Gene Symbol: Zmlox4 Gene Name: lipoxygenase4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPAO</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmpao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpao/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: ZmPAO Gene Name: polyamine oxidase Genome: Species: Zea mays Functional Descriptions: Maize (Zea mays) PAO (ZmPAO) is a developmentally regulated flavoprotein abundant in primary and secondary cell walls of several tissues.</description>
+    </item>
+  </channel>
+</rss>

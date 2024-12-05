@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>grain size on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/grain-size/</link>
+    <description>Recent content in grain size on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/grain-size/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>YIGE1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/yige1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/yige1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb014970 Gene Symbol: YIGE1 Gene Name: yige1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmABI19;abi19</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmabi19abi19zmafl2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmabi19abi19zmafl2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb361390 Gene Symbol: ZmABI19 abi19 ZmAFL2 Gene Name: ABI3-VP1-transcription factor 19 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmbHLH121</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmbhlh121/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmbhlh121/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb237260 Gene Symbol: ZmbHLH121 Gene Name: bHLH transcription factor121 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCLE7</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/grmzm2g372364/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/grmzm2g372364/</guid>
+      <description>Gene Details: Gene ID: GRMZM2G372364 Gene Symbol: ZmCLE7 Gene Name: clavata3/esr-related7 Genome: B73_RefGen_v3 Species: Zea mays Functional Descriptions: CRISPR–Cas9 to edit maize CLE promoters and a newly characterized maize CLE gene identified through its compensatory upregulation in a ZmCLE7 mutant.</description>
+    </item>
+    <item>
+      <title>ZmGRAS11;scl1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmgras11scl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmgras11scl1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb344400 Gene Symbol: ZmGRAS11 scl1 Gene Name: scarecrow-like1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmINCW1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmincw1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmincw1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb242820 Gene Symbol: ZmINCW1 Gene Name: cell wall invertase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMYB138;ZmMYB33-2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmmyb138/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmyb138/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb150140 Gene Symbol: ZmMYB138 ZmMYB33-2 Gene Name: MYB-transcription factor 138 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMYB74;ZmMYB33-1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb369190/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb369190/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb369190 Gene Symbol: ZmMYB74 ZmMYB33-1 Gene Name: MYB-transcription factor 74 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSGD1;rhcp1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmsgd1rhcp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmsgd1rhcp1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb216620 Gene Symbol: ZmSGD1 rhcp1 Gene Name: ring hc protein1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmXLG1;xlg1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmxlg1xlg1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmxlg1xlg1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb030570 Gene Symbol: ZmXLG1 xlg1 Gene Name: extra-large guanine nucleotide-binding protein1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

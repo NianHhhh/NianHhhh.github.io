@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pi uptake on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/pi-uptake/</link>
+    <description>Recent content in pi uptake on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/pi-uptake/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ID1;ZmIDD5</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/id1zmidd5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/id1zmidd5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb047750 Gene Symbol: ID1 ZmIDD5 Gene Name: indeterminate growth1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>NIGT1.2;ZmNIGT1.2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/nigt1.2zmnigt1.2glk4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/nigt1.2zmnigt1.2glk4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb406610 Gene Symbol: NIGT1.2 ZmNIGT1.2 glk4 Gene Name: NITRATE-INDUCIBLE, GARP-TYPE TRANSCRIPTIOANL REPRESSOR1.</description>
+    </item>
+    <item>
+      <title>ZmDDM1A;Chr101</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmddm1achr101lsh1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmddm1achr101lsh1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb117870 Gene Symbol: ZmDDM1A Chr101 Lsh1 Gene Name: chromatin complex subunit A 101 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmNIGT1.1;NIGT1.1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmnigt1.1nigt1.1glk5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnigt1.1nigt1.1glk5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb406660 Gene Symbol: ZmNIGT1.1 NIGT1.1 glk5 Gene Name: G2-like-transcription factor 5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPT7;pht1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmpt7pht1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpt7pht1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb222510 Gene Symbol: ZmPT7 pht1 Gene Name: phosphate transporter protein1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>glucanase on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/glucanase/</link>
+    <description>Recent content in glucanase on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/glucanase/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZmGns</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb141500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb141500/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb141500 Gene Symbol: ZmGns Gene Name: glucan endo-1,3-beta-glucosidase homolog2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmXTH1;XTHB10</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmxth1xthb10xth1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmxth1xthb10xth1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb414390 Gene Symbol: ZmXTH1 XTHB10 xth1 Gene Name: xyloglucan endo-transglycosylase/hydrolase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

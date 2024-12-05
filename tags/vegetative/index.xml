@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vegetative on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/vegetative/</link>
+    <description>Recent content in vegetative on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/vegetative/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cg1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/cg1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/cg1/</guid>
+      <description>Gene Details: Gene ID:&#x9;GRMZM5G838324 Gene Symbol: Cg1 Gene Name: Corngrass1 Genome: B73_RefGen_v3 Species: Zea mays Functional Descriptions: Furthermore, a target of Cg1 is teosinte glume architecture1 (tga1)1, a gene known to have had a role in the domestication of maize from teosinte.</description>
+    </item>
+    <item>
+      <title>D14a</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/d14a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/d14a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb007670 Gene Symbol: D14a Gene Name: dwarf14 ortholog-a Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>NAC7;nactf108</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/nac7nactf108/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/nac7nactf108/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb135910 Gene Symbol: NAC7 nactf108 Gene Name: NAC-transcription factor 108 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>NS1;ZmWOX3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/ns1zmwox3zmhb125/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/ns1zmwox3zmhb125/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb092480 Gene Symbol: NS1 ZmWOX3 ZmHB125 Gene Name: narrow sheath1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>NS2;ZmWOX9</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/ns2zmwox9qtbn4-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/ns2zmwox9qtbn4-2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb197430 Gene Symbol: NS2 ZmWOX9 qTBN4-2 Gene Name: narrow sheath2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>PPR2263</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/ppr2263/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/ppr2263/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb374510 Gene Symbol: PPR2263 Gene Name: pentatricopeptide repeat protein 2263 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>SPI1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/spi1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/spi1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb158550 Gene Symbol: SPI1 Gene Name: sparse inflorescence1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Td1;ZmRLK</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/td1zmrlkzmkin5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/td1zmrlkzmkin5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb228140 Gene Symbol: Td1 ZmRLK ZmKIN5 Gene Name: thick tassel dwarf1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>TU1;ZmMADS72</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/tu1zmmads72/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/tu1zmmads72/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb193790 Gene Symbol: TU1 ZmMADS72 Gene Name: Tunicate1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Vt2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/vt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/vt2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb336530 Gene Symbol: Vt2 Gene Name: vanishing tassel2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCCD8</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmccd8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmccd8/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb153000 Gene Symbol: ZmCCD8 Gene Name: CAROTENOID CLEAVAGE DIOXYGENASE8 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCom1;com1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmcom1com1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcom1com1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb388310 Gene Symbol: ZmCom1 com1 Gene Name: completion of meiotic recombination1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmD53;D53</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmd53d53/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmd53d53/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb404750 Gene Symbol: ZmD53 D53 Gene Name: dwarf ortholog53 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmEHD1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb207790/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb207790/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb207790 Gene Symbol: ZmEHD1 Gene Name: eps15 homology domain protein1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmEREB55;GL15</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmereb55gl15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmereb55gl15/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb387280 Gene Symbol: ZmEREB55 GL15 Gene Name: glossy15 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGA20ox3;ZmGA20ox2.1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmga20ox3zmga20ox2.1ga20ox3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmga20ox3zmga20ox2.1ga20ox3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb145600 Gene Symbol: ZmGA20ox3 ZmGA20ox2.1 ga20ox3 Gene Name: gibberellin 20-oxidase3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGA3ox5;ZmGA3ox5</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmga3ox5zmga3ox5zmga20ox2.2ga20ox5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmga3ox5zmga3ox5zmga20ox2.2ga20ox5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb366090 Gene Symbol: ZmGA3ox5 ZmGA3ox5 ZmGA20ox2.2 ga20ox5 Gene Name: gibberellin 20-oxidase5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmIDD5;id1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmidd5id1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmidd5id1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb047750 Gene Symbol: ZmIDD5 id1 Gene Name: indeterminate growth1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmKL9;BZIP60</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmkl9bzip60zmbzip60zmbzip112/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmkl9bzip60zmbzip60zmbzip112/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb388050 Gene Symbol: ZmKL9 BZIP60 ZmbZIP60 ZmbZIP112 Gene Name: bZIP transcription factor60 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmLFY1;zfl2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmlfy1zfl2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmlfy1zfl2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb071990 Gene Symbol: ZmLFY1 zfl2 Gene Name: Zea floricaula leafy2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmLFY2;zfl1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmlfy2zfl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmlfy2zfl1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb430240 Gene Symbol: ZmLFY2 zfl1 Gene Name: zea floricaula/leafy1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmLG2;ZmTGA9-2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmlg2zmbzip11zmtga9-2lg2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmlg2zmbzip11zmtga9-2lg2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb147220 Gene Symbol: ZmLG2 ZmbZIP11 ZmTGA9-2 lg2 Gene Name: liguleless2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmLTP2.5;plt16</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmltp2.5plt16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmltp2.5plt16/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb272750 Gene Symbol: ZmLTP2.5 plt16 Gene Name: phospholipid transfer protein16 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMADS3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmmads3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmads3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb298680 Gene Symbol: ZmMADS3 Gene Name: MADS3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMADS67;ZMM28</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmmads67zmm28/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmads67zmm28/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb327040 Gene Symbol: ZmMADS67 ZMM28 Gene Name: MADS-transcription factor 67 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMS26;MS26</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmms26ms26/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmms26ms26/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb005300 Gene Symbol: ZmMS26 MS26 Gene Name: male sterile26 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMTOPVIB</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb227420/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb227420/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb227420 Gene Symbol: ZmMTOPVIB|mtopvib1 Gene Name: meiotic TopoVI B subunit1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPRD1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb389920/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb389920/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb389920 Gene Symbol: ZmPRD1 Gene Name: putative recombination initiation defect1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmRALF12;ralf12</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmralf12ralf12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmralf12ralf12/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb410350 Gene Symbol: ZmRALF12 ralf12 Gene Name: rapid alkalinization factor12 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSPL13;ZmSBP13</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmspl13zmsbp13zmglw7-1sbp13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmspl13zmsbp13zmglw7-1sbp13/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb105640 Gene Symbol: ZmSPL13 ZmSBP13 ZmGLW7-1 sbp13 Gene Name: SBP-transcription factor 13 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSPL29;ZmSBP18</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmspl29zmsbp18sbp29/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmspl29zmsbp18sbp29/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb322280 Gene Symbol: ZmSPL29 ZmSBP18 sbp29 Gene Name: SBP-transcription factor 29 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmUrb2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmurb2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmurb2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb007680 Gene Symbol: ZmUrb2 Gene Name: unhealthy ribosome biogenesis2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vascular bundle on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/vascular-bundle/</link>
+    <description>Recent content in vascular bundle on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/vascular-bundle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZmHAK1;umc2250</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmhak1umc2250/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmhak1umc2250/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb084630 Gene Symbol: ZmHAK1 umc2250 Gene Name: potassium high-affinity transporter1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

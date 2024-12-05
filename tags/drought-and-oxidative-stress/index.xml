@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>drought and oxidative stress on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/drought-and-oxidative-stress/</link>
+    <description>Recent content in drought and oxidative stress on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/drought-and-oxidative-stress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BZR1-3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/bzr1-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/bzr1-3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb204870 Gene Symbol: BZR1-3 Gene Name: BZR-transcription factor 3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmBSK1;bsk1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmbsk1bsk1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmbsk1bsk1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb402560 Gene Symbol: ZmBSK1 bsk1 Gene Name: brassinosteroid-signaling kinase 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmNAC49;ZmNAC1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmnac49zmnac1zmnac010312nactf49/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnac49zmnac1zmnac010312nactf49/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb062170 Gene Symbol: ZmNAC49 ZmNAC1 ZmNAC010312 nactf49 Gene Name: NAC-transcription factor 49 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPEAMT;peamt1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmpeamtpeamt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpeamtpeamt1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb155940 Gene Symbol: ZmPEAMT peamt1 Gene Name: phosphoethanolamine N-methyltransferase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmRL6;rl1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmrl6rl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmrl6rl1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb296840 Gene Symbol: ZmRL6 rl1 Gene Name: radialis homolog1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

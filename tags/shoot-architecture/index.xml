@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shoot architecture on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/shoot-architecture/</link>
+    <description>Recent content in shoot architecture on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/shoot-architecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zmksl4;ZmKS3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmksl4zmks3zmksl2zmtps11ks4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmksl4zmks3zmksl2zmtps11ks4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb133200 Gene Symbol: Zmksl4 ZmKS3 ZmKSL2 ZmTPS11 ks4 Gene Name: kaurene synthase4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPIN1b;pin2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmpin1bpin2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpin1bpin2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb254390 Gene Symbol: ZmPIN1b pin2 Gene Name: PIN-formed protein2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmTAC1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmtac1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmtac1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb103250 Gene Symbol: ZmTAC1 Gene Name: tiller angle control1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

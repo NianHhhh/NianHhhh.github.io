@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>signaling pathway gene on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/signaling-pathway-gene/</link>
+    <description>Recent content in signaling pathway gene on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/signaling-pathway-gene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZmAPX1;apx3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmapx1apx3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmapx1apx3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb013080 Gene Symbol: ZmAPX1 apx3 Gene Name: ascorbate peroxidase 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmAPX1;ZmAPx01</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmapx1zmapx01zmapx1.1apx3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmapx1zmapx01zmapx1.1apx3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb013080 Gene Symbol: ZmAPX1 ZmAPx01 ZmAPX1.1 apx3 Gene Name: ascorbate peroxidase homolog3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGLP1;glp1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmglp1glp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmglp1glp1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb282040 Gene Symbol: ZmGLP1 glp1 Gene Name: germin-like protein1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGSK2;ZmSK1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmgsk2zmsk1gsk2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmgsk2zmsk1gsk2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb338190 Gene Symbol: ZmGSK2 ZmSK1 gsk2 Gene Name: glycogen synthase kinase2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMYC7;ZmMYC2a</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmmyc7zmmyc2abhlh149zmmyc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmyc7zmmyc2abhlh149zmmyc2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb024330 Gene Symbol: ZmMYC7 ZmMYC2a bhlh149 ZmMYC2 Gene Name: myc transcription factor7 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSTG1;stg1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmstg1stg1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmstg1stg1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb388110 Gene Symbol: ZmSTG1 stg1 Gene Name: Salt-Tolerant Gene 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmYODA</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmyoda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmyoda/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb186910 Gene Symbol: ZmYODA Gene Name: Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

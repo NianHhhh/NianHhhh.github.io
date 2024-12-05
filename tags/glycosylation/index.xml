@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>glycosylation on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/glycosylation/</link>
+    <description>Recent content in glycosylation on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/glycosylation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BZU3;zb9</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/bzu3zb9zmnhl31.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/bzu3zb9zmnhl31.1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb016850 Gene Symbol: BZU3 zb9 ZmNHL31.1 Gene Name: zebra crossbands9 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmXTH1;XTHB10</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmxth1xthb10xth1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmxth1xthb10xth1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb414390 Gene Symbol: ZmXTH1 XTHB10 xth1 Gene Name: xyloglucan endo-transglycosylase/hydrolase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

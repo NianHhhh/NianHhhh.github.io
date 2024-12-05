@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aba biosynthesis on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/aba-biosynthesis/</link>
+    <description>Recent content in aba biosynthesis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/aba-biosynthesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZmABA2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb212270/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb212270/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb212270 Gene Symbol: ZmABA2|sca1 Gene Name: short chain alcohol dehydrogenase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmDG1;DG1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmdg1dg1drg5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmdg1dg1drg5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb009600 Gene Symbol: ZmDG1 DG1 drg5 Gene Name: dark response gene5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmLBD5</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmlbd5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmlbd5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb019930 Gene Symbol: ZmLBD5 Gene Name: LBD-transcription factor 5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmVp14;vp14</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmvp14vp14nced1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmvp14vp14nced1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb050380 Gene Symbol: ZmVp14 vp14 NCED1 Gene Name: viviparous14 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmWRKY79;wrky79</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmwrky79wrky79wrky53/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmwrky79wrky79wrky53/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb310270 Gene Symbol: ZmWRKY79 wrky79 WRKY53 Gene Name: WRKY-transcription factor 79 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

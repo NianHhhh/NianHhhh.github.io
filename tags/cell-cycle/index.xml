@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cell cycle on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/cell-cycle/</link>
+    <description>Recent content in cell cycle on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/cell-cycle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ABI51</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/abi51/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/abi51/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb413890 Gene Symbol: ABI51 Gene Name: ABI3-VP1-transcription factor 51 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Dek15;scc4</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/dek15scc4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/dek15scc4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb193950 Gene Symbol: Dek15 scc4 Gene Name: defective kernel 15 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>LBL1;rgd1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/lbl1rgd1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/lbl1rgd1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb264310 Gene Symbol: LBL1 rgd1 Gene Name: ragged seedling1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>RTH1;ZmRTH1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/rth1zmrth1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/rth1zmrth1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb051220 Gene Symbol: RTH1 ZmRTH1 Gene Name: roothairless 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>WI5;Zmxyl</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/wi5zmxyl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/wi5zmxyl/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb217500 Gene Symbol: WI5 Zmxyl Gene Name: wilted5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmABI7;abi7</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmabi7abi7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmabi7abi7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb006360 Gene Symbol: ZmABI7 abi7 Gene Name: ABI3-VP1-transcription factor 7 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmATM</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmatm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmatm/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb126710 Gene Symbol: ZmATM Gene Name: ataxia-telangiectasia mutated1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCDKA2;CDKA1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmcdka2cdka1cdc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcdka2cdka1cdc2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb001260 Gene Symbol: ZmCDKA2 CDKA1 cdc2 Gene Name: cell division control protein homolog2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCDKB1;CDKB1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmcdkb1cdkb1cdc3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcdkb1cdkb1cdc3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb163790 Gene Symbol: ZmCDKB1 CDKB1 cdc3 Gene Name: cell division control protein homolog3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmHO-1;HO1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmho-1ho1elm2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmho-1ho1elm2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb386220 Gene Symbol: ZmHO-1 HO1 elm2 Gene Name: elongated mesocotyl2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMYB117;ZmMYB78</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmmyb117zmmyb78zmbr1br1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmyb117zmmyb78zmbr1br1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb041450 Gene Symbol: ZmMYB117 ZmMYB78 ZmBr1 br1 Gene Name: brachytic1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmRIBA1;o18</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmriba1o18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmriba1o18/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb244650 Gene Symbol: ZmRIBA1 o18 Gene Name: opaque18 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmTE1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmte1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmte1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb144140 Gene Symbol: ZmTE1 Gene Name: TERMINAL EAR 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

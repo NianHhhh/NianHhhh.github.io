@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>photosystem on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/photosystem/</link>
+    <description>Recent content in photosystem on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/photosystem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZmCAO1;chao2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmcao1chao2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcao1chao2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb362510 Gene Symbol: ZmCAO1 chao2 Gene Name: chlorophyllide a oxygenase2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSTG1;stg1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmstg1stg1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmstg1stg1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb388110 Gene Symbol: ZmSTG1 stg1 Gene Name: Salt-Tolerant Gene 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSWEET7;sweet6a</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmsweet7sweet6a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmsweet7sweet6a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb161560 Gene Symbol: ZmSWEET7 sweet6a Gene Name: sugars will eventually be exported transporter6a Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

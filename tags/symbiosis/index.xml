@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>symbiosis on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/symbiosis/</link>
+    <description>Recent content in symbiosis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/symbiosis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZjAHA7</title>
+      <link>https://nianhhhh.github.io/genes/ziziphus_jujuba/zjaha7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/ziziphus_jujuba/zjaha7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zj.jz044537212 Gene Symbol: ZjAHA7 Gene Name: Genome: “Junzao” reference genome Species: Ziziphus jujuba Functional Description: AM symbiosis can specifically induce the expression of plasma membrane type H+-ATPase (ZjAHA7) and K+ transporter gene (ZjHAK2), which may lead to a stronger K+ absorption capacity with mycorrhizal jujube.</description>
+    </item>
+    <item>
+      <title>ZjHAK2</title>
+      <link>https://nianhhhh.github.io/genes/ziziphus_jujuba/zjhak2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/ziziphus_jujuba/zjhak2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zj.jz011205017 Gene Symbol: ZjHAK2 Gene Name: Genome: “Junzao” reference genome Species: Ziziphus jujuba Functional Description: AM symbiosis can specifically induce the expression of plasma membrane type H+-ATPase (ZjAHA7) and K+ transporter gene (ZjHAK2), which may lead to a stronger K+ absorption capacity with mycorrhizal jujube.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>er stress on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/er-stress/</link>
+    <description>Recent content in er stress on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/er-stress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZmBiP1;ZmHsp70-11</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmbip1zmhsp70-11stress70erzmhsp70-11b70ab-70/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmbip1zmhsp70-11stress70erzmhsp70-11b70ab-70/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb229930 Gene Symbol: ZmBiP1 ZmHsp70-11 Stress70er ZmHsp70-11 b70a b-70 Gene Name: Binding protein homolog1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCER1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb247450/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb247450/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb247450 Gene Symbol: ZmCER1 Gene Name: ECERIFERUM 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmHUG1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb376850/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb376850/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb376850 Gene Symbol: ZmHUG1 Gene Name: HEAT UP-REGULATED GENE 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmKL9;BZIP60</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmkl9bzip60zmbzip60zmbzip112/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmkl9bzip60zmbzip60zmbzip112/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb388050 Gene Symbol: ZmKL9 BZIP60 ZmbZIP60 ZmbZIP112 Gene Name: bZIP transcription factor60 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPRA1.C1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb120910/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb120910/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb120910 Gene Symbol: ZmPRA1.C1 Gene Name: MAIZE PRENYLATED RAB ACCEPTOR 1.</description>
+    </item>
+  </channel>
+</rss>

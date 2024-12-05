@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>calcium on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/calcium/</link>
+    <description>Recent content in calcium on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/calcium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZmCBL4;ZmCBL8</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmcbl4zmcbl8cbl8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcbl4zmcbl8cbl8/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb203330 Gene Symbol: ZmCBL4 ZmCBL8 cbl8 Gene Name: calcineurin B-like8 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCCaMK;ccamk1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmccamkccamk1ccamkccamk1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmccamkccamk1ccamkccamk1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb200350 Gene Symbol: ZmCCaMK ccamk1 CCaMK ccamk1 Gene Name: calcium/calmodulin dependent protein kinase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCDPK6;ZmCPK2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmcdpk6cdpk37/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcdpk6cdpk37/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb022180 Gene Symbol: ZmCDPK6 ZmCPK2 cdpk37 Gene Name: calcium dependent protein kinase37 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCDPK7;ZmCPK29</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmcdpk7zmcpk29cdpk20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcdpk7zmcpk29cdpk20/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb351760 Gene Symbol: ZmCDPK7 ZmCPK29 cdpk20 Gene Name: calcium dependent protein kinase20 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCPK1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb002180/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb002180/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb002180 Gene Symbol: ZmCPK1|ZmCPK7|ZmCDPK3|cdpk36 Gene Name: calcium dependent protein kinase36 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCPK17</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb139060/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb139060/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb139060 Gene Symbol: ZmCPK17|ZmCDPK31 Gene Name: calcium dependent protein kinase31 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGSK3;ZmSK3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmgsk3zmsk3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmgsk3zmsk3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb238820 Gene Symbol: ZmGSK3 ZmSK3 Gene Name: glycogen synthase kinase3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGSK4;ZmSK4</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmgsk4gsk4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmgsk4gsk4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb204920 Gene Symbol: ZmGSK4 ZmSK4 Gene Name: glycogen synthase kinase4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMPK7</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb232260/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb232260/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb232260 Gene Symbol: ZmMPK7|ZmMPK14 Gene Name: MAP kinase14 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSCaBP8;CBL10</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmscabp8cbl10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmscabp8cbl10/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb160330 Gene Symbol: ZmSCaBP8 CBL10 Gene Name: calcineurin B-like10 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmTIP1;tipd1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmtip1tipd1zmpat34/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmtip1tipd1zmpat34/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb386990 Gene Symbol: ZmTIP1 tipd1 ZmPAT34 Gene Name: tip growth defective1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

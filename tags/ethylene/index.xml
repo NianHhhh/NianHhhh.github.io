@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ethylene on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/ethylene/</link>
+    <description>Recent content in ethylene on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/ethylene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ARGOS8</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/argos8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/argos8/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb287000 Gene Symbol: ARGOS8 Gene Name: Zea mays ARGOS8 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ERF4;ERF7</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/erf4erf7ereb97/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/erf4erf7ereb97/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb071190 Gene Symbol: ERF4 ERF7 ereb97 Gene Name: AP2-EREBP-transcription factor 97 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmACO2;ZmACOB</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmaco2zmacobacco2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmaco2zmacobacco2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb314610 Gene Symbol: ZmACO2 ZmACOB acco2 Gene Name: 1-aminocyclopropane-1-carboxylate oxidase2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmACS7</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmacs7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmacs7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb428490 Gene Symbol: ZmACS7 Gene Name: 1-aminocyclopropane-1-carboxylate synthase7 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmDG1;DG1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmdg1dg1drg5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmdg1dg1drg5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb009600 Gene Symbol: ZmDG1 DG1 drg5 Gene Name: dark response gene5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmEREB179</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb006160/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb006160/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb006160 Gene Symbol: ZmEREB179 Gene Name: AP2-EREBP transcription factor 179 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmEREB180;ZmERF4</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmereb180zmerf4ereb180/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmereb180zmerf4ereb180/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb006180 Gene Symbol: ZmEREB180 ZmERF4 ereb180 Gene Name: AP2-EREBP-transcription factor 180 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmEREB92;ereb92</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmereb92ereb92/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmereb92ereb92/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb352580 Gene Symbol: ZmEREB92 ereb92 Gene Name: AP2-EREBP-transcription factor 92 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmERF1;RAP2-2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmerf1rap2-2ereb202/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmerf1rap2-2ereb202/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb099980 Gene Symbol: ZmERF1 RAP2-2 ereb202 Gene Name: AP2-EREBP-transcription factor 202 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmERF147;ZmUBER1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmerf147zmuber1ereb147/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmerf147zmuber1ereb147/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb150840 Gene Symbol: ZmERF147 ZmUBER1 ereb147 Gene Name: AP2-EREBP-transcription factor 147 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMPK17</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb209160/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb209160/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb209160 Gene Symbol: ZmMPK17 Gene Name: MAP kinase17 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMPK6</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmmpk6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmpk6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb417810 Gene Symbol: ZmMPK6 Gene Name: MAP kinase6 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

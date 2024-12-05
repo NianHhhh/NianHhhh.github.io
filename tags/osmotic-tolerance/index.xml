@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>osmotic tolerance on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/osmotic-tolerance/</link>
+    <description>Recent content in osmotic tolerance on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/osmotic-tolerance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZmBET5L1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmbet5l1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmbet5l1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb217960 Gene Symbol: ZmBET5L1 Gene Name: BET5-like1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmLEA3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmlea3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmlea3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb022900 Gene Symbol: ZmLEA3 Gene Name: Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMPK17</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb209160/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb209160/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb209160 Gene Symbol: ZmMPK17 Gene Name: MAP kinase17 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmNAC111;nactf111</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmnac111nactf111idp8617/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnac111nactf111idp8617/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb079630 Gene Symbol: ZmNAC111 nactf111 IDP8617 Gene Name: NAC-transcription factor 111 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmNAC2;ZmNAC87</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmnac2zmnac87nactf2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnac2zmnac87nactf2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb330910 Gene Symbol: ZmNAC2 ZmNAC87 nactf2 Gene Name: NAC-transcription factor 2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmNF-YB16;ca3p4</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmnf-yb16ca3p4zmnf-yb12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnf-yb16ca3p4zmnf-yb12/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb327140 Gene Symbol: ZmNF-YB16 ca3p4 ZmNF-YB12 Gene Name: CCAAT-HAP3-transcription factor 34 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPLC1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmplc1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmplc1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: ZmPLC1 Gene Name: phospholipase C 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmRIBA1;o18</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmriba1o18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmriba1o18/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb244650 Gene Symbol: ZmRIBA1 o18 Gene Name: opaque18 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

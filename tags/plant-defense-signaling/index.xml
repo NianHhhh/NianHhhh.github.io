@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>plant defense signaling on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/plant-defense-signaling/</link>
+    <description>Recent content in plant defense signaling on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/plant-defense-signaling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZmAPX1;apx3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmapx1apx3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmapx1apx3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb013080 Gene Symbol: ZmAPX1 apx3 Gene Name: ascorbate peroxidase 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

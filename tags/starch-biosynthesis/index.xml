@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>starch biosynthesis on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/starch-biosynthesis/</link>
+    <description>Recent content in starch biosynthesis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/starch-biosynthesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NKD1;ZmIDD7</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/nkd1zmidd7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/nkd1zmidd7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb073830 Gene Symbol: NKD1 ZmIDD7 Gene Name: NAKED ENDOSPERM1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>PBF1;ZmDOF3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/pbf1zmdof3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/pbf1zmdof3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb094330 Gene Symbol: PBF1 ZmDOF3 Gene Name: prolamin-box binding factor1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>PBF1;ZmDOF3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/pbf1zmdof3zmdof13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/pbf1zmdof3zmdof13/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb094330 Gene Symbol: PBF1 ZmDOF3 ZmDof13 Gene Name: prolamin-box binding factor1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Se1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/se1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/se1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb115450 Gene Symbol: Se1 Gene Name: sugary-enhancer1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmAGPL1;sh2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmagpl1sh2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmagpl1sh2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb159060 Gene Symbol: ZmAGPL1 sh2 Gene Name: shrunken2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmDG1;DG1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmdg1dg1drg5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmdg1dg1drg5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb009600 Gene Symbol: ZmDG1 DG1 drg5 Gene Name: dark response gene5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMADS1a;ZmMADS2;ZAG2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmmads1azmmads2zag2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmads1azmmads2zag2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb138380 Gene Symbol: ZmMADS1a ZmMADS2 zag2 Gene Name: Zea AGAMOUS homolog2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMYB115</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmmyb115/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmyb115/</guid>
+      <description>Gene Details: Gene ID:&#x9;GRMZM2G423833 Gene Symbol: ZmMYB115 Gene Name: GRMZM2G423833 Genome: B73_RefGen_v3 Species: Zea mays Functional Descriptions: The expression of ZmMYB115 can directly regulate the expression of Du1 and Wx and may be positively correlated to the amylose content in maize endosperm.</description>
+    </item>
+    <item>
+      <title>ZmMYB138;ZmMYB33-2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmmyb138/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmyb138/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb150140 Gene Symbol: ZmMYB138 ZmMYB33-2 Gene Name: MYB-transcription factor 138 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmRPABC5b;Dek701</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmrpabc5bdek701/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmrpabc5bdek701/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb366170 Gene Symbol: ZmRPABC5b Dek701 Gene Name: defective kernel701 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

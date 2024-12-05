@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pi homeostasis on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/pi-homeostasis/</link>
+    <description>Recent content in pi homeostasis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/pi-homeostasis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ID1;ZmIDD5</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/id1zmidd5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/id1zmidd5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb047750 Gene Symbol: ID1 ZmIDD5 Gene Name: indeterminate growth1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPHO2;PHO2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmpho2pho2uce10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpho2pho2uce10/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb295490 Gene Symbol: ZmPHO2 PHO2 uce10 Gene Name: Phosphate 2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

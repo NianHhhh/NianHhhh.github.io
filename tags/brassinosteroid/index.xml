@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>brassinosteroid on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/brassinosteroid/</link>
+    <description>Recent content in brassinosteroid on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/brassinosteroid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BAK1;bak4</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/bak1bak4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/bak1bak4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb288130 Gene Symbol: BAK1 bak4 Gene Name: brassinosteroid insensitive1-associated receptor kinase 4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>BRD1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/brd1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/brd1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb050010 Gene Symbol: BRD1 Gene Name: brassinosteroid-deficient dwarf1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>BZR1-9</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/bzr1-9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/bzr1-9/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb003120 Gene Symbol: BZR1-9 Gene Name: BZR-transcription factor 9 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmBRI1a</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmbri1a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmbri1a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb361520 Gene Symbol: ZmBRI1a Gene Name: BRASSINOSTEROID INSENSITIVE 1A Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmBRI1b</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmbri1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmbri1b/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb227890 Gene Symbol: ZmBRI1b Gene Name: brassinosteroid insensitive1b Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmBSK1;bsk1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmbsk1bsk1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmbsk1bsk1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb402560 Gene Symbol: ZmBSK1 bsk1 Gene Name: brassinosteroid-signaling kinase 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmD1;ZmCYP90D1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmd1zmcyp90d1cyp45/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmd1zmcyp90d1cyp45/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb120890 Gene Symbol: ZmD1 ZmCYP90D1 cyp45 Gene Name: cytochrome P450 45 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGSK3;ZmSK3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmgsk3zmsk3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmgsk3zmsk3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb238820 Gene Symbol: ZmGSK3 ZmSK3 Gene Name: glycogen synthase kinase3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGSK4;ZmSK4</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmgsk4gsk4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmgsk4gsk4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb204920 Gene Symbol: ZmGSK4 ZmSK4 Gene Name: glycogen synthase kinase4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMPK5;mpk2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmmpk5mpk2mpk6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmpk5mpk2mpk6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb376640 Gene Symbol: ZmMPK5 mpk2 MPK6 Gene Name: MAP kinase2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmNAGK;nagk1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmnagknagk1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnagknagk1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb074610 Gene Symbol: ZmNAGK nagk1 Gene Name: N-acetylglutamate kinase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmRAVL1;abi12</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmravl1abi12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmravl1abi12/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb073010 Gene Symbol: ZmRAVL1 abi12 Gene Name: ABI3-VP1-transcription factor 12 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

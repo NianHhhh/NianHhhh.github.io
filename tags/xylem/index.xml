@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>xylem on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/xylem/</link>
+    <description>Recent content in xylem on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/xylem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ARF37;arftf29</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/arf37arftf29/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/arf37arftf29/</guid>
+      <description>Gene Details: Gene ID:&#x9;GRMZM2G086949 Gene Symbol: ARF37 arftf29 Gene Name: ARF-transcription factor 29 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ARF8;arftf4</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/arf8arftf4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/arf8arftf4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb067270 Gene Symbol: ARF8 arftf4 Gene Name: ARF-transcription factor 4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>EAD1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/ead1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/ead1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb250340 Gene Symbol: EAD1 Gene Name: ear apical degeneration1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>HAK21</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/hak21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/hak21/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb048960 Gene Symbol: HAK21 Gene Name: potassium high-affinity transporter21 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>NUT1;NAC46</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/nut1nac46nac91nactf91/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/nut1nac46nac91nactf91/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001d045601 Gene Symbol: NUT1 NAC46 nac91 nactf91 Gene Name: Necrotic upper tips1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>PROT1;aaap20</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/prot1aaap20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/prot1aaap20/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb144010 Gene Symbol: PROT1 aaap20 Gene Name: amino acid/auxin permease20 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>WI5;Zmxyl</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/wi5zmxyl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/wi5zmxyl/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb217500 Gene Symbol: WI5 Zmxyl Gene Name: wilted5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmHKT2;nc2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmhkt2nc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmhkt2nc2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb227000 Gene Symbol: ZmHKT2 nc2 Gene Name: Na+ content2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmNRAMP2;nrat3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmnramp2nrat3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnramp2nrat3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb400560 Gene Symbol: ZmNRAMP2 nrat3 Gene Name: nramp aluminum transporter3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmTMM1;mads26</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmtmm1mads26/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmtmm1mads26/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb253580 Gene Symbol: ZmTMM1 mads26 Gene Name: MADS-transcription factor 26 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

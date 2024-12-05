@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>panicle length on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/panicle-length/</link>
+    <description>Recent content in panicle length on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/panicle-length/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZmSGD1;rhcp1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmsgd1rhcp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmsgd1rhcp1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb216620 Gene Symbol: ZmSGD1 rhcp1 Gene Name: ring hc protein1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

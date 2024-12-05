@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>node on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/node/</link>
+    <description>Recent content in node on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/node/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZmABCB1|Br2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/br2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/br2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb038710 Gene Symbol: Br2 Gene Name: brachytic2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmAPRG;arpg1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmaprgarpg1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmaprgarpg1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb388200 Gene Symbol: ZmAPRG arpg1 Gene Name: acid phosphatase-regulating gene1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmBELL10;hb38</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmbell10hb38/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmbell10hb38/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb268690 Gene Symbol: ZmBELL10 hb38 Gene Name: Homeobox-transcription factor 38 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Zmksl4;ZmKS3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmksl4zmks3zmksl2zmtps11ks4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmksl4zmks3zmksl2zmtps11ks4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb133200 Gene Symbol: Zmksl4 ZmKS3 ZmKSL2 ZmTPS11 ks4 Gene Name: kaurene synthase4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMADS3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmmads3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmads3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb298680 Gene Symbol: ZmMADS3 Gene Name: MADS3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmTE1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmte1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmte1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb144140 Gene Symbol: ZmTE1 Gene Name: TERMINAL EAR 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

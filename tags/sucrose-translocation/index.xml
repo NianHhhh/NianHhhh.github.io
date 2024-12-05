@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sucrose translocation on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/sucrose-translocation/</link>
+    <description>Recent content in sucrose translocation on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/sucrose-translocation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tdy2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb259620/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb259620/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb259620 Gene Symbol: tdy2 Gene Name: tie-dyed2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

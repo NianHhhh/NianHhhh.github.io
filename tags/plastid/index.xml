@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>plastid on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/plastid/</link>
+    <description>Recent content in plastid on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/plastid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sbe1;sbe1a</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/sbe1sbe1aspe1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/sbe1sbe1aspe1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb228530 Gene Symbol: Sbe1 sbe1a spe1 Gene Name: starch branching enzyme1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>TS1;ZmLOX8</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/ts1zmlox8lox8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/ts1zmlox8lox8/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb081610 Gene Symbol: TS1 ZmLOX8 lox8 Gene Name: tasselseed1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMs25;ZmFAR1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmms25zmfar1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmms25zmfar1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001d048337 Gene Symbol: ZmMs25 ZmFAR1 Gene Name: male sterile25 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmpTAC12</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb152010/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb152010/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb152010 Gene Symbol: ZmpTAC12 Gene Name: plastid transcriptionally active chromosome 12 homolog Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmRIBA1;o18</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmriba1o18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmriba1o18/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb244650 Gene Symbol: ZmRIBA1 o18 Gene Name: opaque18 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSig6;ZmSig3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmsig6zmsig3sig6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmsig6zmsig3sig6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb210370 Gene Symbol: ZmSig6 ZmSig3 sig6 Gene Name: sigma-like factor6 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

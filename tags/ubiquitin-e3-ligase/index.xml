@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ubiquitin e3 ligase on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/ubiquitin-e3-ligase/</link>
+    <description>Recent content in ubiquitin e3 ligase on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/ubiquitin-e3-ligase/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZmMPK20;mpk13</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmmpk20mpk13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmpk20mpk13/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb297110 Gene Symbol: ZmMPK20 mpk13 Gene Name: MITOGEN-ACTIVATED PROTEIN KINASE 20 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmRFWD3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmrfwd3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmrfwd3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb000650 Gene Symbol: ZmRFWD3 Gene Name: ring finger and WD40 repeat3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmRIN2;cl34141_1b</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmrin2cl34141_1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmrin2cl34141_1b/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb105020 Gene Symbol: ZmRIN2 cl34141_1b Gene Name: E3 ubiquitin ligase RPM1 INTERACTING PROTEIN 2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

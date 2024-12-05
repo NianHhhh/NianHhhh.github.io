@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>grain number on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/grain-number/</link>
+    <description>Recent content in grain number on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/grain-number/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KNR6</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/knr6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/knr6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb273900 Gene Symbol: KNR6 Gene Name: KERNEL NUMBER PER ROW6 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>YIGE1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/yige1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/yige1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb014970 Gene Symbol: YIGE1 Gene Name: yige1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>YIGE2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb395950/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb395950/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb395950 Gene Symbol: YIGE2 Gene Name: yige2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZM-BG1H1;bgh1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm-bg1h1bgh1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm-bg1h1bgh1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb005730 Gene Symbol: ZM-BG1H1 bgh1 Gene Name: big grain1 homolog1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmACS7</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmacs7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmacs7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb428490 Gene Symbol: ZmACS7 Gene Name: 1-aminocyclopropane-1-carboxylate synthase7 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmBON3;bon3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmbon3bon3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmbon3bon3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb285200 Gene Symbol: ZmBON3 bon3 Gene Name: bonzai3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmDA1;limtf11</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmda1limtf11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmda1limtf11/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb268250 Gene Symbol: ZmDA1 limtf11 Gene Name: LIM-transcription factor 11 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmDAR1;limtf4</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmdar1limtf4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmdar1limtf4/</guid>
+      <description>Gene Details: Gene ID:&#x9;GRMZM2G099328 Gene Symbol: ZmDAR1 limtf4 Gene Name: LIM-transcription factor 4 Genome: B73_RefGen_v3 Species: Zea mays Functional Descriptions: The over-expression of Zmda1 and ZmDAR1 promoted kernel development, resulting in a more developed basal endosperm transfer cell layer (BETL) than WT and enhanced expression of starch synthase genes.</description>
+    </item>
+    <item>
+      <title>ZmMADS67;ZMM28</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmmads67zmm28/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmads67zmm28/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb327040 Gene Symbol: ZmMADS67 ZMM28 Gene Name: MADS-transcription factor 67 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSGD1;rhcp1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmsgd1rhcp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmsgd1rhcp1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb216620 Gene Symbol: ZmSGD1 rhcp1 Gene Name: ring hc protein1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmXLG1;xlg1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmxlg1xlg1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmxlg1xlg1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb030570 Gene Symbol: ZmXLG1 xlg1 Gene Name: extra-large guanine nucleotide-binding protein1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

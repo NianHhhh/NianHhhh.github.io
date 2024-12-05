@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sa on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/sa/</link>
+    <description>Recent content in sa on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/sa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LLS1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/lls1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/lls1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb003760 Gene Symbol: LLS1 Gene Name: LETHAL LEAF SPOT1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmBON3;bon3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmbon3bon3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmbon3bon3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb285200 Gene Symbol: ZmBON3 bon3 Gene Name: bonzai3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCM2;cmu2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmcm2cmu2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcm2cmu2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb234080 Gene Symbol: ZmCM2 cmu2 Gene Name: chorismate mutase2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMEK1;mek1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmmek1mek1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmek1mek1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb154530 Gene Symbol: ZmMEK1 mek1 Gene Name: MEK homolog1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMPK17</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb209160/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb209160/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb209160 Gene Symbol: ZmMPK17 Gene Name: MAP kinase17 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPR1;ZmPR1a</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmpr1zmpr1azmpr-1-14prp4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpr1zmpr1azmpr-1-14prp4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb299370 Gene Symbol: ZmPR1 ZmPR1a ZmPR-1-14 prp4 Gene Name: pathogenesis related protein4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmREM1.3;remo3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmrem1.3remo3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmrem1.3remo3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb075630 Gene Symbol: ZmREM1.3 remo3 Gene Name: remorin3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmTGL</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmtgl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmtgl/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb203780 Gene Symbol: ZmTGL Gene Name: triacylglycerol lipase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

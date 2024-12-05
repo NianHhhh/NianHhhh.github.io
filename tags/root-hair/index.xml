@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>root hair on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/root-hair/</link>
+    <description>Recent content in root hair on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/root-hair/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lrl2;bhlh87</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/lrl2bhlh87/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/lrl2bhlh87/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb312850 Gene Symbol: Lrl2 bhlh87 Gene Name: bHLH-transcription factor 87 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>RTH1;ZmRTH1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/rth1zmrth1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/rth1zmrth1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb051220 Gene Symbol: RTH1 ZmRTH1 Gene Name: roothairless 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>RTH5;ZmRBOHE</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/rth5zmrbohe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/rth5zmrbohe/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb148780 Gene Symbol: RTH5 ZmRBOHE Gene Name: roothairless 5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>RTH6</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/rth6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/rth6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb025100 Gene Symbol: RTH6 Gene Name: roothairless 6 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmLRL5;lrl5</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmlrl5lrl5bhlh10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmlrl5lrl5bhlh10/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb374700 Gene Symbol: ZmLRL5 lrl5 bhlh10 Gene Name: bHLH-transcription factor 10 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmTIP1;tipd1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmtip1tipd1zmpat34/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmtip1tipd1zmpat34/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb386990 Gene Symbol: ZmTIP1 tipd1 ZmPAT34 Gene Name: tip growth defective1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

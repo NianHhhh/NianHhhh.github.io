@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iaa biosynthesis on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/iaa-biosynthesis/</link>
+    <description>Recent content in iaa biosynthesis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/iaa-biosynthesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BAK1;bak4</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/bak1bak4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/bak1bak4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb288130 Gene Symbol: BAK1 bak4 Gene Name: brassinosteroid insensitive1-associated receptor kinase 4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>RUM1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/rum1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/rum1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb156910 Gene Symbol: RUM1 Gene Name: ROOTLESS WITH UNDETECTABLE MERISTEMS 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmAuxRP1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmauxrp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmauxrp1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb053610 Gene Symbol: ZmAuxRP1 Gene Name: auxin-regulated protein1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSAUR15</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmsaur15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmsaur15/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001d001964 Gene Symbol: ZmSAUR15 Gene Name: small auxin up RNA15 Genome: Zm-B73-REFERENCE-GRAMENE-4.</description>
+    </item>
+    <item>
+      <title>ZmYuc1;yuc1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmyuc1yuc1de18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmyuc1yuc1de18/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb409250 Gene Symbol: ZmYuc1 yuc1 de18 Gene Name: defective18 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

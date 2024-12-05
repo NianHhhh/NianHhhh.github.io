@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>alkaline tolerance on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/alkaline-tolerance/</link>
+    <description>Recent content in alkaline tolerance on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/alkaline-tolerance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>INVAN6;Mei025</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/invan6mei025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/invan6mei025/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb230860 Gene Symbol: INVAN6 Mei025 Gene Name: INVERTASE ALKALINE NEUTRAL 6 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmAGA1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmaga1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmaga1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb303190 Gene Symbol: ZmAGA1 Gene Name: alkaline α-galactosidase 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

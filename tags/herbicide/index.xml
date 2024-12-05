@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>herbicide on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/herbicide/</link>
+    <description>Recent content in herbicide on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/herbicide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kn1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/kn1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/kn1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb055920 Gene Symbol: Kn1 Gene Name: Knotted1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMATE21;mate21</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmmate21mate21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmate21mate21/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb106010 Gene Symbol: ZmMATE21 mate21 Gene Name: multidrug and toxic compound extrusion21 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

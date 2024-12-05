@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>root architecture on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/root-architecture/</link>
+    <description>Recent content in root architecture on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/root-architecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cg1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/cg1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/cg1/</guid>
+      <description>Gene Details: Gene ID:&#x9;GRMZM5G838324 Gene Symbol: Cg1 Gene Name: Corngrass1 Genome: B73_RefGen_v3 Species: Zea mays Functional Descriptions: Furthermore, a target of Cg1 is teosinte glume architecture1 (tga1)1, a gene known to have had a role in the domestication of maize from teosinte.</description>
+    </item>
+    <item>
+      <title>TGA1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/tga1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/tga1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb175150 Gene Symbol: TGA1 Gene Name: teosinte glume architecture1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmbZIP107;bzip107</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmbzip107bzip107/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmbzip107bzip107/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb412510 Gene Symbol: ZmbZIP107 bzip107 Gene Name: bZIP-transcription factor 107 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCCD8</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmccd8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmccd8/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb153000 Gene Symbol: ZmCCD8 Gene Name: CAROTENOID CLEAVAGE DIOXYGENASE8 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmHb77</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb377480/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb377480/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb377480 Gene Symbol: ZmHb77 Gene Name: Homeobox-transcription factor 77 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Zmksl4;ZmKS3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmksl4zmks3zmksl2zmtps11ks4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmksl4zmks3zmksl2zmtps11ks4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb133200 Gene Symbol: Zmksl4 ZmKS3 ZmKSL2 ZmTPS11 ks4 Gene Name: kaurene synthase4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPGP1;br2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmpgp1br2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpgp1br2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb038710 Gene Symbol: ZmPGP1 br2 Gene Name: brachytic2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPIN1a;pin1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmpin1apin1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpin1apin1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb372180 Gene Symbol: ZmPIN1a pin1 Gene Name: PIN-formed protein1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPIN1b;pin2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmpin1bpin2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpin1bpin2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb254390 Gene Symbol: ZmPIN1b pin2 Gene Name: PIN-formed protein2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmRSA3.1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmrsa3.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmrsa3.1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb135550 Gene Symbol: ZmRSA3.1 Gene Name: ZmROOT SYSTEM ARCHITECTURE 3.</description>
+    </item>
+    <item>
+      <title>ZmRSA3.2;IDP8267</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmrsa3.2idp8267/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmrsa3.2idp8267/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb144610 Gene Symbol: ZmRSA3.2 IDP8267 Gene Name: ZmROOT SYSTEM ARCHITECTURE 3.</description>
+    </item>
+    <item>
+      <title>ZmTAC1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmtac1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmtac1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb103250 Gene Symbol: ZmTAC1 Gene Name: tiller angle control1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

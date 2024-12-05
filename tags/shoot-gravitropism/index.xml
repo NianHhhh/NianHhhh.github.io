@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shoot gravitropism on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/shoot-gravitropism/</link>
+    <description>Recent content in shoot gravitropism on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/shoot-gravitropism/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZmCLA4;ZmLA1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmcla4la1mmp111/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcla4la1mmp111/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb169480 Gene Symbol: ZmCLA4 ZmLA1 mmp111 Gene Name: lazy plant1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmLA1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmla1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmla1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb169480 Gene Symbol: ZmLA1 Gene Name: lazy plant1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>grain length on funPlantGenes</title>
+    <link>https://nianhhhh.github.io/tags/grain-length/</link>
+    <description>Recent content in grain length on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nianhhhh.github.io/tags/grain-length/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KNR6</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/knr6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/knr6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb273900 Gene Symbol: KNR6 Gene Name: KERNEL NUMBER PER ROW6 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>YIGE2</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb395950/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb395950/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb395950 Gene Symbol: YIGE2 Gene Name: yige2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmACO2;ZmACOB</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmaco2zmacobacco2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmaco2zmacobacco2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb314610 Gene Symbol: ZmACO2 ZmACOB acco2 Gene Name: 1-aminocyclopropane-1-carboxylate oxidase2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmBON3;bon3</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmbon3bon3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmbon3bon3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb285200 Gene Symbol: ZmBON3 bon3 Gene Name: bonzai3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmD1;ZmCYP90D1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmd1zmcyp90d1cyp45/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmd1zmcyp90d1cyp45/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb120890 Gene Symbol: ZmD1 ZmCYP90D1 cyp45 Gene Name: cytochrome P450 45 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSGD1;rhcp1</title>
+      <link>https://nianhhhh.github.io/genes/zea_mays/zmsgd1rhcp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianhhhh.github.io/genes/zea_mays/zmsgd1rhcp1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb216620 Gene Symbol: ZmSGD1 rhcp1 Gene Name: ring hc protein1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>
