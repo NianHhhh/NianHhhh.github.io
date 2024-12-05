@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>brassinosteroid biosynthesis on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/brassinosteroid-biosynthesis/</link>
+    <link>https://funplantgenes.wiki/tags/brassinosteroid-biosynthesis/</link>
     <description>Recent content in brassinosteroid biosynthesis on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/brassinosteroid-biosynthesis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/brassinosteroid-biosynthesis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BAK1;bak4</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/bak1bak4/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/bak1bak4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/bak1bak4/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/bak1bak4/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb288130 Gene Symbol: BAK1 bak4 Gene Name: brassinosteroid insensitive1-associated receptor kinase 4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>BRD1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/brd1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/brd1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/brd1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/brd1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb050010 Gene Symbol: BRD1 Gene Name: brassinosteroid-deficient dwarf1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

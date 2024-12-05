@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>autophagy on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/autophagy/</link>
+    <link>https://funplantgenes.wiki/tags/autophagy/</link>
     <description>Recent content in autophagy on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/autophagy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/autophagy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ZmMS39;ms39</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmms39ms39/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmms39ms39/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmms39ms39/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmms39ms39/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb157150 Gene Symbol: ZmMS39 ms39 Gene Name: male sterile39 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmNBR1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb245950/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb245950/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb245950/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb245950/</guid>
       <description>Gene Details: Gene ID: Zm00001eb245950 Gene Symbol: ZmNBR1 Gene Name: NEXT TO BRCA1 GENE 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

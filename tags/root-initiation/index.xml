@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>root initiation on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/root-initiation/</link>
+    <link>https://funplantgenes.wiki/tags/root-initiation/</link>
     <description>Recent content in root initiation on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/root-initiation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/root-initiation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BIGE1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/bige1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/bige1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/bige1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/bige1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb211050 Gene Symbol: BIGE1 Gene Name: Big embryo 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>Cg1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/cg1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/cg1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/cg1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/cg1/</guid>
       <description>Gene Details: Gene ID:&#x9;GRMZM5G838324 Gene Symbol: Cg1 Gene Name: Corngrass1 Genome: B73_RefGen_v3 Species: Zea mays Functional Descriptions: Furthermore, a target of Cg1 is teosinte glume architecture1 (tga1)1, a gene known to have had a role in the domestication of maize from teosinte.</description>
     </item>
     <item>
       <title>Lax1;aic1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/lax1aic1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/lax1aic1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/lax1aic1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/lax1aic1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb026490 Gene Symbol: Lax1 aic1 Gene Name: like-auxin1;auxin import carrier1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>Lax2;aic3</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/lax2aic3/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/lax2aic3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/lax2aic3/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/lax2aic3/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb010460 Gene Symbol: Lax2 aic3 Gene Name: like-auxin2;auxin import carrier3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>Lbd24</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/lbd24/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/lbd24/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/lbd24/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/lbd24/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb191170 Gene Symbol: Lbd24 Gene Name: LBD-transcription factor 24 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>LRP1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/lrp1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/lrp1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/lrp1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/lrp1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb362740 Gene Symbol: LRP1 Gene Name: LATERAL ROOT PRIMORDIA 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>RTCL</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/rtcl/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/rtcl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/rtcl/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/rtcl/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb403030 Gene Symbol: RTCL Gene Name: RTCS-like1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>RTCS;ZmLBD2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/rtcszmlbd2rtcs1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/rtcszmlbd2rtcs1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/rtcszmlbd2rtcs1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/rtcszmlbd2rtcs1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb003920 Gene Symbol: RTCS ZmLBD2 rtcs1 Gene Name: rootless concerning crown and seminal roots1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>RTH5;ZmRBOHE</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/rth5zmrbohe/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/rth5zmrbohe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/rth5zmrbohe/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/rth5zmrbohe/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb148780 Gene Symbol: RTH5 ZmRBOHE Gene Name: roothairless 5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>RUM1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/rum1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/rum1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/rum1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/rum1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb156910 Gene Symbol: RUM1 Gene Name: ROOTLESS WITH UNDETECTABLE MERISTEMS 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmLRL5;lrl5</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmlrl5lrl5bhlh10/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmlrl5lrl5bhlh10/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmlrl5lrl5bhlh10/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmlrl5lrl5bhlh10/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb374700 Gene Symbol: ZmLRL5 lrl5 bhlh10 Gene Name: bHLH-transcription factor 10 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmSGD1;rhcp1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmsgd1rhcp1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmsgd1rhcp1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmsgd1rhcp1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmsgd1rhcp1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb216620 Gene Symbol: ZmSGD1 rhcp1 Gene Name: ring hc protein1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

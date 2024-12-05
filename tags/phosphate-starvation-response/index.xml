@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>phosphate starvation response on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/phosphate-starvation-response/</link>
+    <link>https://funplantgenes.wiki/tags/phosphate-starvation-response/</link>
     <description>Recent content in phosphate starvation response on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/phosphate-starvation-response/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/phosphate-starvation-response/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NIGT1.2;ZmNIGT1.2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/nigt1.2zmnigt1.2glk4/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/nigt1.2zmnigt1.2glk4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/nigt1.2zmnigt1.2glk4/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/nigt1.2zmnigt1.2glk4/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb406610 Gene Symbol: NIGT1.2 ZmNIGT1.2 glk4 Gene Name: NITRATE-INDUCIBLE, GARP-TYPE TRANSCRIPTIOANL REPRESSOR1.</description>
     </item>
     <item>
       <title>ZmPHO2;PHO2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmpho2pho2uce10/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmpho2pho2uce10/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpho2pho2uce10/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmpho2pho2uce10/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb295490 Gene Symbol: ZmPHO2 PHO2 uce10 Gene Name: Phosphate 2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmPHR13;glk59</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmphr13glk59/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmphr13glk59/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmphr13glk59/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmphr13glk59/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb331010 Gene Symbol: ZmPHR13 glk59 Gene Name: G2-like-transcription factor 59 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmPHR18;glk52</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmphr18glk52php20568azmmyb-cc12/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmphr18glk52php20568azmmyb-cc12/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmphr18glk52php20568azmmyb-cc12/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmphr18glk52php20568azmmyb-cc12/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb433040 Gene Symbol: ZmPHR18 glk52 php20568a ZmMYB-CC12 Gene Name: G2-like-transcription factor 52 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

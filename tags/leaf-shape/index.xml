@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>leaf shape on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/leaf-shape/</link>
+    <link>https://funplantgenes.wiki/tags/leaf-shape/</link>
     <description>Recent content in leaf shape on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/leaf-shape/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/leaf-shape/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dwil1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/dwil1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/dwil1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/dwil1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/dwil1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb287100 Gene Symbol: Dwil1 Gene Name: dwarf &amp;amp; irregular leaf1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>GN1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/gn1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/gn1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/gn1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/gn1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb117820 Gene Symbol: GN1 Gene Name: Gnarley1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>WAB1;ZmBAD1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/wab1zmbad1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/wab1zmbad1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/wab1zmbad1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/wab1zmbad1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb099370 Gene Symbol: WAB1 ZmBAD1 Gene Name: Wavy auricles in blades1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmLNG1;ZmGW7-2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmlng1zmgw7-2trm4/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmlng1zmgw7-2trm4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmlng1zmgw7-2trm4/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmlng1zmgw7-2trm4/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb326930 Gene Symbol: ZmLNG1 ZmGW7-2 TRM4 Gene Name: protein LONGIFOLIA 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>stem strength on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/stem-strength/</link>
+    <link>https://funplantgenes.wiki/tags/stem-strength/</link>
     <description>Recent content in stem strength on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/stem-strength/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/stem-strength/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ZmSPL12</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmspl12/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmspl12/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmspl12/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmspl12/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb233320 Gene Symbol: ZmSPL12 Gene Name: SBP-transcription factor 12 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

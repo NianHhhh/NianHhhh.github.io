@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>lesion on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/lesion/</link>
+    <link>https://funplantgenes.wiki/tags/lesion/</link>
     <description>Recent content in lesion on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/lesion/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/lesion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LLS1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/lls1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/lls1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/lls1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/lls1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb003760 Gene Symbol: LLS1 Gene Name: LETHAL LEAF SPOT1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmPSK1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmpsk1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmpsk1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpsk1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmpsk1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb299250 Gene Symbol: ZmPSK1 Gene Name: phytosulfokine peptide precursor1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

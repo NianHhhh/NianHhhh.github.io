@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>heat stress response on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/heat-stress-response/</link>
+    <link>https://funplantgenes.wiki/tags/heat-stress-response/</link>
     <description>Recent content in heat stress response on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/heat-stress-response/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/heat-stress-response/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hsf70;hsp70-6</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/hsf70hsp70-6zmhsp70-class-a/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/hsf70hsp70-6zmhsp70-class-a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/hsf70hsp70-6zmhsp70-class-a/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/hsf70hsp70-6zmhsp70-class-a/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb012470 Gene Symbol: Hsf70 hsp70-6 ZmHSP70 class A Gene Name: heat shock protein70-6 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>Hsftf20</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/hsftf20/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/hsftf20/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/hsftf20/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/hsftf20/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb428800 Gene Symbol: Hsftf20 Gene Name: HSF-transcription factor 20 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmGRXS17</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmgrxs17/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmgrxs17/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmgrxs17/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmgrxs17/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb044380 Gene Symbol: ZmGRXS17 Gene Name: glutaredoxin23 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmHSBP2;hsbp2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmhsbp2hsbp2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmhsbp2hsbp2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmhsbp2hsbp2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmhsbp2hsbp2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb380410 Gene Symbol: ZmHSBP2 hsbp2 Gene Name: HEAT SHOCK BINDING PROTEIN 2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmKL9;BZIP60</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmkl9bzip60zmbzip60zmbzip112/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmkl9bzip60zmbzip60zmbzip112/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmkl9bzip60zmbzip60zmbzip112/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmkl9bzip60zmbzip60zmbzip112/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb388050 Gene Symbol: ZmKL9 BZIP60 ZmbZIP60 ZmbZIP112 Gene Name: bZIP transcription factor60 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmPRA1.C1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb120910/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb120910/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb120910/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb120910/</guid>
       <description>Gene Details: Gene ID: Zm00001eb120910 Gene Symbol: ZmPRA1.C1 Gene Name: MAIZE PRENYLATED RAB ACCEPTOR 1.</description>
     </item>
     <item>
       <title>ZmRBOH8</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmrboh8/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmrboh8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmrboh8/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmrboh8/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb040550 Gene Symbol: ZmRBOH8 Gene Name: respiratory burst oxidase8 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmWRKY064;ZmWRKY66</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmwrky064zmwrky66zmwrky9wrky131/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmwrky064zmwrky66zmwrky9wrky131/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmwrky064zmwrky66zmwrky9wrky131/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmwrky064zmwrky66zmwrky9wrky131/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb256230 Gene Symbol: ZmWRKY064 ZmWRKY66 ZmWRKY9 wrky131 Gene Name: WRKY-transcription factor 131 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

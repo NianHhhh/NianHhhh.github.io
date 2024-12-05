@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>flavone biosynthesis on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/flavone-biosynthesis/</link>
+    <link>https://funplantgenes.wiki/tags/flavone-biosynthesis/</link>
     <description>Recent content in flavone biosynthesis on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/flavone-biosynthesis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/flavone-biosynthesis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ZmSIZ1a</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb355110/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb355110/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb355110/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb355110/</guid>
       <description>Gene Details: Gene ID: Zm00001eb355110 Gene Symbol: ZmSIZ1a phd17 Gene Name: PHD-transcription factor 17 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmSIZ1b</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb265410/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb265410/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb265410/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb265410/</guid>
       <description>Gene Details: Gene ID: Zm00001eb265410 Gene Symbol: ZmSIZ1b|phd12 Gene Name: PHD-transcription factor 12 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

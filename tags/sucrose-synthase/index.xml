@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sucrose synthase on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/sucrose-synthase/</link>
+    <link>https://funplantgenes.wiki/tags/sucrose-synthase/</link>
     <description>Recent content in sucrose synthase on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/sucrose-synthase/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/sucrose-synthase/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sh1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/sh1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/sh1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/sh1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/sh1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb374090 Gene Symbol: Sh1 Gene Name: shrunken1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>tdy2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb259620/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb259620/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb259620/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb259620/</guid>
       <description>Gene Details: Gene ID: Zm00001eb259620 Gene Symbol: tdy2 Gene Name: tie-dyed2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmCESA5;ENB1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmcesa5enb1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmcesa5enb1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcesa5enb1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmcesa5enb1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb061800 Gene Symbol: ZmCESA5 ENB1 Gene Name: cellulose synthase5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dna repair on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/dna-repair/</link>
+    <link>https://funplantgenes.wiki/tags/dna-repair/</link>
     <description>Recent content in dna repair on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/dna-repair/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/dna-repair/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ZmATM</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmatm/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmatm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmatm/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmatm/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb126710 Gene Symbol: ZmATM Gene Name: ataxia-telangiectasia mutated1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmBRCA2;brca2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmbrca2brca2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmbrca2brca2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmbrca2brca2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmbrca2brca2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb419130 Gene Symbol: ZmBRCA2 brca2 Gene Name: BREAST CANCER SUSCEPTIBILITY PROTEIN 2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

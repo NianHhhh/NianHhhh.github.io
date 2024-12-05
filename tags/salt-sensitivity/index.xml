@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>salt sensitivity on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/salt-sensitivity/</link>
+    <link>https://funplantgenes.wiki/tags/salt-sensitivity/</link>
     <description>Recent content in salt sensitivity on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/salt-sensitivity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/salt-sensitivity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ZmEREB57</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb193060/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb193060/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb193060/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb193060/</guid>
       <description>Gene Details: Gene ID: Zm00001eb193060 Gene Symbol: ZmEREB57 Gene Name: AP2-EREBP-transcription factor 57 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmHsf08;ZmHSFA2-4</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmhsf08zmhsfa2-4hsftf1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmhsf08zmhsfa2-4hsftf1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmhsf08zmhsfa2-4hsftf1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmhsf08zmhsfa2-4hsftf1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb100770 Gene Symbol: ZmHsf08 ZmHSFA2-4 hsftf1 Gene Name: HSF-transcription factor 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmNAC19;ZmNAC55</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmnac19zmnac55zma006493nactf60/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmnac19zmnac55zma006493nactf60/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnac19zmnac55zma006493nactf60/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmnac19zmnac55zma006493nactf60/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb212120 Gene Symbol: ZmNAC19 ZmNAC55 Zma006493 nactf60 Gene Name: NAC-transcription factor 60 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmWRKY115</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb408520/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb408520/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb408520/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb408520/</guid>
       <description>Gene Details: Gene ID: Zm00001eb408520 Gene Symbol: ZmWRKY115|ZmWRKY15 Gene Name: WRKY-transcription factor 15 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmWRKY17;wrky105</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmwrky17wrky105/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmwrky17wrky105/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmwrky17wrky105/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmwrky17wrky105/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb086280 Gene Symbol: ZmWRKY17 wrky105 Gene Name: WRKY-transcription factor 105 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmWRKY20</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb098330/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb098330/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb098330/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb098330/</guid>
       <description>Gene Details: Gene ID: Zm00001eb098330 Gene Symbol: ZmWRKY20|ZmWRKY38 Gene Name: WRKY-transcription factor 38 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

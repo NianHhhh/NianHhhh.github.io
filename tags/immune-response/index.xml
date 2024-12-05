@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>immune response on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/immune-response/</link>
+    <link>https://funplantgenes.wiki/tags/immune-response/</link>
     <description>Recent content in immune response on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/immune-response/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/immune-response/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ChSK1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/chsk1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/chsk1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/chsk1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/chsk1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb124060 Gene Symbol: ChSK1 Gene Name: Cochliobolus heterostrophus Susceptibility Kinase 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

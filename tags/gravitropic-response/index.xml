@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>gravitropic response on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/gravitropic-response/</link>
+    <link>https://funplantgenes.wiki/tags/gravitropic-response/</link>
     <description>Recent content in gravitropic response on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/gravitropic-response/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/gravitropic-response/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ZmYUC2;YUC</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmyuc2yucyuc2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmyuc2yucyuc2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmyuc2yucyuc2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmyuc2yucyuc2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb419450 Gene Symbol: ZmYUC2 YUC yuc2 Gene Name: Yucca2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmYUC4</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmyuc4/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmyuc4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmyuc4/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmyuc4/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb088950 Gene Symbol: ZmYUC4 Gene Name: Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmYUC4;ZmYUCCA9</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmyuc4zmyucca9/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmyuc4zmyucca9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmyuc4zmyucca9/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmyuc4zmyucca9/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb088950 Gene Symbol: ZmYUC4 ZmYUCCA9 Gene Name: Yucca4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

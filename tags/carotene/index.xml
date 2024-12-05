@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>carotene on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/carotene/</link>
+    <link>https://funplantgenes.wiki/tags/carotene/</link>
     <description>Recent content in carotene on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/carotene/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/carotene/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ZmCCD10a;ccd9</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmccd10accd9/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmccd10accd9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmccd10accd9/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmccd10accd9/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb309770 Gene Symbol: ZmCCD10a ccd9 Gene Name: carotenoid cleavage dioxygenase9 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmcrtRB3</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb073250/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb073250/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb073250/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb073250/</guid>
       <description>Gene Details: Gene ID: Zm00001eb073250 Gene Symbol: ZmcrtRB3|hyd4 Gene Name: hydroxylase4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmGAMYB</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmgamyb/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmgamyb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmgamyb/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmgamyb/</guid>
       <description>Gene Details: Gene ID: Gene Symbol: ZmGAMYB Gene Name: Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmPBF</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmpbf/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmpbf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpbf/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmpbf/</guid>
       <description>Gene Details: Gene ID: Gene Symbol: ZmPBF Gene Name: Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

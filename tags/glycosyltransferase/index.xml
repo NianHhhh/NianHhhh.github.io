@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>glycosyltransferase on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/glycosyltransferase/</link>
+    <link>https://funplantgenes.wiki/tags/glycosyltransferase/</link>
     <description>Recent content in glycosyltransferase on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/glycosyltransferase/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/glycosyltransferase/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>UFGT2;ZmUGT9256</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/ufgt2zmugt9256ugt76c2ufgt2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/ufgt2zmugt9256ugt76c2ufgt2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/ufgt2zmugt9256ugt76c2ufgt2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/ufgt2zmugt9256ugt76c2ufgt2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb304050 Gene Symbol: UFGT2 ZmUGT9256 UGT76C2 ufgt2 Gene Name: UDP-flavonol-glycosyltransferase2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmCGT1;cgt2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmcgt1cgt2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmcgt1cgt2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcgt1cgt2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmcgt1cgt2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb280950 Gene Symbol: ZmCGT1 cgt2 Gene Name: C-glucosyl transferase2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmGBSS1b;gbss1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmgbss1bgbss1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmgbss1bgbss1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmgbss1bgbss1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmgbss1bgbss1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb305810 Gene Symbol: ZmGBSS1b gbss1 Gene Name: granule-bound starch synthase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmKOB1;kob1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmkob1kob1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmkob1kob1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmkob1kob1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmkob1kob1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb119140 Gene Symbol: ZmKOB1 kob1 Gene Name: kobito1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

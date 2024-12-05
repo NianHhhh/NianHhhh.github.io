@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>carotenoid biosynthesis on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/carotenoid-biosynthesis/</link>
+    <link>https://funplantgenes.wiki/tags/carotenoid-biosynthesis/</link>
     <description>Recent content in carotenoid biosynthesis on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/carotenoid-biosynthesis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/carotenoid-biosynthesis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ZmCCD7</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb074640/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb074640/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb074640/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb074640/</guid>
       <description>Gene Details: Gene ID: Zm00001eb074640 Gene Symbol: ZmCCD7 Gene Name: carotenoid cleavage dioxygenase7 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmcrtRB3</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb073250/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb073250/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb073250/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb073250/</guid>
       <description>Gene Details: Gene ID: Zm00001eb073250 Gene Symbol: ZmcrtRB3|hyd4 Gene Name: hydroxylase4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

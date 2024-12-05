@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>epidermis on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/epidermis/</link>
+    <link>https://funplantgenes.wiki/tags/epidermis/</link>
     <description>Recent content in epidermis on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/epidermis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/epidermis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cr4</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/cr4/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/cr4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/cr4/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/cr4/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb406780 Gene Symbol: Cr4 Gene Name: crinkly4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmAMT1;1a</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmamt1.1a/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmamt1.1a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmamt1.1a/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmamt1.1a/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb426350 Gene Symbol: ZmAMT1;1a Gene Name: ammonium transporter1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmHAK1;umc2250</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmhak1umc2250/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmhak1umc2250/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmhak1umc2250/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmhak1umc2250/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb084630 Gene Symbol: ZmHAK1 umc2250 Gene Name: potassium high-affinity transporter1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmPAO</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmpao/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmpao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpao/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmpao/</guid>
       <description>Gene Details: Gene ID: Gene Symbol: ZmPAO Gene Name: polyamine oxidase Genome: Species: Zea mays Functional Descriptions: Maize (Zea mays) PAO (ZmPAO) is a developmentally regulated flavoprotein abundant in primary and secondary cell walls of several tissues.</description>
     </item>
     <item>
       <title>ZmTon2;dcd1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmton2dcd1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmton2dcd1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmton2dcd1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmton2dcd1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb418170 Gene Symbol: ZmTon2 dcd1 Gene Name: discordia1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

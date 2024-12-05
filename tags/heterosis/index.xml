@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>heterosis on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/heterosis/</link>
+    <link>https://funplantgenes.wiki/tags/heterosis/</link>
     <description>Recent content in heterosis on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/heterosis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/heterosis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ZmARF25;ZmARF32</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmarf25zmarf32arftf25/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmarf25zmarf32arftf25/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmarf25zmarf32arftf25/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmarf25zmarf32arftf25/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb363810 Gene Symbol: ZmARF25 ZmARF32 arftf25 Gene Name: ARF-transcription factor 25 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmKOB1;kob1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmkob1kob1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmkob1kob1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmkob1kob1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmkob1kob1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb119140 Gene Symbol: ZmKOB1 kob1 Gene Name: kobito1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmMs30</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb195900/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb195900/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb195900/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb195900/</guid>
       <description>Gene Details: Gene ID: Zm00001eb195900 Gene Symbol: ZmMs30 Gene Name: male sterile30 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

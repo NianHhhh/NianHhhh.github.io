@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>lignin biosynthesis on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/lignin-biosynthesis/</link>
+    <link>https://funplantgenes.wiki/tags/lignin-biosynthesis/</link>
     <description>Recent content in lignin biosynthesis on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/lignin-biosynthesis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/lignin-biosynthesis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BM5;Zm4CL2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/bm5zm4cl2zm4clzm4cl1cml1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/bm5zm4cl2zm4clzm4cl1cml1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/bm5zm4cl2zm4clzm4cl1cml1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/bm5zm4cl2zm4clzm4cl1cml1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb233720 Gene Symbol: BM5 Zm4CL2 Zm4CL Zm4CL1 cml1 Gene Name: brown midrib5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>RUM1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/rum1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/rum1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/rum1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/rum1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb156910 Gene Symbol: RUM1 Gene Name: ROOTLESS WITH UNDETECTABLE MERISTEMS 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmGA20ox</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmga20ox/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmga20ox/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmga20ox/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmga20ox/</guid>
       <description>Gene Details: Gene ID: Gene Symbol: ZmGA20ox Gene Name: gibberellin 20-oxidase Genome: Species: Zea mays Functional Descriptions: Expression of ZmGA20ox cDNA alters plant morphology and increases biomass production of switchgrass.</description>
     </item>
     <item>
       <title>ZmLAC5;ZmLac6</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmlac5zmlac6zmlac8lac5/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmlac5zmlac6zmlac8lac5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmlac5zmlac6zmlac8lac5/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmlac5zmlac6zmlac8lac5/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb148240 Gene Symbol: ZmLAC5 ZmLac6 ZmLAC8 lac5 Gene Name: laccase5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmmiR528</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/grmzm5g809042/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/grmzm5g809042/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/grmzm5g809042/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/grmzm5g809042/</guid>
       <description>Gene Details: Gene ID: GRMZM5G809042 Gene Symbol: ZmmiR528|miR528a Gene Name: microRNA528 Genome: B73_RefGen_v3 Species: Zea mays Functional Descriptions: MicroRNA528 Affects Lodging Resistance of Maize by Regulating Lignin Biosynthesis under Nitrogen-Luxury Conditions.</description>
     </item>
     <item>
       <title>ZmMYB69</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmmyb69/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmmyb69/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmyb69/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmmyb69/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb405450 Gene Symbol: ZmMYB69 Gene Name: MYB-transcription factor 69 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

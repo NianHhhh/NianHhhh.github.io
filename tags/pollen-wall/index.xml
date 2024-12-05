@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>pollen wall on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/pollen-wall/</link>
+    <link>https://funplantgenes.wiki/tags/pollen-wall/</link>
     <description>Recent content in pollen wall on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/pollen-wall/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/pollen-wall/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bk2-ref</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb393080/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb393080/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb393080/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb393080/</guid>
       <description>Gene Details: Gene ID: Zm00001eb393080 Gene Symbol: bk2-BK2 Gene Name: Brittle stalk 2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmLLG1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmllg1lorelei-like-glycosylphosphatidylinositol-anchor1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmllg1lorelei-like-glycosylphosphatidylinositol-anchor1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmllg1lorelei-like-glycosylphosphatidylinositol-anchor1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmllg1lorelei-like-glycosylphosphatidylinositol-anchor1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb078280 Gene Symbol: ZmLLG1 Gene Name: lorelei-like glycosylphosphatidylinositol-anchor1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmLLG2;llg2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmllg2llg2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmllg2llg2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmllg2llg2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmllg2llg2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb316280 Gene Symbol: ZmLLG2 llg2 Gene Name: lorelei-like glycosylphosphatidylinositol-anchor2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmRALF12;ralf12</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmralf12ralf12/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmralf12ralf12/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmralf12ralf12/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmralf12ralf12/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb410350 Gene Symbol: ZmRALF12 ralf12 Gene Name: rapid alkalinization factor12 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

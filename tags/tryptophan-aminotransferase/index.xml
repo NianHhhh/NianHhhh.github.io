@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tryptophan aminotransferase on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/tryptophan-aminotransferase/</link>
+    <link>https://funplantgenes.wiki/tags/tryptophan-aminotransferase/</link>
     <description>Recent content in tryptophan aminotransferase on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/tryptophan-aminotransferase/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/tryptophan-aminotransferase/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vt2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/vt2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/vt2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/vt2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/vt2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb336530 Gene Symbol: Vt2 Gene Name: vanishing tassel2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

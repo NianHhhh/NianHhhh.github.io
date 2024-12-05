@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>receptor kinase on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/receptor-kinase/</link>
+    <link>https://funplantgenes.wiki/tags/receptor-kinase/</link>
     <description>Recent content in receptor kinase on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/receptor-kinase/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/receptor-kinase/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ChSK1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/chsk1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/chsk1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/chsk1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/chsk1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb124060 Gene Symbol: ChSK1 Gene Name: Cochliobolus heterostrophus Susceptibility Kinase 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>Cr4</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/cr4/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/cr4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/cr4/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/cr4/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb406780 Gene Symbol: Cr4 Gene Name: crinkly4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>Rlk10;fi-rlpk</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/rlk10fi-rlpk/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/rlk10fi-rlpk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/rlk10fi-rlpk/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/rlk10fi-rlpk/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb293660 Gene Symbol: Rlk10 fi-rlpk Gene Name: receptor-like protein kinase10 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>Td1;ZmRLK</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/td1zmrlkzmkin5/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/td1zmrlkzmkin5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/td1zmrlkzmkin5/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/td1zmrlkzmkin5/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb228140 Gene Symbol: Td1 ZmRLK ZmKIN5 Gene Name: thick tassel dwarf1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmBAM1d</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmbam1d/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmbam1d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmbam1d/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmbam1d/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb009640 Gene Symbol: ZmBAM1d Gene Name: BARELY ANY MERISTEM 1d ortholog Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmDRIK1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb013610/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb013610/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb013610/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb013610/</guid>
       <description>Gene Details: Gene ID: Zm00001eb013610 Gene Symbol: ZmDRIK1 Gene Name: Restorer-of-fertility 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmRLK7;rlk7</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmrlk7rlk7/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmrlk7rlk7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmrlk7rlk7/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmrlk7rlk7/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb316130 Gene Symbol: ZmRLK7 rlk7 Gene Name: receptor-like protein kinase7 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmSTK1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb374240/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb374240/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb374240/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb374240/</guid>
       <description>Gene Details: Gene ID: Zm00001eb374240 Gene Symbol: ZmSTK1 Gene Name: serine threonine kinase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmSTK2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb192750/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb192750/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb192750/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb192750/</guid>
       <description>Gene Details: Gene ID: Zm00001eb192750 Gene Symbol: ZmSTK2|stk3 Gene Name: serine-threonine kinase3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmWAK-RLK1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb360630/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb360630/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb360630/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb360630/</guid>
       <description>Gene Details: Gene ID: Zm00001eb360630 Gene Symbol: ZmWAK-RLK1|ZmPSTOL8.05_1 Gene Name: receptor-like protein kinase6 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

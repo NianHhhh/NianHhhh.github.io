@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ovule on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/ovule/</link>
+    <link>https://funplantgenes.wiki/tags/ovule/</link>
     <description>Recent content in ovule on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/ovule/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/ovule/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zm.ov1;H2B</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm.ov1h2bhis2b5/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm.ov1h2bhis2b5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm.ov1h2bhis2b5/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm.ov1h2bhis2b5/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb188570 Gene Symbol: Zm.ov1 H2B his2b5 Gene Name: histone 2B5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>Zm.ov5;H2A</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm.ov5h2ahis2a1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm.ov5h2ahis2a1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm.ov5h2ahis2a1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm.ov5h2ahis2a1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb397500 Gene Symbol: Zm.ov5 H2A his2a1 Gene Name: histone2A1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>homologous recombination on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/homologous-recombination/</link>
+    <link>https://funplantgenes.wiki/tags/homologous-recombination/</link>
     <description>Recent content in homologous recombination on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/homologous-recombination/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/homologous-recombination/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ZmMTOPVIB</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb227420/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb227420/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb227420/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb227420/</guid>
       <description>Gene Details: Gene ID: Zm00001eb227420 Gene Symbol: ZmMTOPVIB|mtopvib1 Gene Name: meiotic TopoVI B subunit1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

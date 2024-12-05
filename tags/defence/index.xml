@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>defence on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/defence/</link>
+    <link>https://funplantgenes.wiki/tags/defence/</link>
     <description>Recent content in defence on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/defence/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/defence/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>QMrdd2;glk36</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/qmrdd2glk36zmphr5zmmyb-cc4/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/qmrdd2glk36zmphr5zmmyb-cc4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/qmrdd2glk36zmphr5zmmyb-cc4/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/qmrdd2glk36zmphr5zmmyb-cc4/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb071920 Gene Symbol: QMrdd2 glk36 ZmPHR5 ZmMYB-CC4 Gene Name: G2-like-transcription factor 36 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmCPK11</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb091710/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb091710/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb091710/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb091710/</guid>
       <description>Gene Details: Gene ID: Zm00001eb091710 Gene Symbol: ZmCPK11 Gene Name: calcium dependent protein kinase11 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmLrk-1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb334730/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb334730/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb334730/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb334730/</guid>
       <description>Gene Details: Gene ID: Zm00001eb334730 Gene Symbol: ZmLrk-1|ZmWAKL47 Gene Name: Ser/Thr receptor-like kinase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmREM1.3;remo3</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmrem1.3remo3/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmrem1.3remo3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmrem1.3remo3/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmrem1.3remo3/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb075630 Gene Symbol: ZmREM1.3 remo3 Gene Name: remorin3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmSIZ1a</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb355110/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb355110/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb355110/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb355110/</guid>
       <description>Gene Details: Gene ID: Zm00001eb355110 Gene Symbol: ZmSIZ1a phd17 Gene Name: PHD-transcription factor 17 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmSIZ1b</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb265410/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb265410/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb265410/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb265410/</guid>
       <description>Gene Details: Gene ID: Zm00001eb265410 Gene Symbol: ZmSIZ1b|phd12 Gene Name: PHD-transcription factor 12 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

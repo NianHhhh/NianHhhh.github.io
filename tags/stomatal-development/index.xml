@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>stomatal development on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/stomatal-development/</link>
+    <link>https://funplantgenes.wiki/tags/stomatal-development/</link>
     <description>Recent content in stomatal development on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/stomatal-development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/stomatal-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ZmRBOH8</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmrboh8/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmrboh8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmrboh8/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmrboh8/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb040550 Gene Symbol: ZmRBOH8 Gene Name: respiratory burst oxidase8 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmZHOUPI</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb082900/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb082900/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb082900/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb082900/</guid>
       <description>Gene Details: Gene ID: Zm00001eb082900 Gene Symbol: ZmZHOUPI|ZmZOU|o11 Gene Name: opaque endosperm11 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

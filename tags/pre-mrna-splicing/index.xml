@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>pre-mrna splicing on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/pre-mrna-splicing/</link>
+    <link>https://funplantgenes.wiki/tags/pre-mrna-splicing/</link>
     <description>Recent content in pre-mrna splicing on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/pre-mrna-splicing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/pre-mrna-splicing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>UBL1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/ubl1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/ubl1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/ubl1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/ubl1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb249040 Gene Symbol: UBL1 Gene Name: U6 biogenesis like1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

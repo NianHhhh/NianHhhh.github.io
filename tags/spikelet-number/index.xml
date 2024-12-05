@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>spikelet number on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/spikelet-number/</link>
+    <link>https://funplantgenes.wiki/tags/spikelet-number/</link>
     <description>Recent content in spikelet number on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/spikelet-number/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/spikelet-number/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Td1;ZmRLK</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/td1zmrlkzmkin5/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/td1zmrlkzmkin5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/td1zmrlkzmkin5/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/td1zmrlkzmkin5/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb228140 Gene Symbol: Td1 ZmRLK ZmKIN5 Gene Name: thick tassel dwarf1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZCN1;pebp1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zcn1pebp1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zcn1pebp1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zcn1pebp1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zcn1pebp1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb164120 Gene Symbol: ZCN1 pebp1 Gene Name: phosphatidylethanolamine-binding protein1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmCT2;ct2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmct2ct2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmct2ct2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmct2ct2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmct2ct2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb005840 Gene Symbol: ZmCT2 ct2 Gene Name: compact plant2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmMADS3</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmmads3/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmmads3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmads3/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmmads3/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb298680 Gene Symbol: ZmMADS3 Gene Name: MADS3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

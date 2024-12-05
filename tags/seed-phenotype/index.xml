@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>seed phenotype on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/seed-phenotype/</link>
+    <link>https://funplantgenes.wiki/tags/seed-phenotype/</link>
     <description>Recent content in seed phenotype on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/seed-phenotype/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/seed-phenotype/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DEK58</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb298370/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb298370/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb298370/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb298370/</guid>
       <description>Gene Details: Gene ID: Zm00001eb298370 Gene Symbol: DEK58 Gene Name: defective kernel58 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>Opaque1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb193160/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb193160/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb193160/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb193160/</guid>
       <description>Gene Details: Gene ID: Zm00001eb193160 Gene Symbol: Opaque1|O1 Gene Name: opaque endosperm1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>Sh1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/sh1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/sh1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/sh1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/sh1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb374090 Gene Symbol: Sh1 Gene Name: shrunken1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>Ts5;ZmCYP94B1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/ts5zmcyp94b1cyp94b3a/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/ts5zmcyp94b1cyp94b3a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/ts5zmcyp94b1cyp94b3a/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/ts5zmcyp94b1cyp94b3a/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb169710 Gene Symbol: Ts5 ZmCYP94B1 CYP94B3a Gene Name: tasselseed5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmSnRK2.10;ZmSnRK2.8</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmsnrk2.10zmsnrk2.8zmost1-1snrkii10/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmsnrk2.10zmsnrk2.8zmost1-1snrkii10/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmsnrk2.10zmsnrk2.8zmost1-1snrkii10/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmsnrk2.10zmsnrk2.8zmost1-1snrkii10/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb219160 Gene Symbol: ZmSnRK2.10 ZmSnRK2.8 ZmOST1-1 snrkII10 Gene Name: SnRK2 serine threonine kinase10 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmTti2;TTI2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmtti2tti2dek38/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmtti2tti2dek38/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmtti2tti2dek38/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmtti2tti2dek38/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb226270 Gene Symbol: ZmTti2 TTI2 dek38 Gene Name: defective kernel38 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

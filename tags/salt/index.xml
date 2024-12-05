@@ -2,395 +2,388 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>salt on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/salt/</link>
+    <link>https://funplantgenes.wiki/tags/salt/</link>
     <description>Recent content in salt on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/salt/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/salt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ACTIN7;act1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/actin7act1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/actin7act1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/actin7act1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/actin7act1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb348450 Gene Symbol: ACTIN7 act1 Gene Name: actin1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>CST1;ZmSWEET1b</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/cst1zmsweet1bzmsweet13/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/cst1zmsweet1bzmsweet13/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/cst1zmsweet1bzmsweet13/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/cst1zmsweet1bzmsweet13/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb288410 Gene Symbol: CST1 ZmSWEET1b ZmSWEET13 Gene Name: sugars will eventually be exported transporter1b Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>HAK17</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/hak17/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/hak17/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/hak17/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/hak17/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb314520 Gene Symbol: HAK17 Gene Name: potassium high-affinity transporter17 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ORF355</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/orf355/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/orf355/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/orf355/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/orf355/</guid>
       <description>Gene Details: Gene ID:&#x9;Gene Symbol: ORF355 Gene Name: ORF355 Genome: Species: Zea mays Functional Descriptions: ORF355 confers enhanced salinity stress adaptability to S-type cytoplasmic male sterility maize by modulating the mitochondrial metabolic homeostasis.</description>
     </item>
     <item>
       <title>SAG4;Sec23</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/sag4sec23/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/sag4sec23/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/sag4sec23/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/sag4sec23/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb215130 Gene Symbol: SAG4 Sec23 Gene Name: salt-tolerance-associated-gene4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>SAG6;mre11a</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/sag6mre11aidp4073/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/sag6mre11aidp4073/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/sag6mre11aidp4073/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/sag6mre11aidp4073/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb069270 Gene Symbol: SAG6 mre11a IDP4073 Gene Name: salt-tolerance-associated-gene 6 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>UFGT2;ZmUGT9256</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/ufgt2zmugt9256ugt76c2ufgt2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/ufgt2zmugt9256ugt76c2ufgt2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/ufgt2zmugt9256ugt76c2ufgt2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/ufgt2zmugt9256ugt76c2ufgt2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb304050 Gene Symbol: UFGT2 ZmUGT9256 UGT76C2 ufgt2 Gene Name: UDP-flavonol-glycosyltransferase2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmABA2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb212270/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb212270/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb212270/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb212270/</guid>
       <description>Gene Details: Gene ID: Zm00001eb212270 Gene Symbol: ZmABA2|sca1 Gene Name: short chain alcohol dehydrogenase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmABCC;mrpa6</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmabccmrpa6zmabcb21/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmabccmrpa6zmabcb21/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmabccmrpa6zmabcb21/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmabccmrpa6zmabcb21/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb341220 Gene Symbol: ZmABCC mrpa6 ZmABCB21 Gene Name: multidrug resistance associated protein6 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmbZIP111</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb031210/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb031210/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb031210/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb031210/</guid>
       <description>Gene Details: Gene ID: Zm00001eb031210 Gene Symbol: ZmbZIP111 Gene Name: bZIP-transcription factor 111 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmbZIP72;bzip72</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmbzip72bzip72/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmbzip72bzip72/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmbzip72bzip72/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmbzip72bzip72/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb332590 Gene Symbol: ZmbZIP72 bzip72 Gene Name: bZIP-transcription factor 72 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmCBL4;ZmCBL8</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmcbl4zmcbl8cbl8/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmcbl4zmcbl8cbl8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcbl4zmcbl8cbl8/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmcbl4zmcbl8cbl8/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb203330 Gene Symbol: ZmCBL4 ZmCBL8 cbl8 Gene Name: calcineurin B-like8 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmCDPK38;cdpk33</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmcdpk38cdpk33cpk38/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmcdpk38cdpk33cpk38/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcdpk38cdpk33cpk38/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmcdpk38cdpk33cpk38/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb094770 Gene Symbol: ZmCDPK38 cdpk33 CPK38 Gene Name: calcium dependent protein kinase33 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmCLCg</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmclcg/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmclcg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmclcg/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmclcg/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb068640 Gene Symbol: ZmCLCg Gene Name: chloride channel G Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmELF6;ZmJMJ18</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmelf6zmjmj18jmj20/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmelf6zmjmj18jmj20/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmelf6zmjmj18jmj20/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmelf6zmjmj18jmj20/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001d048404 Gene Symbol: ZmELF6 ZmJMJ18 jmj20 Gene Name: JUMONJI-transcription factor 20 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmEREB57</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb193060/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb193060/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb193060/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb193060/</guid>
       <description>Gene Details: Gene ID: Zm00001eb193060 Gene Symbol: ZmEREB57 Gene Name: AP2-EREBP-transcription factor 57 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmEXPB2;EXPB2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmexpb2expb2expb4/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmexpb2expb2expb4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmexpb2expb2expb4/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmexpb2expb2expb4/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb306350 Gene Symbol: ZmEXPB2 EXPB2 expb4 Gene Name: beta expansin4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmGF14-6</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb080570/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb080570/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb080570/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb080570/</guid>
       <description>Gene Details: Gene ID: Zm00001eb080570 Gene Symbol: ZmGF14-6|ZmGRF24 Gene Name: general regulatory factor1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmGPAT10;ZmGPA10</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmgpat10zmgpa10gpat8/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmgpat10zmgpa10gpat8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmgpat10zmgpa10gpat8/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmgpat10zmgpa10gpat8/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb159140 Gene Symbol: ZmGPAT10 ZmGPA10 gpat8 Gene Name: glycerol-3-phosphate acyltransferase8 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmGSK3;ZmSK3</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmgsk3zmsk3/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmgsk3zmsk3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmgsk3zmsk3/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmgsk3zmsk3/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb238820 Gene Symbol: ZmGSK3 ZmSK3 Gene Name: glycogen synthase kinase3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmGSK4;ZmSK4</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmgsk4gsk4/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmgsk4gsk4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmgsk4gsk4/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmgsk4gsk4/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb204920 Gene Symbol: ZmGSK4 ZmSK4 Gene Name: glycogen synthase kinase4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmHAK4;ZmNC2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmhak4zmnc2hak4/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmhak4zmnc2hak4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmhak4zmnc2hak4/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmhak4zmnc2hak4/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb176380 Gene Symbol: ZmHAK4 ZmNC2 hak4 Gene Name: high-affinity potassium transporter4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmHKT1;nc1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmhkt1nc1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmhkt1nc1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmhkt1nc1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmhkt1nc1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb130310 Gene Symbol: ZmHKT1 nc1 Gene Name: Na+ content1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmHKT2;nc2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmhkt2nc2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmhkt2nc2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmhkt2nc2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmhkt2nc2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb227000 Gene Symbol: ZmHKT2 nc2 Gene Name: Na+ content2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmHP2;hp2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmhp2hp2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmhp2hp2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmhp2hp2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmhp2hp2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb096040 Gene Symbol: ZmHP2 hp2 Gene Name: histidine-containing phosphotransfer protein2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmHsf08;ZmHSFA2-4</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmhsf08zmhsfa2-4hsftf1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmhsf08zmhsfa2-4hsftf1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmhsf08zmhsfa2-4hsftf1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmhsf08zmhsfa2-4hsftf1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb100770 Gene Symbol: ZmHsf08 ZmHSFA2-4 hsftf1 Gene Name: HSF-transcription factor 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmHSP90;shpl1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmhsp90shpl1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmhsp90shpl1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmhsp90shpl1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmhsp90shpl1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb228120 Gene Symbol: ZmHSP90 shpl1 Gene Name: shepherd-like1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmILI1;ili1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmili1ili1qla2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmili1ili1qla2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmili1ili1qla2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmili1ili1qla2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb068900 Gene Symbol: ZmILI1 ili1 qLA2 Gene Name: increased leaf inclination1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmKEA2;kea2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmkea2kea2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmkea2kea2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmkea2kea2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmkea2kea2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb433980 Gene Symbol: ZmKEA2 kea2 Gene Name: K+ efflux antiporter 2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmLAC9;ZmAOA</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmlac9zmaoazmlac11/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmlac9zmaoazmlac11/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmlac9zmaoazmlac11/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmlac9zmaoazmlac11/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb149240 Gene Symbol: ZmLAC9 ZmAOA ZmLAC11 Gene Name: ZmLACCASE9 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmMKK4</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb257340/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb257340/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb257340/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb257340/</guid>
       <description>Gene Details: Gene ID: Zm00001eb257340 Gene Symbol: ZmMKK4 Gene Name: MAP kinase kinase4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmNAC19;ZmNAC55</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmnac19zmnac55zma006493nactf60/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmnac19zmnac55zma006493nactf60/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnac19zmnac55zma006493nactf60/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmnac19zmnac55zma006493nactf60/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb212120 Gene Symbol: ZmNAC19 ZmNAC55 Zma006493 nactf60 Gene Name: NAC-transcription factor 60 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmNC2;hak4</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmnc2hak4/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmnc2hak4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnc2hak4/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmnc2hak4/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb176380 Gene Symbol: ZmNC2 hak4 Gene Name: high-affinity potassium transporter4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmNC3;ZmHKT1.2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmnc3zmhkt1.2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmnc3zmhkt1.2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnc3zmhkt1.2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmnc3zmhkt1.2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb071370 Gene Symbol: ZmNC3 ZmHKT1.2 Gene Name: Na+ content3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmNF-YA1;nfya1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmnf-ya1nfya1ca2p11zmnfya01/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmnf-ya1nfya1ca2p11zmnfya01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnf-ya1nfya1ca2p11zmnfya01/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmnf-ya1nfya1ca2p11zmnfya01/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb005690 Gene Symbol: ZmNF-YA1 nfya1 ca2p11 ZmNFYA01 Gene Name: nuclear transcription factor y subunit a1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmNF-YA8;ZmNFYA15</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmnf-ya8zmnfya15zmnf-ya4zmnf-ya13zmnf-ya14/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmnf-ya8zmnfya15zmnf-ya4zmnf-ya13zmnf-ya14/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnf-ya8zmnfya15zmnf-ya4zmnf-ya13zmnf-ya14/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmnf-ya8zmnfya15zmnf-ya4zmnf-ya13zmnf-ya14/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb327230 Gene Symbol: ZmNF-YA8 ZmNFYA15 ZmNF-YA4 ZmNF-YA13 ZmNF-YA14 Gene Name: NUCLEAR FACTOR YA8 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmNHX5;nhx5</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmnhx5nhx5/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmnhx5nhx5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnhx5nhx5/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmnhx5nhx5/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb330030 Gene Symbol: ZmNHX5 nhx5 Gene Name: Na+/H+ antiporter 5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmPEAMT;peamt1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmpeamtpeamt1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmpeamtpeamt1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpeamtpeamt1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmpeamtpeamt1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb155940 Gene Symbol: ZmPEAMT peamt1 Gene Name: phosphoethanolamine N-methyltransferase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmPMP3;pmpm5</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmpmp3pmpm5pmp3-5/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmpmp3pmpm5pmp3-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpmp3pmpm5pmp3-5/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmpmp3pmpm5pmp3-5/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001d022264 Gene Symbol: ZmPMP3 pmpm5 PMP3-5 Gene Name: proteolipid membrane potential regulator5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmPP107;ZmOrphan249</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmpp107zmorphan249zmpp2c4zmpp2c61prh12/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmpp107zmorphan249zmpp2c4zmpp2c61prh12/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpp107zmorphan249zmpp2c4zmpp2c61prh12/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmpp107zmorphan249zmpp2c4zmpp2c61prh12/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb294200 Gene Symbol: ZmPP107 ZmOrphan249 ZmPP2C4 ZmPP2C61 prh12 Gene Name: protein phosphatase homolog12 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmPRR37;PRR7.2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmprr37prr7.2cct14/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmprr37prr7.2cct14/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmprr37prr7.2cct14/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmprr37prr7.2cct14/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb112080 Gene Symbol: ZmPRR37 PRR7.2 cct14 Gene Name: CO CO-LIKE TIMING OF CAB1 protein domain14 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmSCaBP8;CBL10</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmscabp8cbl10/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmscabp8cbl10/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmscabp8cbl10/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmscabp8cbl10/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb160330 Gene Symbol: ZmSCaBP8 CBL10 Gene Name: calcineurin B-like10 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmSnRK2.1;ZmSnRK2.3</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmsnrk2.1zmsnrk2.3snrkii3/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmsnrk2.1zmsnrk2.3snrkii3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmsnrk2.1zmsnrk2.3snrkii3/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmsnrk2.1zmsnrk2.3snrkii3/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb023880 Gene Symbol: ZmSnRK2.1 ZmSnRK2.3 snrkII3 Gene Name: SnRK2 serine threonine protein kinase3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmSOD4</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb016940/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb016940/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb016940/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb016940/</guid>
       <description>Gene Details: Gene ID: Zm00001eb016940 Gene Symbol: ZmSOD4 Gene Name: superoxide dismutase4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmSOS1;nhx7</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmsos1nhx7/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmsos1nhx7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmsos1nhx7/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmsos1nhx7/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb033240 Gene Symbol: ZmSOS1 nhx7 Gene Name: Na+/H+ antiporter 7 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmSTG1;stg1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmstg1stg1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmstg1stg1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmstg1stg1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmstg1stg1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb388110 Gene Symbol: ZmSTG1 stg1 Gene Name: Salt-Tolerant Gene 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmSTL1;stl1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmstl1stl1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmstl1stl1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmstl1stl1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmstl1stl1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb056600 Gene Symbol: ZmSTL1 stl1 Gene Name: Salt-Tolerant Locus 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmSTL2;nhx7</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmstl2nhx7zmsos1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmstl2nhx7zmsos1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmstl2nhx7zmsos1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmstl2nhx7zmsos1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb033240 Gene Symbol: ZmSTL2 nhx7 ZmSOS1 Gene Name: Salt Tolerance Locus 2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmSWEET7;sweet6a</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmsweet7sweet6a/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmsweet7sweet6a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmsweet7sweet6a/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmsweet7sweet6a/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb161560 Gene Symbol: ZmSWEET7 sweet6a Gene Name: sugars will eventually be exported transporter6a Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmVPP5</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/grmzm2g435818/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/grmzm2g435818/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/grmzm2g435818/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/grmzm2g435818/</guid>
       <description>Gene Details: Gene ID: GRMZM2G435818 Gene Symbol: ZmVPP5 Gene Name: vacuole H+-PPase 5 Genome: B73_RefGen_v3 Species: Zea mays Functional Descriptions: Maize ZmVPP5 is a truncated Vacuole H+-PPase that confers hypersensitivity to salt stress.</description>
     </item>
     <item>
       <title>ZmWRKY104</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb368850/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb368850/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb368850/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb368850/</guid>
       <description>Gene Details: Gene ID: Zm00001eb368850 Gene Symbol: ZmWRKY104 Gene Name: Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmWRKY115</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb408520/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb408520/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb408520/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb408520/</guid>
       <description>Gene Details: Gene ID: Zm00001eb408520 Gene Symbol: ZmWRKY115|ZmWRKY15 Gene Name: WRKY-transcription factor 15 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmWRKY17;wrky105</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmwrky17wrky105/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmwrky17wrky105/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmwrky17wrky105/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmwrky17wrky105/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb086280 Gene Symbol: ZmWRKY17 wrky105 Gene Name: WRKY-transcription factor 105 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmWRKY20</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb098330/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb098330/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb098330/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb098330/</guid>
       <description>Gene Details: Gene ID: Zm00001eb098330 Gene Symbol: ZmWRKY20|ZmWRKY38 Gene Name: WRKY-transcription factor 38 Genome: Zm-B73-REFERENCE-NAM-5.</description>
-    </item>
-    <item>
-      <title>ZjPMA5</title>
-      <link>https://nianhhhh.github.io/genes/ziziphus_jujuba/zjpma5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/ziziphus_jujuba/zjpma5/</guid>
-      <description>Gene Details: Gene ID:&#x9;Zj.jz005437118 Gene Symbol: ZjPMA5 Gene Name: Genome: “Junzao” reference genome Species: Ziziphus jujuba Functional Description: Plasma membrane-type ATPase (ZjPMA5) was down-regulated in AM roots compared with NM roots, but was up-regulated after salt stress.</description>
     </item>
   </channel>
 </rss>

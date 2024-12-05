@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>photoperiod on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/photoperiod/</link>
+    <link>https://funplantgenes.wiki/tags/photoperiod/</link>
     <description>Recent content in photoperiod on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/photoperiod/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/photoperiod/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ZmCCT</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb368200/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb368200/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb368200/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb368200/</guid>
       <description>Gene Details: Gene ID: Zm00001eb368200 Gene Symbol: ZmCCT|ZmCCT3 Gene Name: CO CO-LIKE TIMING OF CAB1 protein domain3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

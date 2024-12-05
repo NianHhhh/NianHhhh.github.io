@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>gibberellin on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/gibberellin/</link>
+    <link>https://funplantgenes.wiki/tags/gibberellin/</link>
     <description>Recent content in gibberellin on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/gibberellin/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/gibberellin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AN1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/an1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/an1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/an1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/an1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb048020 Gene Symbol: AN1 Gene Name: anther ear1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>BAK1;bak4</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/bak1bak4/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/bak1bak4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/bak1bak4/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/bak1bak4/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb288130 Gene Symbol: BAK1 bak4 Gene Name: brassinosteroid insensitive1-associated receptor kinase 4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>D3;ZmKAO</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/d3zmkaozmkao1zmgad5gad5/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/d3zmkaozmkao1zmgad5gad5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/d3zmkaozmkao1zmgad5gad5/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/d3zmkaozmkao1zmgad5gad5/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb379120 Gene Symbol: D3 ZmKAO ZmKAO1 ZmGAD5 gad5 Gene Name: dwarf plant 3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>D8;ZmGRAS8</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/d8zmgras8/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/d8zmgras8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/d8zmgras8/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/d8zmgras8/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb054480 Gene Symbol: D8 ZmGRAS8 Gene Name: dwarf plant8 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>D9;ZmGRAS44</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/d9zmgras44zmgai/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/d9zmgras44zmgai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/d9zmgras44zmgai/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/d9zmgras44zmgai/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb216610 Gene Symbol: D9 ZmGRAS44 ZmGAI Gene Name: dwarf plant9 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmG6PDH4;G6PD2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmg6pdh4g6pd2gpdh4/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmg6pdh4g6pd2gpdh4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmg6pdh4g6pd2gpdh4/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmg6pdh4g6pd2gpdh4/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb019890 Gene Symbol: ZmG6PDH4 G6PD2 gpdh4 Gene Name: glucose-6-phosphate dehydrogenase4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmGA20ox3;ZmGA20ox2.1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmga20ox3zmga20ox2.1ga20ox3/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmga20ox3zmga20ox2.1ga20ox3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmga20ox3zmga20ox2.1ga20ox3/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmga20ox3zmga20ox2.1ga20ox3/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb145600 Gene Symbol: ZmGA20ox3 ZmGA20ox2.1 ga20ox3 Gene Name: gibberellin 20-oxidase3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmGA2ox;ZmGA2ox6</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmga2oxzmga2ox6ga2ox6/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmga2oxzmga2ox6ga2ox6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmga2oxzmga2ox6ga2ox6/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmga2oxzmga2ox6ga2ox6/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb283860 Gene Symbol: ZmGA2ox ZmGA2ox6 ga2ox6 Gene Name: gibberellin 2-oxidase6 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmGA3ox5;ZmGA3ox5</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmga3ox5zmga3ox5zmga20ox2.2ga20ox5/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmga3ox5zmga3ox5zmga20ox2.2ga20ox5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmga3ox5zmga3ox5zmga20ox2.2ga20ox5/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmga3ox5zmga3ox5zmga20ox2.2ga20ox5/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb366090 Gene Symbol: ZmGA3ox5 ZmGA3ox5 ZmGA20ox2.2 ga20ox5 Gene Name: gibberellin 20-oxidase5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmGAOX3|D1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/d1zmgaox3/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/d1zmgaox3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/d1zmgaox3/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/d1zmgaox3/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb122500 Gene Symbol: ZmGA3ox2 D1 ZmGAOX3 Gene Name: dwarf plant 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmLBD5</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmlbd5/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmlbd5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmlbd5/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmlbd5/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb019930 Gene Symbol: ZmLBD5 Gene Name: LBD-transcription factor 5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmMYB59;myb88</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmmyb59myb88/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmmyb59myb88/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmyb59myb88/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmmyb59myb88/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb164740 Gene Symbol: ZmMYB59 myb88 Gene Name: MYB-transcription factor 88 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

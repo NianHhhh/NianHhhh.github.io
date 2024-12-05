@@ -2,128 +2,128 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>as transport on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/as-transport/</link>
+    <link>https://funplantgenes.wiki/tags/as-transport/</link>
     <description>Recent content in as transport on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/as-transport/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/as-transport/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BIGE1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/bige1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/bige1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/bige1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/bige1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb211050 Gene Symbol: BIGE1 Gene Name: Big embryo 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>Gl13</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/gl13/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/gl13/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/gl13/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/gl13/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb122470 Gene Symbol: Gl13 Gene Name: glossy13 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>Tdy1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb297040/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb297040/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb297040/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb297040/</guid>
       <description>Gene Details: Gene ID: Zm00001eb297040 Gene Symbol: Tdy1 Gene Name: tie-dyed1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmABCB19;ABCB19</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmabcb19abcb19mrpa24/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmabcb19abcb19mrpa24/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmabcb19abcb19mrpa24/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmabcb19abcb19mrpa24/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb243520 Gene Symbol: ZmABCB19 ABCB19 mrpa24 Gene Name: multidrug resistance associated protein24 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmAFB1;tir1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmafb1tir1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmafb1tir1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmafb1tir1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmafb1tir1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb354200 Gene Symbol: ZmAFB1 tir1 Gene Name: transport inhibitor response1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmCOP1;ZmCOP1a</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmcop1zmcop1aupl13/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmcop1zmcop1aupl13/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcop1zmcop1aupl13/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmcop1zmcop1aupl13/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb256270 Gene Symbol: ZmCOP1 ZmCOP1a upl13 Gene Name: ubiquitin-protein ligase13 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmLA1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmla1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmla1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmla1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmla1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb169480 Gene Symbol: ZmLA1 Gene Name: lazy plant1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmLTPg10;plt39</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmltpg10plt39/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmltpg10plt39/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmltpg10plt39/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmltpg10plt39/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb080620 Gene Symbol: ZmLTPg10 plt39 Gene Name: phospholipid transfer protein39 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmNRAMP4;ZmNRAMP6</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmnramp4zmnramp6nrat2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmnramp4zmnramp6nrat2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnramp4zmnramp6nrat2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmnramp4zmnramp6nrat2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb231210 Gene Symbol: ZmNRAMP4 ZmNRAMP6 nrat2 Gene Name: nramp aluminum transporter2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmPGP1;br2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmpgp1br2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmpgp1br2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpgp1br2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmpgp1br2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb038710 Gene Symbol: ZmPGP1 br2 Gene Name: brachytic2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmPKSB;chls1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmpksbchls1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmpksbchls1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpksbchls1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmpksbchls1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb305800 Gene Symbol: ZmPKSB chls1 Gene Name: chalcone synthase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmPP2Ac-2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmpp2ac-2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmpp2ac-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpp2ac-2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmpp2ac-2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb212620 Gene Symbol: ZmPP2Ac-2 Gene Name: prh28 - protein phosphatase homolog28 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmSWEET3a;ZmSWEET15</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmsweet3azmsweet15zmsweet16/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmsweet3azmsweet15zmsweet16/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmsweet3azmsweet15zmsweet16/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmsweet3azmsweet15zmsweet16/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb350590 Gene Symbol: ZmSWEET3a ZmSWEET15 ZmSWEET16 Gene Name: sugars will eventually be exported transporter3a Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmSWEET4c</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmsweet4c/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmsweet4c/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmsweet4c/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmsweet4c/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb236810 Gene Symbol: ZmSWEET4c Gene Name: sugars will eventually be exported transporter4c Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmVPP5</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/grmzm2g435818/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/grmzm2g435818/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/grmzm2g435818/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/grmzm2g435818/</guid>
       <description>Gene Details: Gene ID: GRMZM2G435818 Gene Symbol: ZmVPP5 Gene Name: vacuole H+-PPase 5 Genome: B73_RefGen_v3 Species: Zea mays Functional Descriptions: Maize ZmVPP5 is a truncated Vacuole H+-PPase that confers hypersensitivity to salt stress.</description>
     </item>
     <item>
       <title>ZmVPS29;vps29</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmvps29vps29/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmvps29vps29/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmvps29vps29/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmvps29vps29/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb203950 Gene Symbol: ZmVPS29 vps29 Gene Name: vacuolar protein sorting29 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmWRKY031;ZmWRKY130</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmwrky031zmwrky130zmwrky54wrky54/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmwrky031zmwrky130zmwrky54wrky54/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmwrky031zmwrky130zmwrky54wrky54/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmwrky031zmwrky130zmwrky54wrky54/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb148260 Gene Symbol: ZmWRKY031 ZmWRKY130 ZmWRKY54 wrky54 Gene Name: WRKY-transcription factor 54 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

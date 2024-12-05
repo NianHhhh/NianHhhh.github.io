@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>fatty acid biosynthesis on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/fatty-acid-biosynthesis/</link>
+    <link>https://funplantgenes.wiki/tags/fatty-acid-biosynthesis/</link>
     <description>Recent content in fatty acid biosynthesis on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/fatty-acid-biosynthesis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/fatty-acid-biosynthesis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ZmGL2;gl2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmgl2gl2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmgl2gl2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmgl2gl2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmgl2gl2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb071110 Gene Symbol: ZmGL2 gl2 Gene Name: glossy2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmGL8;Gl8</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmgl8gl8/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmgl8gl8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmgl8gl8/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmgl8gl8/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb246270 Gene Symbol: ZmGL8 Gl8 Gene Name: glossy8 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

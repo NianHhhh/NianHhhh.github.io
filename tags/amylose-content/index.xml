@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>amylose content on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/amylose-content/</link>
+    <link>https://funplantgenes.wiki/tags/amylose-content/</link>
     <description>Recent content in amylose content on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/amylose-content/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/amylose-content/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sbe1;sbe1a</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/sbe1sbe1aspe1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/sbe1sbe1aspe1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/sbe1sbe1aspe1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/sbe1sbe1aspe1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb228530 Gene Symbol: Sbe1 sbe1a spe1 Gene Name: starch branching enzyme1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>SBEIIb;Sbe2b</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/sbeiibsbe2bsbeae1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/sbeiibsbe2bsbeae1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/sbeiibsbe2bsbeae1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/sbeiibsbe2bsbeae1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb242610 Gene Symbol: SBEIIb Sbe2b Sbe ae1 Gene Name: amylose extender1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmMYB115</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmmyb115/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmmyb115/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmyb115/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmmyb115/</guid>
       <description>Gene Details: Gene ID:&#x9;GRMZM2G423833 Gene Symbol: ZmMYB115 Gene Name: GRMZM2G423833 Genome: B73_RefGen_v3 Species: Zea mays Functional Descriptions: The expression of ZmMYB115 can directly regulate the expression of Du1 and Wx and may be positively correlated to the amylose content in maize endosperm.</description>
     </item>
     <item>
       <title>ZmSUS1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb392880/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb392880/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb392880/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb392880/</guid>
       <description>Gene Details: Gene ID: Zm00001eb392880 Gene Symbol: ZmSUS1 Gene Name: sucrose synthase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

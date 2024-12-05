@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>al resistance on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/al-resistance/</link>
+    <link>https://funplantgenes.wiki/tags/al-resistance/</link>
     <description>Recent content in al resistance on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/al-resistance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/al-resistance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ZmMATE6;ZmMATE23</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmmate6zmmate23mate4/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmmate6zmmate23mate4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmate6zmmate23mate4/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmmate6zmmate23mate4/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb130600 Gene Symbol: ZmMATE6 ZmMATE23 mate4 Gene Name: multidrug and toxic compound extrusion4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmMRP4|lpa1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmmrp4lpa1mrpa4/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmmrp4lpa1mrpa4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmrp4lpa1mrpa4/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmmrp4lpa1mrpa4/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb003490 Gene Symbol: ZmMRP4 ZmABCB1 lpa1 mrpa4 Gene Name: multidrug resistance-associated protein 4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmMYB81;myb81</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmmyb81myb81/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmmyb81myb81/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmyb81myb81/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmmyb81myb81/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb124630 Gene Symbol: ZmMYB81 myb81 Gene Name: MYB-transcription factor 81 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmNRT1.1A;ZmNPF6.4</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmnrt1.1azmnpf6.4npf1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmnrt1.1azmnpf6.4npf1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnrt1.1azmnpf6.4npf1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmnrt1.1azmnpf6.4npf1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb416090 Gene Symbol: ZmNRT1.1A ZmNPF6.4 npf1 Gene Name: nitrate transporter/peptide transporter family1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmSLAH2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmslah2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmslah2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmslah2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmslah2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb358580 Gene Symbol: ZmSLAH2 Gene Name: Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

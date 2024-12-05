@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>leaf patterning on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/leaf-patterning/</link>
+    <link>https://funplantgenes.wiki/tags/leaf-patterning/</link>
     <description>Recent content in leaf patterning on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/leaf-patterning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/leaf-patterning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HDA108</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/hda108/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/hda108/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/hda108/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/hda108/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb177560 Gene Symbol: HDA108 Gene Name: histone deacetylase Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>Hsf1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/hsf1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/hsf1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/hsf1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/hsf1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb253970 Gene Symbol: Hsf1 Gene Name: Hairy sheath frayed1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>LBL1;rgd1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/lbl1rgd1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/lbl1rgd1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/lbl1rgd1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/lbl1rgd1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb264310 Gene Symbol: LBL1 rgd1 Gene Name: ragged seedling1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>Wox3;Wox3a</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/wox3wox3a/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/wox3wox3a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/wox3wox3a/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/wox3wox3a/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb265710 Gene Symbol: Wox3 Wox3a Gene Name: Wuschel-like homeobox3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmSCR1;ZmGRAS78</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmscr1zmgras78zmscrscarecrowscrscro1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmscr1zmgras78zmscrscarecrowscrscro1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmscr1zmgras78zmscrscarecrowscrscro1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmscr1zmgras78zmscrscarecrowscrscro1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb195650 Gene Symbol: ZmSCR1 ZmGRAS78 ZmSCR SCARECROW SCR scro1 Gene Name: scarecrow1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmSCR1h;ZmSCR2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmscr1hzmscr2zmscarecrow2gras37/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmscr1hzmscr2zmscarecrow2gras37/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmscr1hzmscr2zmscarecrow2gras37/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmscr1hzmscr2zmscarecrow2gras37/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb093670 Gene Symbol: ZmSCR1h ZmSCR2 ZmScarecrow2 gras37 Gene Name: GRAS-transcription factor 37 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmWOX14;Wox3b</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmwox14wox3b/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmwox14wox3b/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmwox14wox3b/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmwox14wox3b/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb355310 Gene Symbol: ZmWOX14 Wox3b Gene Name: Wuschel-like homeobox3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

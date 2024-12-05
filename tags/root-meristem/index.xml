@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>root meristem on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/root-meristem/</link>
+    <link>https://funplantgenes.wiki/tags/root-meristem/</link>
     <description>Recent content in root meristem on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/root-meristem/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/root-meristem/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cg1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/cg1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/cg1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/cg1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/cg1/</guid>
       <description>Gene Details: Gene ID:&#x9;GRMZM5G838324 Gene Symbol: Cg1 Gene Name: Corngrass1 Genome: B73_RefGen_v3 Species: Zea mays Functional Descriptions: Furthermore, a target of Cg1 is teosinte glume architecture1 (tga1)1, a gene known to have had a role in the domestication of maize from teosinte.</description>
     </item>
     <item>
       <title>CycZmG1;cycZme1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/cyczmg1cyczme1cyc5/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/cyczmg1cyczme1cyc5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/cyczmg1cyczme1cyc5/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/cyczmg1cyczme1cyc5/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb332550 Gene Symbol: CycZmG1 cycZme1 cyc5 Gene Name: cyclin5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>LBL1;rgd1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/lbl1rgd1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/lbl1rgd1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/lbl1rgd1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/lbl1rgd1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb264310 Gene Symbol: LBL1 rgd1 Gene Name: ragged seedling1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>LRP1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/lrp1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/lrp1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/lrp1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/lrp1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb362740 Gene Symbol: LRP1 Gene Name: LATERAL ROOT PRIMORDIA 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmCOLD1-2;cold2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmcold1-2cold2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmcold1-2cold2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcold1-2cold2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmcold1-2cold2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001d002431 Gene Symbol: ZmCOLD1-2 cold2 Gene Name: cold rsponsive2 Genome: Zm-B73-REFERENCE-GRAMENE-4.</description>
     </item>
     <item>
       <title>ZmTAC1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmtac1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmtac1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmtac1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmtac1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb103250 Gene Symbol: ZmTAC1 Gene Name: tiller angle control1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

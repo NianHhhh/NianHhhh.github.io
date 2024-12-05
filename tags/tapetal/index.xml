@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tapetal on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/tapetal/</link>
+    <link>https://funplantgenes.wiki/tags/tapetal/</link>
     <description>Recent content in tapetal on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/tapetal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/tapetal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BHLH51;ZmbHLH51</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/bhlh51zmbhlh51/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/bhlh51zmbhlh51/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/bhlh51zmbhlh51/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/bhlh51zmbhlh51/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb208200 Gene Symbol: BHLH51 ZmbHLH51 Gene Name: bHLH-transcription factor 51 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>Ms44;ZmLTPc1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/ms44zmltpc1mfs14/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/ms44zmltpc1mfs14/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/ms44zmltpc1mfs14/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/ms44zmltpc1mfs14/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb198610 Gene Symbol: Ms44 ZmLTPc1 MFS14 Gene Name: male sterile44 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>MS8</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/ms8/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/ms8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/ms8/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/ms8/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb366340 Gene Symbol: MS8 Gene Name: male sterile8 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmMS1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb272570/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb272570/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb272570/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb272570/</guid>
       <description>Gene Details: Gene ID: Zm00001eb272570 Gene Symbol: ZmMS1|ZmLBD30 Gene Name: male sterile1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmMs13;ZmABCG2a</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmms13zmabcg2ams/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmms13zmabcg2ams/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmms13zmabcg2ams/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmms13zmabcg2ams/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb221130 Gene Symbol: ZmMs13 ZmABCG2a ms Gene Name: male sterile13 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmMS26;MS26</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmms26ms26/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmms26ms26/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmms26ms26/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmms26ms26/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb005300 Gene Symbol: ZmMS26 MS26 Gene Name: male sterile26 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmMS39;ms39</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmms39ms39/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmms39ms39/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmms39ms39/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmms39ms39/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb157150 Gene Symbol: ZmMS39 ms39 Gene Name: male sterile39 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

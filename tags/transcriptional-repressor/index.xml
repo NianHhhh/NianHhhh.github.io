@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>transcriptional repressor on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/transcriptional-repressor/</link>
+    <link>https://funplantgenes.wiki/tags/transcriptional-repressor/</link>
     <description>Recent content in transcriptional repressor on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/transcriptional-repressor/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/transcriptional-repressor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ra1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/ra1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/ra1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/ra1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/ra1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb312340 Gene Symbol: Ra1 Gene Name: ramosa1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmAFB1;tir1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmafb1tir1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmafb1tir1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmafb1tir1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmafb1tir1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb354200 Gene Symbol: ZmAFB1 tir1 Gene Name: transport inhibitor response1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmEREB179</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb006160/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb006160/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb006160/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb006160/</guid>
       <description>Gene Details: Gene ID: Zm00001eb006160 Gene Symbol: ZmEREB179 Gene Name: AP2-EREBP transcription factor 179 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmMS1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb272570/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb272570/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb272570/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb272570/</guid>
       <description>Gene Details: Gene ID: Zm00001eb272570 Gene Symbol: ZmMS1|ZmLBD30 Gene Name: male sterile1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

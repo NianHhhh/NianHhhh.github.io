@@ -2,268 +2,268 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>meristem on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/meristem/</link>
+    <link>https://funplantgenes.wiki/tags/meristem/</link>
     <description>Recent content in meristem on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/meristem/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/meristem/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cg1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/cg1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/cg1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/cg1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/cg1/</guid>
       <description>Gene Details: Gene ID:&#x9;GRMZM5G838324 Gene Symbol: Cg1 Gene Name: Corngrass1 Genome: B73_RefGen_v3 Species: Zea mays Functional Descriptions: Furthermore, a target of Cg1 is teosinte glume architecture1 (tga1)1, a gene known to have had a role in the domestication of maize from teosinte.</description>
     </item>
     <item>
       <title>Ct2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/ct2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/ct2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/ct2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/ct2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb005840 Gene Symbol: Ct2 Gene Name: compact plant2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>CycZmG1;cycZme1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/cyczmg1cyczme1cyc5/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/cyczmg1cyczme1cyc5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/cyczmg1cyczme1cyc5/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/cyczmg1cyczme1cyc5/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb332550 Gene Symbol: CycZmG1 cycZme1 cyc5 Gene Name: cyclin5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>Drl1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/drl1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/drl1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/drl1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/drl1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb008680 Gene Symbol: Drl1 Gene Name: drooping leaf1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>Drl2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/drl2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/drl2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/drl2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/drl2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb400130 Gene Symbol: Drl2 Gene Name: drooping leaf2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>GT1;Zmhdz-15</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/gt1zmhdz-15/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/gt1zmhdz-15/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/gt1zmhdz-15/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/gt1zmhdz-15/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb007950 Gene Symbol: GT1 Zmhdz-15 Gene Name: GRASSY TILLERS1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>Ifa1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/ifa1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/ifa1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/ifa1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/ifa1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb008680 Gene Symbol: Ifa1 Gene Name: indeterminate floral apex1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>KNR6</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/knr6/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/knr6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/knr6/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/knr6/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb273900 Gene Symbol: KNR6 Gene Name: KERNEL NUMBER PER ROW6 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>LBL1;rgd1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/lbl1rgd1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/lbl1rgd1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/lbl1rgd1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/lbl1rgd1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb264310 Gene Symbol: LBL1 rgd1 Gene Name: ragged seedling1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>LRP1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/lrp1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/lrp1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/lrp1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/lrp1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb362740 Gene Symbol: LRP1 Gene Name: LATERAL ROOT PRIMORDIA 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>Ra1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/ra1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/ra1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/ra1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/ra1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb312340 Gene Symbol: Ra1 Gene Name: ramosa1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>RA3</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/ra3/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/ra3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/ra3/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/ra3/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb327910 Gene Symbol: RA3 Gene Name: RAMOSA3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>Td1;ZmRLK</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/td1zmrlkzmkin5/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/td1zmrlkzmkin5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/td1zmrlkzmkin5/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/td1zmrlkzmkin5/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb228140 Gene Symbol: Td1 ZmRLK ZmKIN5 Gene Name: thick tassel dwarf1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>THI2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/thi2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/thi2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/thi2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/thi2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb159850 Gene Symbol: THI2 Gene Name: thiamine biosynthesis2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>Vt2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/vt2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/vt2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/vt2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/vt2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb336530 Gene Symbol: Vt2 Gene Name: vanishing tassel2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>YIGE1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/yige1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/yige1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/yige1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/yige1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb014970 Gene Symbol: YIGE1 Gene Name: yige1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>YIGE1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb014970/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb014970/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb014970/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb014970/</guid>
       <description>Gene Details: Gene ID: Zm00001eb014970 Gene Symbol: YIGE1 Gene Name: yige1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZCN1;pebp1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zcn1pebp1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zcn1pebp1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zcn1pebp1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zcn1pebp1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb164120 Gene Symbol: ZCN1 pebp1 Gene Name: phosphatidylethanolamine-binding protein1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmABCB1|Br2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/br2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/br2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/br2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/br2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb038710 Gene Symbol: Br2 Gene Name: brachytic2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmACO2;ZmACOB</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmaco2zmacobacco2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmaco2zmacobacco2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmaco2zmacobacco2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmaco2zmacobacco2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb314610 Gene Symbol: ZmACO2 ZmACOB acco2 Gene Name: 1-aminocyclopropane-1-carboxylate oxidase2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmAMP1_grmm</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmamp1_grmm/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmamp1_grmm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmamp1_grmm/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmamp1_grmm/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb060210 Gene Symbol: ZmAMP1_grmm Gene Name: LBD-transcription factor 13 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmBAM1d</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmbam1d/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmbam1d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmbam1d/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmbam1d/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb009640 Gene Symbol: ZmBAM1d Gene Name: BARELY ANY MERISTEM 1d ortholog Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmCLE7</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/grmzm2g372364/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/grmzm2g372364/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/grmzm2g372364/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/grmzm2g372364/</guid>
       <description>Gene Details: Gene ID: GRMZM2G372364 Gene Symbol: ZmCLE7 Gene Name: clavata3/esr-related7 Genome: B73_RefGen_v3 Species: Zea mays Functional Descriptions: CRISPR–Cas9 to edit maize CLE promoters and a newly characterized maize CLE gene identified through its compensatory upregulation in a ZmCLE7 mutant.</description>
     </item>
     <item>
       <title>ZmCOLD1-2;cold2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmcold1-2cold2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmcold1-2cold2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcold1-2cold2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmcold1-2cold2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001d002431 Gene Symbol: ZmCOLD1-2 cold2 Gene Name: cold rsponsive2 Genome: Zm-B73-REFERENCE-GRAMENE-4.</description>
     </item>
     <item>
       <title>ZmCT2;ct2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmct2ct2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmct2ct2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmct2ct2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmct2ct2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb005840 Gene Symbol: ZmCT2 ct2 Gene Name: compact plant2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmFCP1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb079890/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb079890/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb079890/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb079890/</guid>
       <description>Gene Details: Gene ID: Zm00001eb079890 Gene Symbol: ZmFCP1 Gene Name: fon2-like cle protein1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmLBD18</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb123060/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb123060/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb123060/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb123060/</guid>
       <description>Gene Details: Gene ID: Zm00001eb123060 Gene Symbol: ZmLBD18|ra2 Gene Name: ramosa2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>Zmlox4</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb054050/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb054050/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb054050/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb054050/</guid>
       <description>Gene Details: Gene ID: Zm00001eb054050 Gene Symbol: Zmlox4 Gene Name: lipoxygenase4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZMM14</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmm14/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmm14/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmm14/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmm14/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb008690 Gene Symbol: ZMM14;ZmMADS14 Gene Name: Zea mays MADS14 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZMM8</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmm8/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmm8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmm8/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmm8/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb400120 Gene Symbol: ZMM8;ZmMADS8 Gene Name: Zea mays MADS8 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmNAC36;KIL1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmnac36kil1nactf36/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmnac36kil1nactf36/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnac36kil1nactf36/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmnac36kil1nactf36/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb077580 Gene Symbol: ZmNAC36 KIL1 nactf36 Gene Name: KIRA1-LIKE1;NAC-transcription factor 36 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmSMU2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmsmu2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmsmu2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmsmu2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmsmu2/</guid>
       <description>Gene Details: Gene ID: Gene Symbol: ZmSMU2 Gene Name: Putative splicing factor Genome: Species: Zea mays Functional Descriptions: The Maize ZmSMU2 Gene Encodes a Putative RNA-Splicing Factor That Affects Protein Synthesis and RNA Processing during Endosperm Development.</description>
     </item>
     <item>
       <title>ZmSPL13;ZmSBP13</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmspl13zmsbp13zmglw7-1sbp13/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmspl13zmsbp13zmglw7-1sbp13/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmspl13zmsbp13zmglw7-1sbp13/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmspl13zmsbp13zmglw7-1sbp13/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb105640 Gene Symbol: ZmSPL13 ZmSBP13 ZmGLW7-1 sbp13 Gene Name: SBP-transcription factor 13 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmSPL29;ZmSBP18</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmspl29zmsbp18sbp29/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmspl29zmsbp18sbp29/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmspl29zmsbp18sbp29/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmspl29zmsbp18sbp29/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb322280 Gene Symbol: ZmSPL29 ZmSBP18 sbp29 Gene Name: SBP-transcription factor 29 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmTAC1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmtac1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmtac1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmtac1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmtac1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb103250 Gene Symbol: ZmTAC1 Gene Name: tiller angle control1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmTE1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmte1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmte1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmte1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmte1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb144140 Gene Symbol: ZmTE1 Gene Name: TERMINAL EAR 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmWUS1;ZmWUSCHEL1;hb67</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmwus1hb67/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmwus1hb67/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmwus1hb67/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmwus1hb67/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb067310 Gene Symbol: ZmWUS1 ZmWUSCHEL1 hb67 Gene Name: Homeobox-transcription factor 67 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

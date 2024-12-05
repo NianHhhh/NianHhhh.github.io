@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ethylene response on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/ethylene-response/</link>
+    <link>https://funplantgenes.wiki/tags/ethylene-response/</link>
     <description>Recent content in ethylene response on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/ethylene-response/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/ethylene-response/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ERF4;ERF7</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/erf4erf7ereb97/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/erf4erf7ereb97/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/erf4erf7ereb97/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/erf4erf7ereb97/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb071190 Gene Symbol: ERF4 ERF7 ereb97 Gene Name: AP2-EREBP-transcription factor 97 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmEREB179</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb006160/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb006160/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb006160/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb006160/</guid>
       <description>Gene Details: Gene ID: Zm00001eb006160 Gene Symbol: ZmEREB179 Gene Name: AP2-EREBP transcription factor 179 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmMPK17</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb209160/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb209160/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb209160/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb209160/</guid>
       <description>Gene Details: Gene ID: Zm00001eb209160 Gene Symbol: ZmMPK17 Gene Name: MAP kinase17 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

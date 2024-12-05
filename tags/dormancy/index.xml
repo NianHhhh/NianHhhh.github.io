@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dormancy on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/dormancy/</link>
+    <link>https://funplantgenes.wiki/tags/dormancy/</link>
     <description>Recent content in dormancy on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/dormancy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/dormancy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ABI51</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/abi51/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/abi51/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/abi51/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/abi51/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb413890 Gene Symbol: ABI51 Gene Name: ABI3-VP1-transcription factor 51 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

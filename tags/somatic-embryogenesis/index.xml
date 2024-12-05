@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>somatic embryogenesis on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/somatic-embryogenesis/</link>
+    <link>https://funplantgenes.wiki/tags/somatic-embryogenesis/</link>
     <description>Recent content in somatic embryogenesis on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/somatic-embryogenesis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/somatic-embryogenesis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ZmMADS3</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmmads3/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmmads3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmads3/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmmads3/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb298680 Gene Symbol: ZmMADS3 Gene Name: MADS3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmWOX2A;Wox2a</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmwox2awox2a/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmwox2awox2a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmwox2awox2a/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmwox2awox2a/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb148390 Gene Symbol: ZmWOX2A Wox2a Gene Name: Wuschel-like homeobox protein 2a Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmWus2;ZmWuschel2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmwus2zmwuschel2hb122wus2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmwus2zmwuschel2hb122wus2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmwus2zmwuschel2hb122wus2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmwus2zmwuschel2hb122wus2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb433010 Gene Symbol: ZmWus2 ZmWuschel2 hb122 wus2 Gene Name: Homeobox-transcription factor 122 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

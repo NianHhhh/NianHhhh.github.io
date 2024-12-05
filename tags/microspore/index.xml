@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>microspore on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/microspore/</link>
+    <link>https://funplantgenes.wiki/tags/microspore/</link>
     <description>Recent content in microspore on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/microspore/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/microspore/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zm401p10;Zm401</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm401p10zm401psp401/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm401p10zm401psp401/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm401p10zm401psp401/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm401p10zm401psp401/</guid>
       <description>Gene Details: Gene ID:&#x9;AY911609 Gene Symbol: Zm401p10 Zm401 psp401 Gene Name: pollen-specific protein 401 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmDRP1;drp1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmdrp1drp1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmdrp1drp1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmdrp1drp1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmdrp1drp1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb267820 Gene Symbol: ZmDRP1 drp1 Gene Name: desiccation-related protein1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

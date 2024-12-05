@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>homeobox gene on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/homeobox-gene/</link>
+    <link>https://funplantgenes.wiki/tags/homeobox-gene/</link>
     <description>Recent content in homeobox gene on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/homeobox-gene/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/homeobox-gene/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GN1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/gn1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/gn1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/gn1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/gn1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb117820 Gene Symbol: GN1 Gene Name: Gnarley1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>NS1;ZmWOX3</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/ns1zmwox3zmhb125/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/ns1zmwox3zmhb125/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/ns1zmwox3zmhb125/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/ns1zmwox3zmhb125/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb092480 Gene Symbol: NS1 ZmWOX3 ZmHB125 Gene Name: narrow sheath1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>NS2;ZmWOX9</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/ns2zmwox9qtbn4-2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/ns2zmwox9qtbn4-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/ns2zmwox9qtbn4-2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/ns2zmwox9qtbn4-2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb197430 Gene Symbol: NS2 ZmWOX9 qTBN4-2 Gene Name: narrow sheath2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>RS2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/rs2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/rs2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/rs2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/rs2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb029300 Gene Symbol: RS2 Gene Name: rough sheath2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmWOX2A;Wox2a</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmwox2awox2a/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmwox2awox2a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmwox2awox2a/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmwox2awox2a/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb148390 Gene Symbol: ZmWOX2A Wox2a Gene Name: Wuschel-like homeobox protein 2a Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

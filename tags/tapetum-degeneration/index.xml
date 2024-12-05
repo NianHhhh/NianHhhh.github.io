@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tapetum degeneration on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/tapetum-degeneration/</link>
+    <link>https://funplantgenes.wiki/tags/tapetum-degeneration/</link>
     <description>Recent content in tapetum degeneration on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/tapetum-degeneration/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/tapetum-degeneration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IPE2;ms5</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/ipe2ms5/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/ipe2ms5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/ipe2ms5/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/ipe2ms5/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb237060 Gene Symbol: IPE2 ms5 Gene Name: IRREGULAR POLLEN EXINE2;male sterile5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmMS1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb272570/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb272570/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb272570/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb272570/</guid>
       <description>Gene Details: Gene ID: Zm00001eb272570 Gene Symbol: ZmMS1|ZmLBD30 Gene Name: male sterile1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

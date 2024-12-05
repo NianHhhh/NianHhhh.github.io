@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>small leaves on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/small-leaves/</link>
+    <link>https://funplantgenes.wiki/tags/small-leaves/</link>
     <description>Recent content in small leaves on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/small-leaves/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/small-leaves/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>D3;ZmKAO</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/d3zmkaozmkao1zmgad5gad5/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/d3zmkaozmkao1zmgad5gad5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/d3zmkaozmkao1zmgad5gad5/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/d3zmkaozmkao1zmgad5gad5/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb379120 Gene Symbol: D3 ZmKAO ZmKAO1 ZmGAD5 gad5 Gene Name: dwarf plant 3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

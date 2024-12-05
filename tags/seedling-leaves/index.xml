@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>seedling leaves on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/seedling-leaves/</link>
+    <link>https://funplantgenes.wiki/tags/seedling-leaves/</link>
     <description>Recent content in seedling leaves on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/seedling-leaves/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/seedling-leaves/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gl8</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/gl8/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/gl8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/gl8/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/gl8/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb246270 Gene Symbol: Gl8 Gene Name: glossy8 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmHAK5</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmhak5/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmhak5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmhak5/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmhak5/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb142370 Gene Symbol: ZmHAK5 Gene Name: potassium high-affinity transporter5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

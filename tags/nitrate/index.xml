@@ -2,100 +2,100 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>nitrate on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/nitrate/</link>
+    <link>https://funplantgenes.wiki/tags/nitrate/</link>
     <description>Recent content in nitrate on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/nitrate/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/nitrate/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NIGT1.2;ZmNIGT1.2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/nigt1.2zmnigt1.2glk4/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/nigt1.2zmnigt1.2glk4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/nigt1.2zmnigt1.2glk4/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/nigt1.2zmnigt1.2glk4/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb406610 Gene Symbol: NIGT1.2 ZmNIGT1.2 glk4 Gene Name: NITRATE-INDUCIBLE, GARP-TYPE TRANSCRIPTIOANL REPRESSOR1.</description>
     </item>
     <item>
       <title>ZmCEP1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmcep1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmcep1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcep1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmcep1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb038200 Gene Symbol: ZmCEP1 Gene Name: C-terminally encoded peptide1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmGLN1.2;gln2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmgln1.2gln2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmgln1.2gln2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmgln1.2gln2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmgln1.2gln2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb054990 Gene Symbol: ZmGLN1.2 gln2 Gene Name: glutamine synthetase2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmMYB81;myb81</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmmyb81myb81/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmmyb81myb81/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmyb81myb81/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmmyb81myb81/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb124630 Gene Symbol: ZmMYB81 myb81 Gene Name: MYB-transcription factor 81 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmNPF6.5;ZmNRT1.1D</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmnpf6.5zmnrt1.1dnpf4/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmnpf6.5zmnrt1.1dnpf4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnpf6.5zmnrt1.1dnpf4/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmnpf6.5zmnrt1.1dnpf4/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb000390 Gene Symbol: ZmNPF6.5 ZmNRT1.1D npf4 Gene Name: nitrate transporter/peptide transporter family4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmNPF6.8;ZmNRT1.3</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmnpf6.8zmnrt1.3npf9/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmnpf6.8zmnrt1.3npf9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnpf6.8zmnrt1.3npf9/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmnpf6.8zmnrt1.3npf9/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb245250 Gene Symbol: ZmNPF6.8 ZmNRT1.3 npf9 Gene Name: nitrate transporter/peptide transporter family9 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmNRT1.1A;ZmNPF6.4</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmnrt1.1azmnpf6.4npf1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmnrt1.1azmnpf6.4npf1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnrt1.1azmnpf6.4npf1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmnrt1.1azmnpf6.4npf1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb416090 Gene Symbol: ZmNRT1.1A ZmNPF6.4 npf1 Gene Name: nitrate transporter/peptide transporter family1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmNRT1.1B;ZmNPF6.6</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmnrt1.1bzmnpf6.6npf2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmnrt1.1bzmnpf6.6npf2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnrt1.1bzmnpf6.6npf2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmnrt1.1bzmnpf6.6npf2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb023600 Gene Symbol: ZmNRT1.1B ZmNPF6.6 npf2 Gene Name: nitrate transporter/peptide transporter family2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmNRT2.5;nrt5</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmnrt2.5nrt5/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmnrt2.5nrt5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnrt2.5nrt5/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmnrt2.5nrt5/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb361110 Gene Symbol: ZmNRT2.5 nrt5 Gene Name: nitrate transport5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmNRT3.1A;npf5</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmnrt3.1anpf5/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmnrt3.1anpf5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnrt3.1anpf5/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmnrt3.1anpf5/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb246140 Gene Symbol: ZmNRT3.1A npf5 Gene Name: nitrate transporter/peptide transporter family5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmPIN1a;pin1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmpin1apin1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmpin1apin1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpin1apin1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmpin1apin1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb372180 Gene Symbol: ZmPIN1a pin1 Gene Name: PIN-formed protein1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmSUGCAR1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb304390/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb304390/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb304390/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb304390/</guid>
       <description>Gene Details: Gene ID: Zm00001eb304390 Gene Symbol: ZmSUGCAR1|ZmNPF7.9|MN2 Gene Name: Sucrose and Glucose Carrier1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmTMM1;mads26</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmtmm1mads26/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmtmm1mads26/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmtmm1mads26/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmtmm1mads26/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb253580 Gene Symbol: ZmTMM1 mads26 Gene Name: MADS-transcription factor 26 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

@@ -2,86 +2,86 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sugar transport on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/sugar-transport/</link>
+    <link>https://funplantgenes.wiki/tags/sugar-transport/</link>
     <description>Recent content in sugar transport on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/sugar-transport/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/sugar-transport/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Abi5</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/abi5/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/abi5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/abi5/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/abi5/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb218990 Gene Symbol: Abi5 Gene Name: ABI3-VP1-transcription factor 5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ABI51</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/abi51/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/abi51/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/abi51/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/abi51/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb413890 Gene Symbol: ABI51 Gene Name: ABI3-VP1-transcription factor 51 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>tdy2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb259620/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb259620/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb259620/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb259620/</guid>
       <description>Gene Details: Gene ID: Zm00001eb259620 Gene Symbol: tdy2 Gene Name: tie-dyed2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmbZIP113;bzip113</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmbzip113bzip113/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmbzip113bzip113/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmbzip113bzip113/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmbzip113bzip113/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb431760 Gene Symbol: ZmbZIP113 bzip113 Gene Name: bZIP-transcription factor 113 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmCEP1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmcep1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmcep1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcep1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmcep1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb038200 Gene Symbol: ZmCEP1 Gene Name: C-terminally encoded peptide1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmSUGCAR1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb304390/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb304390/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb304390/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb304390/</guid>
       <description>Gene Details: Gene ID: Zm00001eb304390 Gene Symbol: ZmSUGCAR1|ZmNPF7.9|MN2 Gene Name: Sucrose and Glucose Carrier1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmSWEET14a;ZmSWEET3</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmsweet14azmsweet3/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmsweet14azmsweet3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmsweet14azmsweet3/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmsweet14azmsweet3/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb113080 Gene Symbol: ZmSWEET14a ZmSWEET3 Gene Name: sugars will eventually be exported transporter14a Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmSWEET15a;ZmSWEET10</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmsweet15azmsweet10zmsweet9/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmsweet15azmsweet10zmsweet9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmsweet15azmsweet10zmsweet9/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmsweet15azmsweet10zmsweet9/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb180830 Gene Symbol: ZmSWEET15a ZmSWEET10 ZmSWEET9 Gene Name: Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmSWEET3a;ZmSWEET15</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmsweet3azmsweet15zmsweet16/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmsweet3azmsweet15zmsweet16/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmsweet3azmsweet15zmsweet16/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmsweet3azmsweet15zmsweet16/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb350590 Gene Symbol: ZmSWEET3a ZmSWEET15 ZmSWEET16 Gene Name: sugars will eventually be exported transporter3a Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmSWEET4c</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmsweet4c/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmsweet4c/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmsweet4c/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmsweet4c/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb236810 Gene Symbol: ZmSWEET4c Gene Name: sugars will eventually be exported transporter4c Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmWRKY031;ZmWRKY130</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmwrky031zmwrky130zmwrky54wrky54/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmwrky031zmwrky130zmwrky54wrky54/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmwrky031zmwrky130zmwrky54wrky54/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmwrky031zmwrky130zmwrky54wrky54/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb148260 Gene Symbol: ZmWRKY031 ZmWRKY130 ZmWRKY54 wrky54 Gene Name: WRKY-transcription factor 54 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

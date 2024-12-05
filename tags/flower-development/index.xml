@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>flower development on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/flower-development/</link>
+    <link>https://funplantgenes.wiki/tags/flower-development/</link>
     <description>Recent content in flower development on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/flower-development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/flower-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>si3</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/si3/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/si3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/si3/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/si3/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb086630 Gene Symbol: si3 Gene Name: Silky3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmACO2;ZmACOB</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmaco2zmacobacco2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmaco2zmacobacco2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmaco2zmacobacco2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmaco2zmacobacco2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb314610 Gene Symbol: ZmACO2 ZmACOB acco2 Gene Name: 1-aminocyclopropane-1-carboxylate oxidase2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmMADS3</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmmads3/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmmads3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmmads3/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmmads3/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb298680 Gene Symbol: ZmMADS3 Gene Name: MADS3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

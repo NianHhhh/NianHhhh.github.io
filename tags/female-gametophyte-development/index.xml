@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>female gametophyte development on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/female-gametophyte-development/</link>
+    <link>https://funplantgenes.wiki/tags/female-gametophyte-development/</link>
     <description>Recent content in female gametophyte development on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/female-gametophyte-development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/female-gametophyte-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ig2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/ig2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/ig2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/ig2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/ig2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb360520 Gene Symbol: Ig2 Gene Name: indeterminate gametophyte2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmLBD19;IG1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmlbd19ig1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmlbd19ig1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmlbd19ig1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmlbd19ig1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb145150 Gene Symbol: ZmLBD19 IG1 Gene Name: indeterminate gametophyte1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

@@ -2,100 +2,100 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>zinc on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/zinc/</link>
+    <link>https://funplantgenes.wiki/tags/zinc/</link>
     <description>Recent content in zinc on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/zinc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/zinc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ra1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/ra1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/ra1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/ra1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/ra1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb312340 Gene Symbol: Ra1 Gene Name: ramosa1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmDof01;dof21</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmdof01dof21zinc-finger-21/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmdof01dof21zinc-finger-21/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmdof01dof21zinc-finger-21/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmdof01dof21zinc-finger-21/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb005380 Gene Symbol: ZmDof01 dof21 Zinc Finger 21 Gene Name: C2C2-Dof-transcription factor 21 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmHO-1;HO1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmho-1ho1elm2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmho-1ho1elm2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmho-1ho1elm2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmho-1ho1elm2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb386220 Gene Symbol: ZmHO-1 HO1 elm2 Gene Name: elongated mesocotyl2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmIDD14</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb314580/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb314580/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb314580/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb314580/</guid>
       <description>Gene Details: Gene ID: Zm00001eb314580 Gene Symbol: ZmIDD14 Gene Name: indeterminate domain14 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmIDD15</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb037730/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb037730/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb037730/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb037730/</guid>
       <description>Gene Details: Gene ID: Zm00001eb037730 Gene Symbol: ZmIDD15|ZmIDD3 Gene Name: indeterminate domain3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmIDD5;id1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmidd5id1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmidd5id1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmidd5id1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmidd5id1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb047750 Gene Symbol: ZmIDD5 id1 Gene Name: indeterminate growth1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmIRT1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb052440/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb052440/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb052440/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb052440/</guid>
       <description>Gene Details: Gene ID: Zm00001eb052440 Gene Symbol: ZmIRT1 Gene Name: iron-regulated transporter1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmIRT2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb065410/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb065410/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb065410/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb065410/</guid>
       <description>Gene Details: Gene ID: Zm00001eb065410 Gene Symbol: ZmIRT2|ZmZIP3 Gene Name: Zm00001eb065410 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmLAZ1-4;laz4</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmlaz1-4laz4/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmlaz1-4laz4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmlaz1-4laz4/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmlaz1-4laz4/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb211390 Gene Symbol: ZmLAZ1-4 laz4 Gene Name: lazarus ortholog4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmLSD1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmlsd1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmlsd1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmlsd1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmlsd1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb173250 Gene Symbol: ZmLSD1 Gene Name: Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmMBD101</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb349820/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb349820/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb349820/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb349820/</guid>
       <description>Gene Details: Gene ID: Zm00001eb349820 Gene Symbol: ZmMBD101 Gene Name: methyl binding domain101 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmSOC1|ZmMADS1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmsoc1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmsoc1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmsoc1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmsoc1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb403750 Gene Symbol: ZmSOC1ZmMADS1 Gene Name: SUPPRESSOR OF OVEREXPRESSION OF CONSTANS 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmZIP5</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb277370/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb277370/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb277370/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb277370/</guid>
       <description>Gene Details: Gene ID: Zm00001eb277370 Gene Symbol: ZmZIP5 Gene Name: zinc-regulated, iron-regulated transporter-like protein5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

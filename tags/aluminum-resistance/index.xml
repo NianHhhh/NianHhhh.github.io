@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>aluminum resistance on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/aluminum-resistance/</link>
+    <link>https://funplantgenes.wiki/tags/aluminum-resistance/</link>
     <description>Recent content in aluminum resistance on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/aluminum-resistance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/aluminum-resistance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ZmNRT1.1A;ZmNPF6.4</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmnrt1.1azmnpf6.4npf1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmnrt1.1azmnpf6.4npf1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmnrt1.1azmnpf6.4npf1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmnrt1.1azmnpf6.4npf1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb416090 Gene Symbol: ZmNRT1.1A ZmNPF6.4 npf1 Gene Name: nitrate transporter/peptide transporter family1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

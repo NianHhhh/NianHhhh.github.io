@@ -2,86 +2,86 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>signal transduction on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/signal-transduction/</link>
+    <link>https://funplantgenes.wiki/tags/signal-transduction/</link>
     <description>Recent content in signal transduction on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/signal-transduction/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/signal-transduction/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lax1;aic1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/lax1aic1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/lax1aic1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/lax1aic1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/lax1aic1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb026490 Gene Symbol: Lax1 aic1 Gene Name: like-auxin1;auxin import carrier1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>Lax2;aic3</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/lax2aic3/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/lax2aic3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/lax2aic3/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/lax2aic3/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb010460 Gene Symbol: Lax2 aic3 Gene Name: like-auxin2;auxin import carrier3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>LRP1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/lrp1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/lrp1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/lrp1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/lrp1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb362740 Gene Symbol: LRP1 Gene Name: LATERAL ROOT PRIMORDIA 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>RUM1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/rum1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/rum1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/rum1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/rum1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb156910 Gene Symbol: RUM1 Gene Name: ROOTLESS WITH UNDETECTABLE MERISTEMS 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmABI19;ZmAFL2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmabi19zmafl2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmabi19zmafl2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmabi19zmafl2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmabi19zmafl2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb361390 Gene Symbol: ZmABI19 ZmAFL2 Gene Name: ABI3-VP1-transcription factor 19 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmCDPK17;ZmCDPK18</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmcdpk17zmcdpk18zmcdpk19zmcdpk22cdpk23/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmcdpk17zmcdpk18zmcdpk19zmcdpk22cdpk23/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcdpk17zmcdpk18zmcdpk19zmcdpk22cdpk23/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmcdpk17zmcdpk18zmcdpk19zmcdpk22cdpk23/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb312910 Gene Symbol: ZmCDPK17 ZmCDPK18 ZmCDPK19 ZmCDPK22 cdpk23 Gene Name: calcium dependent protein kinase23 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmCOP1;ZmCOP1a</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmcop1zmcop1aupl13/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmcop1zmcop1aupl13/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcop1zmcop1aupl13/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmcop1zmcop1aupl13/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb256270 Gene Symbol: ZmCOP1 ZmCOP1a upl13 Gene Name: ubiquitin-protein ligase13 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmERF1;RAP2-2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmerf1rap2-2ereb202/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmerf1rap2-2ereb202/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmerf1rap2-2ereb202/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmerf1rap2-2ereb202/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb099980 Gene Symbol: ZmERF1 RAP2-2 ereb202 Gene Name: AP2-EREBP-transcription factor 202 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmGA2ox;ZmGA2ox6</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmga2oxzmga2ox6ga2ox6/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmga2oxzmga2ox6ga2ox6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmga2oxzmga2ox6ga2ox6/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmga2oxzmga2ox6ga2ox6/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb283860 Gene Symbol: ZmGA2ox ZmGA2ox6 ga2ox6 Gene Name: gibberellin 2-oxidase6 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmPP84;ZmPP2C47</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmpp84zmpp2c47zmpp2c94prh94/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmpp84zmpp2c47zmpp2c94prh94/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpp84zmpp2c47zmpp2c94prh94/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmpp84zmpp2c47zmpp2c94prh94/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb232360 Gene Symbol: ZmPP84 ZmPP2C47 ZmPP2C94 prh94 Gene Name: protein phosphatase homolog94 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmRL6;rl1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmrl6rl1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmrl6rl1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmrl6rl1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmrl6rl1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb296840 Gene Symbol: ZmRL6 rl1 Gene Name: radialis homolog1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

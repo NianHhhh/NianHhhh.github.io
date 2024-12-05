@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sucrose supply on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/sucrose-supply/</link>
+    <link>https://funplantgenes.wiki/tags/sucrose-supply/</link>
     <description>Recent content in sucrose supply on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/sucrose-supply/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/sucrose-supply/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ZmCESA5;ENB1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmcesa5enb1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmcesa5enb1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcesa5enb1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmcesa5enb1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb061800 Gene Symbol: ZmCESA5 ENB1 Gene Name: cellulose synthase5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>phosphate homeostasis on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/phosphate-homeostasis/</link>
+    <link>https://funplantgenes.wiki/tags/phosphate-homeostasis/</link>
     <description>Recent content in phosphate homeostasis on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/phosphate-homeostasis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/phosphate-homeostasis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ZmPHO2;PHO2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmpho2pho2uce10/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmpho2pho2uce10/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpho2pho2uce10/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmpho2pho2uce10/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb295490 Gene Symbol: ZmPHO2 PHO2 uce10 Gene Name: Phosphate 2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

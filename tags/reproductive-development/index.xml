@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>reproductive development on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/reproductive-development/</link>
+    <link>https://funplantgenes.wiki/tags/reproductive-development/</link>
     <description>Recent content in reproductive development on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/reproductive-development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/reproductive-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vt2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/vt2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/vt2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/vt2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/vt2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb336530 Gene Symbol: Vt2 Gene Name: vanishing tassel2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmFTSH10;ndl1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmftsh10ndl1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmftsh10ndl1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmftsh10ndl1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmftsh10ndl1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb351270 Gene Symbol: ZmFTSH10 ndl1 Gene Name: needle1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmNDL1;NDL1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmndl1ndl1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmndl1ndl1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmndl1ndl1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmndl1ndl1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb351270 Gene Symbol: ZmNDL1 NDL1 Gene Name: NEEDLE1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmTFCB;tfcb1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmtfcbtfcb1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmtfcbtfcb1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmtfcbtfcb1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmtfcbtfcb1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb076570 Gene Symbol: ZmTFCB tfcb1 Gene Name: tubulin-folding cofactor B1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmTti2;TTI2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmtti2tti2dek38/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmtti2tti2dek38/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmtti2tti2dek38/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmtti2tti2dek38/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb226270 Gene Symbol: ZmTti2 TTI2 dek38 Gene Name: defective kernel38 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

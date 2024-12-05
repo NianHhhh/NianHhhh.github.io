@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tiller bud outgrowth on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/tiller-bud-outgrowth/</link>
+    <link>https://funplantgenes.wiki/tags/tiller-bud-outgrowth/</link>
     <description>Recent content in tiller bud outgrowth on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/tiller-bud-outgrowth/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/tiller-bud-outgrowth/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>tin1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/tin1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/tin1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/tin1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/tin1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb300220 Gene Symbol: tin1 Gene Name: tiller number 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>Zcn8;pebp8</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zcn8pebp8/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zcn8pebp8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zcn8pebp8/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zcn8pebp8/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb353250 Gene Symbol: Zcn8 pebp8 Gene Name: phosphatidylethanolamine-binding protein8 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

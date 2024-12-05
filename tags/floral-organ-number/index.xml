@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>floral organ number on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/floral-organ-number/</link>
+    <link>https://funplantgenes.wiki/tags/floral-organ-number/</link>
     <description>Recent content in floral organ number on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/floral-organ-number/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/floral-organ-number/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ZmLFY1;zfl2</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmlfy1zfl2/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmlfy1zfl2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmlfy1zfl2/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmlfy1zfl2/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb071990 Gene Symbol: ZmLFY1 zfl2 Gene Name: Zea floricaula leafy2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmLFY2;zfl1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmlfy2zfl1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmlfy2zfl1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmlfy2zfl1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmlfy2zfl1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb430240 Gene Symbol: ZmLFY2 zfl1 Gene Name: zea floricaula/leafy1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

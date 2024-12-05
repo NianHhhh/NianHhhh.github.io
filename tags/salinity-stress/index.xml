@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>salinity stress on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/salinity-stress/</link>
+    <link>https://funplantgenes.wiki/tags/salinity-stress/</link>
     <description>Recent content in salinity stress on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/salinity-stress/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/salinity-stress/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ORF355</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/orf355/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/orf355/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/orf355/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/orf355/</guid>
       <description>Gene Details: Gene ID:&#x9;Gene Symbol: ORF355 Gene Name: ORF355 Genome: Species: Zea mays Functional Descriptions: ORF355 confers enhanced salinity stress adaptability to S-type cytoplasmic male sterility maize by modulating the mitochondrial metabolic homeostasis.</description>
     </item>
     <item>
       <title>ZmCBL4;ZmCBL8</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmcbl4zmcbl8cbl8/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmcbl4zmcbl8cbl8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcbl4zmcbl8cbl8/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmcbl4zmcbl8cbl8/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb203330 Gene Symbol: ZmCBL4 ZmCBL8 cbl8 Gene Name: calcineurin B-like8 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmCOI6.1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmcoi6.1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmcoi6.1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmcoi6.1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmcoi6.1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb398970 Gene Symbol: ZmCOI6.1 Gene Name: stress inducible protein coi6.</description>
     </item>
     <item>
       <title>ZmGRXCC5;grx12</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmgrxcc5grx12/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmgrxcc5grx12/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmgrxcc5grx12/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmgrxcc5grx12/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb121020 Gene Symbol: ZmGRXCC5 grx12 Gene Name: glutaredoxin12 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmRAFS;ZmRS</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmrafszmrsrafs1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmrafszmrsrafs1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmrafszmrsrafs1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmrafszmrsrafs1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb122980 Gene Symbol: ZmRAFS ZmRS rafs1 Gene Name: raffinose synthase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmVp14;vp14</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmvp14vp14nced1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmvp14vp14nced1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmvp14vp14nced1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmvp14vp14nced1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb050380 Gene Symbol: ZmVp14 vp14 NCED1 Gene Name: viviparous14 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

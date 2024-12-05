@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>innate immunity on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/innate-immunity/</link>
+    <link>https://funplantgenes.wiki/tags/innate-immunity/</link>
     <description>Recent content in innate immunity on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/innate-immunity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/innate-immunity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ZmPep1;propep1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmpep1propep1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmpep1propep1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpep1propep1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmpep1propep1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb069090 Gene Symbol: ZmPep1 propep1 Gene Name: precursor elicitor peptide1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>protein translation on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/protein-translation/</link>
+    <link>https://funplantgenes.wiki/tags/protein-translation/</link>
     <description>Recent content in protein translation on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/protein-translation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/protein-translation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fl3</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001eb341550/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001eb341550/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001eb341550/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001eb341550/</guid>
       <description>Gene Details: Gene ID: Zm00001eb341550 Gene Symbol: Fl3 Gene Name: floury3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>RCL1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/rcl1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/rcl1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/rcl1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/rcl1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb316080 Gene Symbol: RCL1 Gene Name: RNA 3&amp;rsquo;-terminal phosphate cyclase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZAG1;ZmMADS37</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zag1zmmads37/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zag1zmmads37/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zag1zmmads37/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zag1zmmads37/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb284010 Gene Symbol: ZAG1 ZmMADS37 Gene Name: Zea AGAMOUS homolog1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
     <item>
       <title>ZmmtRF2a</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zm00001d018330/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zm00001d018330/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zm00001d018330/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zm00001d018330/</guid>
       <description>Gene Details: Gene ID: Zm00001d018330 Gene Symbol: ZmmtRF2a Gene Name: crumpled kernel5 Genome: Zm-B73-REFERENCE-GRAMENE-4.</description>
     </item>
     <item>
       <title>ZmRF5</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmrf5/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmrf5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmrf5/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmrf5/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00031ab118460 Gene Symbol: ZmRF5 Gene Name: Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>

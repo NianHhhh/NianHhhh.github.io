@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>phosphate acquisition on funPlantGenes</title>
-    <link>https://nianhhhh.github.io/tags/phosphate-acquisition/</link>
+    <link>https://funplantgenes.wiki/tags/phosphate-acquisition/</link>
     <description>Recent content in phosphate acquisition on funPlantGenes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://nianhhhh.github.io/tags/phosphate-acquisition/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://funplantgenes.wiki/tags/phosphate-acquisition/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ZmPT7;pht1</title>
-      <link>https://nianhhhh.github.io/genes/zea_mays/zmpt7pht1/</link>
+      <link>https://funplantgenes.wiki/genes/zea_mays/zmpt7pht1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nianhhhh.github.io/genes/zea_mays/zmpt7pht1/</guid>
+      <guid>https://funplantgenes.wiki/genes/zea_mays/zmpt7pht1/</guid>
       <description>Gene Details: Gene ID:&#x9;Zm00001eb222510 Gene Symbol: ZmPT7 pht1 Gene Name: phosphate transporter protein1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
     </item>
   </channel>
